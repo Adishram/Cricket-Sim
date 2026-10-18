@@ -1,0 +1,10 @@
+import type {Side,Pitch,Cricketer} from './index';
+import {bowlingKind} from './matchup';
+export type BowlingPlan={line:'stumps'|'off'|'wide';length:'good'|'full'|'short'|'yorker'|'wide-yorker';pace:'stock'|'slower'|'effort'};
+export const DEFAULT_BOWLING:BowlingPlan={line:'off',length:'good',pace:'stock'};
+export type BattingStyle='balanced'|'anchor'|'rotate'|'power'|'sweep';
+export const BATTING_STYLES:Record<BattingStyle,string>={balanced:'Balanced',anchor:'Anchor',rotate:'Rotate strike',power:'Power hitter',sweep:'Sweep & manipulate'};
+const canBowl=(p:Cricketer)=>/bowl|all/i.test(p.role);
+export function rotationProblems(side:Side,plan:string[]){const errors:string[]=[];if(plan.length!==20)errors.push('Assign all 20 overs.');const count=new Map<string,number>();plan.forEach((id,n)=>{if(!side.xi.some(p=>p.id===id&&canBowl(p)))errors.push(`Over ${n+1}: choose a bowler in the XI.`);if(n&&plan[n-1]===id)errors.push(`Overs ${n} and ${n+1}: a bowler cannot bowl consecutive overs.`);count.set(id,(count.get(id)??0)+1);});for(const [id,n] of count)if(n>4)errors.push(`${side.xi.find(p=>p.id===id)?.name??id}: maximum four overs.`);return errors;}
+export function autoRotation(side:Side,pitch:Pitch){const pool=side.xi.filter(canBowl),plan:string[]=[],used:Record<string,number>={};for(let over=0;over<20;over++){const remain=19-over;const options=pool.filter(p=>p.id!==plan.at(-1)&&(used[p.id]??0)<4&&pool.reduce((n,q)=>n+Math.min(4-(used[q.id]??0)-(q.id===p.id?1:0),q.id===p.id?Math.floor(remain/2):Math.ceil(remain/2)),0)>=remain);options.sort((a,b)=>{const rank=(p:Cricketer)=>p.bowling-(used[p.id]??0)*7+(bowlingKind(p.style)==='spin'?(over>=6&&over<15?8:0)+(pitch.spin-50)*.1:(over<6||over>=15?8:0)+(pitch.pace-50)*.1);return rank(b)-rank(a)||a.id.localeCompare(b.id);});if(!options.length)throw Error('Unable to create a legal bowling rotation.');const id=options[0].id;plan.push(id);used[id]=(used[id]??0)+1;}return plan;}
+export function executionChance(control:number,plan:BowlingPlan){return Math.max(.35,Math.min(.88,.48+(control-50)*.006-(plan.length==='wide-yorker'?.05:0)-(plan.pace==='effort'?.06:0)));}

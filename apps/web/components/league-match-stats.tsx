@@ -1,0 +1,7 @@
+'use client';
+import {useEffect,useState} from 'react';
+import {readSave} from '@/lib/local-save';
+import type {Match} from '../../../packages/cricket-engine/src';
+import type {Campaign} from '../../../packages/league-engine/src';
+import {LeagueAwards,SquadStatistics} from './league-stats';
+export function LeagueMatchStats({match}:{match:Match}){const [data,setData]=useState<{campaign:Campaign;fixture:string}|null>(null),[ready,setReady]=useState(false);useEffect(()=>{let active=true;const context=JSON.parse(localStorage.getItem('atg-fixture-context')??'null');if(!context){setReady(true);return;}void readSave<Campaign>('campaign').then(c=>{if(active&&c&&c.seed===context.seed)setData({campaign:c,fixture:context.fixture});}).finally(()=>active&&setReady(true));return()=>{active=false;};},[]);if(!ready)return <p role="status">Loading team statistics…</p>;if(!data)return <p className="data-note">This is an exhibition match. Team season statistics become available when you play a league fixture. Current match figures are in Scorecard.</p>;const campaign={...data.campaign,fixtures:data.campaign.fixtures.map(f=>f.id===data.fixture&&match.status!=='ready'?{...f,result:match}:f)};return <><p className="data-note">{match.status==='live'||match.status==='break'?'Live preview: this match is included in the totals below. Official season results are saved only after completion.':'Saved campaign statistics.'}</p><SquadStatistics campaign={campaign}/><LeagueAwards campaign={campaign}/></>;}

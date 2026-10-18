@@ -25,7 +25,7 @@ export type SquadEntry={playerId:string;price:number;overseas:boolean};
 export type Franchise={id:string;name:string;short:string;color:string;purse:number;squad:SquadEntry[];manager:string|null};
 export type Status='lobby'|'live'|'sold'|'unsold'|'complete';
 export type Auction={
- code:string;status:Status;timer:BidTimer;order:string[];index:number;bid:number;leader:string|null;
+ squadMax?:number;overseasMax?:number;code:string;status:Status;timer:BidTimer;order:string[];index:number;bid:number;leader:string|null;
  deadline:number;closedAt:number;history:{id:number;team:string;amount:number;at:number}[];
  teams:Franchise[];version:number;seen:string[];
 };
@@ -43,15 +43,15 @@ export function createAuction(code:string,timer:BidTimer,now:number):Auction{
 }
 export const activeTeams=(s:Auction)=>s.teams.filter(t=>t.manager);
 export function eligibility(s:Auction,t:Franchise,amount=nextBidAmount(s)){
- if(t.squad.length>=SQUAD_MAX)return 'Squad is full (15 players).';
- if(currentPlayer(s).overseas&&overseasCount(t)>=OVERSEAS_MAX)return 'Overseas player limit reached (5).';
+ if(t.squad.length>=(s.squadMax??SQUAD_MAX))return `Squad is full (${s.squadMax??SQUAD_MAX} players).`;
+ if(currentPlayer(s).overseas&&overseasCount(t)>=(s.overseasMax??OVERSEAS_MAX))return `Overseas player limit reached (${s.overseasMax??OVERSEAS_MAX}).`;
  if(t.purse<amount)return 'Insufficient purse.';
  if(!Number.isInteger(amount)||amount<0)return 'Invalid price.';
  if(s.teams.some(team=>team.squad.some(x=>x.playerId===currentPlayer(s).id)))return 'Player already owned.';
- if(t.purse-amount<Math.max(0,14-t.squad.length)*30)return 'Reserve enough purse to complete a 15-player squad.';
+ if(t.purse-amount<Math.max(0,(s.squadMax??SQUAD_MAX)-1-t.squad.length)*30)return 'Reserve enough purse to complete the squad.';
  const ps=t.squad.map(x=>playerById.get(x.playerId)).filter(Boolean);
  const keepers=ps.filter(p=>/keep/i.test(p!.role)).length,bowlers=ps.filter(p=>/bowl|all/i.test(p!.role)).length;
- const needs=(keepers?0:1)+Math.max(0,5-bowlers),remaining=SQUAD_MAX-t.squad.length;
+ const needs=(keepers?0:1)+Math.max(0,5-bowlers),remaining=(s.squadMax??SQUAD_MAX)-t.squad.length;
  if(remaining<=needs){const role=currentPlayer(s).role;if(!keepers&&/keep/i.test(role))return null;if(bowlers<5&&/bowl|all/i.test(role))return null;return 'Reserve remaining slots for a wicketkeeper and five bowling options.';}
 
  return null;
@@ -74,7 +74,7 @@ export function start(s:Auction,now:number){
  if(activeTeams(s).length<1)throw Error('At least one franchise is needed to start.');
  s.index=0;openLot(s,now);
 }
-const allFull=(s:Auction)=>activeTeams(s).every(t=>t.squad.length>=SQUAD_MAX);
+const allFull=(s:Auction)=>activeTeams(s).every(t=>t.squad.length>=(s.squadMax??SQUAD_MAX));
 /** Closes the current lot once its server deadline has passed. Idempotent. */
 export function settle(s:Auction,now:number){
  if(s.status!=='live'||now<s.deadline)return;

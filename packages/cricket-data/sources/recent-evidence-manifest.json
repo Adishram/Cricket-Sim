@@ -1,0 +1,2243 @@
+{
+  "cutoff": "2026-10-18",
+  "window": [
+    2026,
+    2025,
+    2024
+  ],
+  "source": "https://cricsheet.org/",
+  "license": "Open Data Commons Attribution 1.0",
+  "coverage": {
+    "IPL 2024": 71,
+    "IPL 2025": 74,
+    "IPL 2026": 74,
+    "T20I 2024": 611,
+    "T20I 2025": 531,
+    "T20I 2026": 516,
+    "BBL 2024": 41,
+    "BBL 2025": 42,
+    "BBL 2026": 44,
+    "PSL 2024": 32,
+    "PSL 2025": 34,
+    "PSL 2026": 43
+  },
+  "completed": [
+    "BBL 2024",
+    "BBL 2025",
+    "BBL 2026",
+    "IPL 2024",
+    "IPL 2025",
+    "IPL 2026",
+    "PSL 2024",
+    "PSL 2025",
+    "PSL 2026",
+    "T20I 2024",
+    "T20I 2025"
+  ],
+  "identityMatches": 436,
+  "archives": [
+    {
+      "file": "ipl_json.zip",
+      "url": "https://cricsheet.org/downloads/ipl_json.zip",
+      "sha256": "5757e04287179767ff8495f02902bd13812b9572ec8fa2ac1347ec2e9c6d4709"
+    },
+    {
+      "file": "t20s_male_json.zip",
+      "url": "https://cricsheet.org/downloads/t20s_male_json.zip",
+      "sha256": "95305bc2dae8dcce7b8da7755f3992521874b14598ea5828129f37834e8b860a"
+    },
+    {
+      "file": "bbl_male_json.zip",
+      "url": "https://cricsheet.org/downloads/bbl_male_json.zip",
+      "sha256": "a549fa88605f2ea9ca4333f277321b07cbdd00c1135608358f2d886df8eeae63"
+    },
+    {
+      "file": "psl_male_json.zip",
+      "url": "https://cricsheet.org/downloads/psl_male_json.zip",
+      "sha256": "e8172deb1f97fa23230bd717a88c8af689fdb374f6f9e2ce5be88a718d909401"
+    }
+  ],
+  "identityMapping": [
+    {
+      "player": "player-43272",
+      "cricsheet": "a2f46292",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-75144",
+      "cricsheet": "844e79d1",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-63511",
+      "cricsheet": "2ed569a0",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-70580",
+      "cricsheet": "765a4731",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-63520",
+      "cricsheet": "a4e37e47",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-64377",
+      "cricsheet": "45a43fe2",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-78758",
+      "cricsheet": "dee07622",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-18052",
+      "cricsheet": "e84ac20c",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-24868",
+      "cricsheet": "4d7f517e",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-66728",
+      "cricsheet": "83c3e8e3",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-70442",
+      "cricsheet": "fcc21ace",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-20224",
+      "cricsheet": "f088b960",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-86445",
+      "cricsheet": "b2b4f545",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-71151",
+      "cricsheet": "efc04be7",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-10301",
+      "cricsheet": "59559bc2",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-67543",
+      "cricsheet": "cf59b3f0",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-17613",
+      "cricsheet": "a4cc73aa",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-87338",
+      "cricsheet": "7b679de5",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-20067",
+      "cricsheet": "a90e53ec",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-74631",
+      "cricsheet": "cc61ee8f",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-82907",
+      "cricsheet": "e148e6bd",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-33186",
+      "cricsheet": "68c56d09",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-31742",
+      "cricsheet": "2cffab74",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-13575",
+      "cricsheet": "d67d5f00",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-68788",
+      "cricsheet": "7c3c0337",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-16936",
+      "cricsheet": "944533a5",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-37001",
+      "cricsheet": "ce794613",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-28230",
+      "cricsheet": "f834dcfc",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-86874",
+      "cricsheet": "5ffc0565",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-86350",
+      "cricsheet": "926c7443",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-17616",
+      "cricsheet": "2e171977",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-76558",
+      "cricsheet": "ad3b6e95",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-20451",
+      "cricsheet": "b17e2f24",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-23460",
+      "cricsheet": "fb2d1dda",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-71449",
+      "cricsheet": "f89d3b11",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-67627",
+      "cricsheet": "84d9c311",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-34256",
+      "cricsheet": "8ee36b18",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-14328",
+      "cricsheet": "3fb19989",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-73364",
+      "cricsheet": "85b3fab2",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-87978",
+      "cricsheet": "fb5f69e4",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-76128",
+      "cricsheet": "51ec3919",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-20030",
+      "cricsheet": "8d2c70ad",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-74055",
+      "cricsheet": "12314277",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-16261",
+      "cricsheet": "99b75528",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-65345",
+      "cricsheet": "b4b99816",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-12693",
+      "cricsheet": "0f721006",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-65727",
+      "cricsheet": "fa2f1dde",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-72805",
+      "cricsheet": "57ca01b3",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-26160",
+      "cricsheet": "9a46c4e5",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-19720",
+      "cricsheet": "e62dd25d",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-25242",
+      "cricsheet": "5f547c8b",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-76540",
+      "cricsheet": "50c09020",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-76212",
+      "cricsheet": "3cea23da",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-44904",
+      "cricsheet": "2f49c897",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-70453",
+      "cricsheet": "025c4400",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-50536",
+      "cricsheet": "39a2dfa8",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-20226",
+      "cricsheet": "f19ccfad",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-26170",
+      "cricsheet": "bf74b130",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-72965",
+      "cricsheet": "7c3b3b78",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-86769",
+      "cricsheet": "f12fe2a1",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-72721",
+      "cricsheet": "11061889",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-65397",
+      "cricsheet": "eaa76d3c",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-66839",
+      "cricsheet": "449f4e3c",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-11658",
+      "cricsheet": "9d430b40",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-16935",
+      "cricsheet": "93b4fc78",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-72580",
+      "cricsheet": "64839cb3",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-20866",
+      "cricsheet": "650d5e49",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-76204",
+      "cricsheet": "d7017798",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-12685",
+      "cricsheet": "29e95537",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-65478",
+      "cricsheet": "be24ead0",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-65841",
+      "cricsheet": "e4cdf230",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-16790",
+      "cricsheet": "21d4e29b",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-20009",
+      "cricsheet": "4663bd23",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-66831",
+      "cricsheet": "5d2eea49",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-68296",
+      "cricsheet": "872b03f7",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-79805",
+      "cricsheet": "1c84109e",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-37709",
+      "cricsheet": "989889ff",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-20223",
+      "cricsheet": "eef2536f",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-82909",
+      "cricsheet": "2d140b79",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-20680",
+      "cricsheet": "e5437608",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-27774",
+      "cricsheet": "6a26221c",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-12612",
+      "cricsheet": "3d8feaf8",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-67617",
+      "cricsheet": "c33d8116",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-23659",
+      "cricsheet": "acdc62f5",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-17617",
+      "cricsheet": "919a3be2",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-23906",
+      "cricsheet": "3241e3fd",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-76593",
+      "cricsheet": "d8d67045",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-86771",
+      "cricsheet": "13fc5c6d",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-70433",
+      "cricsheet": "8e514b4c",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-70625",
+      "cricsheet": "f9e6e7ef",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-11458",
+      "cricsheet": "8cf9814c",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-69572",
+      "cricsheet": "cf0ccafa",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-69004",
+      "cricsheet": "b483905d",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-54303",
+      "cricsheet": "ebcfef83",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-68286",
+      "cricsheet": "44aac2f0",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-76160",
+      "cricsheet": "b1ad996b",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-84374",
+      "cricsheet": "80b2fb19",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-76211",
+      "cricsheet": "ba6b2f91",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-87066",
+      "cricsheet": "e48a4814",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-22181",
+      "cricsheet": "172dff15",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-14330",
+      "cricsheet": "a818c1be",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-16096",
+      "cricsheet": "462411b3",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-19257",
+      "cricsheet": "23eeb873",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-17614",
+      "cricsheet": "372455c4",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-79429",
+      "cricsheet": "fffa744b",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-78206",
+      "cricsheet": "9ca68676",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-65551",
+      "cricsheet": "9caf69a1",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-72996",
+      "cricsheet": "d45c29b1",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-87528",
+      "cricsheet": "9e6032fa",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-67641",
+      "cricsheet": "a9fd84fb",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-84159",
+      "cricsheet": "bafd0398",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-16093",
+      "cricsheet": "dbe50b21",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-37670",
+      "cricsheet": "e66732f8",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-66048",
+      "cricsheet": "d014d5ac",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-14334",
+      "cricsheet": "e4a0deae",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-66897",
+      "cricsheet": "5b615e7c",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-27765",
+      "cricsheet": "1abb78f8",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-69845",
+      "cricsheet": "b0482a1d",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-20861",
+      "cricsheet": "271f83cd",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-75656",
+      "cricsheet": "b5797845",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-66512",
+      "cricsheet": "8f6dd463",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-55170",
+      "cricsheet": "3b53243a",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-69782",
+      "cricsheet": "c05edf8e",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-14621",
+      "cricsheet": "57ee1fde",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-73472",
+      "cricsheet": "fe366f34",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-49784",
+      "cricsheet": "ed5a5510",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-46139",
+      "cricsheet": "e1b9f3a9",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-20183",
+      "cricsheet": "2f9d0389",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-22014",
+      "cricsheet": "85ec8e33",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-68021",
+      "cricsheet": "81c36ee9",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-78777",
+      "cricsheet": "970ddd24",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-67190",
+      "cricsheet": "244048f6",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-68831",
+      "cricsheet": "9418198b",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-34331",
+      "cricsheet": "26989d80",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-10925",
+      "cricsheet": "d9273ee7",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-65344",
+      "cricsheet": "4b31f3a3",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-34672",
+      "cricsheet": "0494fa6e",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-74053",
+      "cricsheet": "54e52590",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-68289",
+      "cricsheet": "d1a60072",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-28503",
+      "cricsheet": "5574750c",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-70430",
+      "cricsheet": "df064e1a",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-52827",
+      "cricsheet": "465aa633",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-65476",
+      "cricsheet": "04a418e8",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-44044",
+      "cricsheet": "46a9bea1",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-74047",
+      "cricsheet": "6b2ff18f",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-68473",
+      "cricsheet": "f0af99a7",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-23713",
+      "cricsheet": "48a1d7b7",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-13143",
+      "cricsheet": "fe93fd9d",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-68314",
+      "cricsheet": "6c19c6e5",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-71456",
+      "cricsheet": "bcf325d2",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-20007",
+      "cricsheet": "350bb1b1",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-71452",
+      "cricsheet": "92500ad5",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-81719",
+      "cricsheet": "60aa2db3",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-92045",
+      "cricsheet": "02dfebbe",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-90896",
+      "cricsheet": "133bbd61",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-15660",
+      "cricsheet": "ce820073",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-86608",
+      "cricsheet": "548516a6",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-73907",
+      "cricsheet": "3c55c703",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-69894",
+      "cricsheet": "ff154ecd",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-67369",
+      "cricsheet": "f1f99156",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-15670",
+      "cricsheet": "dadbdb68",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-14327",
+      "cricsheet": "03806cf8",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-34170",
+      "cricsheet": "a24be938",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-13144",
+      "cricsheet": "ba607b88",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-12690",
+      "cricsheet": "2e81a32d",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-68292",
+      "cricsheet": "2c25d4f5",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-20456",
+      "cricsheet": "5b8c830e",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-29333",
+      "cricsheet": "c740ea83",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-28502",
+      "cricsheet": "3d284ca3",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-20033",
+      "cricsheet": "800d2d97",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-80525",
+      "cricsheet": "9440ef41",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-58377",
+      "cricsheet": "c5aef772",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-86886",
+      "cricsheet": "82c10dac",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-72140",
+      "cricsheet": "d7423da1",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-14153",
+      "cricsheet": "ded9240e",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-77440",
+      "cricsheet": "5750bcb4",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-74025",
+      "cricsheet": "25228673",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-21033",
+      "cricsheet": "12b610c2",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-87731",
+      "cricsheet": "ece7b6b3",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-20227",
+      "cricsheet": "752f7486",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-23673",
+      "cricsheet": "235c2bb6",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-90837",
+      "cricsheet": "7b44eb3e",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-23875",
+      "cricsheet": "50c6bc2b",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-69841",
+      "cricsheet": "de7d833e",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-74028",
+      "cricsheet": "aad0c365",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-18000",
+      "cricsheet": "f986ca1a",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-11256",
+      "cricsheet": "6c79c098",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-78832",
+      "cricsheet": "280fff14",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-65346",
+      "cricsheet": "f29185a1",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-83039",
+      "cricsheet": "c1e53c3f",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-15271",
+      "cricsheet": "1e66c162",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-87977",
+      "cricsheet": "a3b0600d",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-13294",
+      "cricsheet": "327b58d3",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-59553",
+      "cricsheet": "85e0cf10",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-65783",
+      "cricsheet": "c7a995d3",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-74538",
+      "cricsheet": "d5130a30",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-27214",
+      "cricsheet": "7dcb9bc9",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-68649",
+      "cricsheet": "5b7ab5a9",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-33718",
+      "cricsheet": "0a509d6b",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-11326",
+      "cricsheet": "740742ef",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-16094",
+      "cricsheet": "3ff033bb",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-83313",
+      "cricsheet": "470f446b",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-68859",
+      "cricsheet": "b8527c3d",
+      "method": "existing audited identity map"
+    },
+    {
+      "player": "player-41417",
+      "cricsheet": "31ee319e",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-70603",
+      "cricsheet": "0a67aec0",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-72670",
+      "cricsheet": "4bd09374",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-74139",
+      "cricsheet": "378daa89",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-66837",
+      "cricsheet": "c8f5f961",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-72144",
+      "cricsheet": "d6cd318e",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-17314",
+      "cricsheet": "5f26f677",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-77032",
+      "cricsheet": "ef9acbcc",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-82390",
+      "cricsheet": "23393635",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-66452",
+      "cricsheet": "3204c99f",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-76164",
+      "cricsheet": "99258814",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-77153",
+      "cricsheet": "77b1aa15",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-17701",
+      "cricsheet": "5bb1a1c4",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-18001",
+      "cricsheet": "81049310",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-16664",
+      "cricsheet": "0b60eb09",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-69043",
+      "cricsheet": "2e78f685",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-76217",
+      "cricsheet": "107c26fb",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-70503",
+      "cricsheet": "a689af4b",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-32332",
+      "cricsheet": "35f173a0",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-65550",
+      "cricsheet": "2b801189",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-79510",
+      "cricsheet": "d621b427",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-19402",
+      "cricsheet": "0a8fce53",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-68917",
+      "cricsheet": "9eb1455b",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-65301",
+      "cricsheet": "8b3e9c7c",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-26162",
+      "cricsheet": "ba5e1069",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-74536",
+      "cricsheet": "0ecb4de6",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-27711",
+      "cricsheet": "402f8494",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-21837",
+      "cricsheet": "e94915e6",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-60039",
+      "cricsheet": "d7cdefa9",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-65553",
+      "cricsheet": "c38d3503",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-16937",
+      "cricsheet": "7a8bd078",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-20729",
+      "cricsheet": "983f2f61",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-65546",
+      "cricsheet": "25f7b7d6",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-73981",
+      "cricsheet": "81c08fa3",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-26489",
+      "cricsheet": "a97c8ec2",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-68716",
+      "cricsheet": "7210d461",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "player-20236",
+      "cricsheet": "36619795",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-14",
+      "cricsheet": "df5a6881",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-15",
+      "cricsheet": "9b6e1b3f",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-19",
+      "cricsheet": "dcce6f09",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-23",
+      "cricsheet": "b681e71e",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-27",
+      "cricsheet": "abb83e27",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-29",
+      "cricsheet": "0bacade8",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-43",
+      "cricsheet": "3f1066d0",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-45",
+      "cricsheet": "14f96089",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-47",
+      "cricsheet": "0890552f",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-50",
+      "cricsheet": "1399b39c",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-51",
+      "cricsheet": "1ac746c8",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-58",
+      "cricsheet": "0994d0ae",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-61",
+      "cricsheet": "b2a55ac1",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-62",
+      "cricsheet": "5f2732f7",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-73",
+      "cricsheet": "30df8c66",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-77",
+      "cricsheet": "98ae73b1",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-81",
+      "cricsheet": "119678fd",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-82",
+      "cricsheet": "f6d8a7ab",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-85",
+      "cricsheet": "3355b542",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-90",
+      "cricsheet": "d027ba9f",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-93",
+      "cricsheet": "eade4650",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-98",
+      "cricsheet": "44a89551",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-99",
+      "cricsheet": "69d03465",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-101",
+      "cricsheet": "1fc6ef83",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-114",
+      "cricsheet": "7d92277a",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-115",
+      "cricsheet": "249d60c9",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-117",
+      "cricsheet": "b63e358a",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-119",
+      "cricsheet": "8053c798",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-121",
+      "cricsheet": "49110249",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-122",
+      "cricsheet": "4a9a8c3d",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-125",
+      "cricsheet": "a457cfb5",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-132",
+      "cricsheet": "b0f2baf4",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-135",
+      "cricsheet": "9e7225b0",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-139",
+      "cricsheet": "c2dd89ea",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-144",
+      "cricsheet": "cd474693",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-158",
+      "cricsheet": "cad00a4d",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-160",
+      "cricsheet": "ff1e12a0",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-161",
+      "cricsheet": "a15618fe",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-163",
+      "cricsheet": "bb351c23",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-171",
+      "cricsheet": "c16d4035",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-173",
+      "cricsheet": "c41043e6",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-174",
+      "cricsheet": "5d1e7582",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-175",
+      "cricsheet": "f21043a5",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-176",
+      "cricsheet": "39086549",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-184",
+      "cricsheet": "c0c411cb",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-186",
+      "cricsheet": "cc1e8c68",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-187",
+      "cricsheet": "5935d694",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-189",
+      "cricsheet": "212aeedd",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-190",
+      "cricsheet": "52c952d9",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-191",
+      "cricsheet": "a03bba42",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-193",
+      "cricsheet": "dc9dd038",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-194",
+      "cricsheet": "bb965e9a",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-197",
+      "cricsheet": "7e435410",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-199",
+      "cricsheet": "126e8cb3",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-203",
+      "cricsheet": "c3c92b42",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-204",
+      "cricsheet": "5724e517",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-206",
+      "cricsheet": "9d704f6f",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-207",
+      "cricsheet": "e1d9ae9c",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-209",
+      "cricsheet": "4ae89f36",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-210",
+      "cricsheet": "7ccfdbcb",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-214",
+      "cricsheet": "4cb5e3d1",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-218",
+      "cricsheet": "fdf7491e",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-222",
+      "cricsheet": "871e9faf",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-225",
+      "cricsheet": "c5eff91b",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-230",
+      "cricsheet": "3c28853f",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-232",
+      "cricsheet": "7fa12533",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-239",
+      "cricsheet": "e86754b2",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-241",
+      "cricsheet": "62af8546",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-242",
+      "cricsheet": "9f77963a",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-243",
+      "cricsheet": "26d041c4",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-248",
+      "cricsheet": "1bae756b",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-249",
+      "cricsheet": "e824e6ee",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-250",
+      "cricsheet": "e94bc520",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-251",
+      "cricsheet": "bf814547",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-252",
+      "cricsheet": "e9c7f0d0",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-255",
+      "cricsheet": "b0946605",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-263",
+      "cricsheet": "b11d8647",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-264",
+      "cricsheet": "a6004ded",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-268",
+      "cricsheet": "26d76ad9",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-270",
+      "cricsheet": "e96801ea",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-273",
+      "cricsheet": "663b5e34",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-276",
+      "cricsheet": "0ebaa16a",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-283",
+      "cricsheet": "2e802011",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-284",
+      "cricsheet": "798cc28e",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-290",
+      "cricsheet": "cfa4bd2b",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-291",
+      "cricsheet": "b51f72a5",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-293",
+      "cricsheet": "a7e1f127",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-294",
+      "cricsheet": "9dc27cf0",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-296",
+      "cricsheet": "9a5f2863",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-298",
+      "cricsheet": "9e52a414",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-301",
+      "cricsheet": "9948e262",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-302",
+      "cricsheet": "8afe73e2",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-303",
+      "cricsheet": "1212cbec",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-304",
+      "cricsheet": "d4550956",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-305",
+      "cricsheet": "1a2676c5",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-308",
+      "cricsheet": "d405c0d5",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-310",
+      "cricsheet": "73c18486",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-313",
+      "cricsheet": "4933f499",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-319",
+      "cricsheet": "1ee08e9a",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-321",
+      "cricsheet": "e6e9b619",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-322",
+      "cricsheet": "6c6cc94c",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-324",
+      "cricsheet": "47ff3985",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-326",
+      "cricsheet": "26b6a4e9",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-327",
+      "cricsheet": "c03e2850",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-328",
+      "cricsheet": "34819e70",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-336",
+      "cricsheet": "6ab96cc2",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-338",
+      "cricsheet": "f59e9ac9",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-345",
+      "cricsheet": "d290c5b5",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-352",
+      "cricsheet": "20666746",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-355",
+      "cricsheet": "4de4c0e9",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-358",
+      "cricsheet": "8d5d991e",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-359",
+      "cricsheet": "732c038e",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-361",
+      "cricsheet": "97bdec3d",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-371",
+      "cricsheet": "2cdce1be",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-372",
+      "cricsheet": "cdc6bdba",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-375",
+      "cricsheet": "10b58586",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-377",
+      "cricsheet": "d8a90827",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-381",
+      "cricsheet": "edb3d4f8",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-382",
+      "cricsheet": "1730e08e",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-385",
+      "cricsheet": "b4f5c2d9",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-387",
+      "cricsheet": "4a15018a",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-389",
+      "cricsheet": "0c94f480",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-394",
+      "cricsheet": "44cb17b4",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-577",
+      "cricsheet": "3082eac3",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-399",
+      "cricsheet": "30fc60b5",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-405",
+      "cricsheet": "62175638",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-407",
+      "cricsheet": "caf69bf7",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-409",
+      "cricsheet": "ef18b66e",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-412",
+      "cricsheet": "64775749",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-413",
+      "cricsheet": "b08e58e2",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-414",
+      "cricsheet": "3f659464",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-415",
+      "cricsheet": "208f22ea",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-421",
+      "cricsheet": "aa5d8c9e",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-423",
+      "cricsheet": "564714f5",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-428",
+      "cricsheet": "1b7b0fa7",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-429",
+      "cricsheet": "3b63b5cc",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-433",
+      "cricsheet": "dcf81436",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-438",
+      "cricsheet": "19b9f399",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-439",
+      "cricsheet": "7dc35884",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-441",
+      "cricsheet": "c96f6ac5",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-442",
+      "cricsheet": "11614d87",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-444",
+      "cricsheet": "bb34fd31",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-447",
+      "cricsheet": "0b0cc297",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-449",
+      "cricsheet": "13c35c9e",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-452",
+      "cricsheet": "0ea54eca",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-459",
+      "cricsheet": "ade90de7",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-464",
+      "cricsheet": "b3309131",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-465",
+      "cricsheet": "7e83cef2",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-466",
+      "cricsheet": "eef53752",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-468",
+      "cricsheet": "3bc10d5b",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-471",
+      "cricsheet": "f5c9b42c",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-472",
+      "cricsheet": "a2421394",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-473",
+      "cricsheet": "3feda4fa",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-474",
+      "cricsheet": "1cb14aa4",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-475",
+      "cricsheet": "9dad0f2e",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-476",
+      "cricsheet": "75b8e198",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-477",
+      "cricsheet": "4b685e2d",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-478",
+      "cricsheet": "3147131e",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-479",
+      "cricsheet": "d12143bf",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-481",
+      "cricsheet": "ffe699c0",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-482",
+      "cricsheet": "80ad39ac",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-483",
+      "cricsheet": "245c97cb",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-485",
+      "cricsheet": "5318ee68",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-486",
+      "cricsheet": "441c72ae",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-487",
+      "cricsheet": "37940451",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-489",
+      "cricsheet": "93b430e8",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-493",
+      "cricsheet": "a00e1842",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-495",
+      "cricsheet": "bcaf7d33",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-497",
+      "cricsheet": "de33074a",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-498",
+      "cricsheet": "60500956",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-500",
+      "cricsheet": "6c8e4b0a",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-505",
+      "cricsheet": "cf2e8492",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-508",
+      "cricsheet": "ab965cad",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-510",
+      "cricsheet": "7cb2d9d2",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-512",
+      "cricsheet": "39181592",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-513",
+      "cricsheet": "4751caa3",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-514",
+      "cricsheet": "0164b064",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-515",
+      "cricsheet": "6e3f5a5c",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-516",
+      "cricsheet": "3a60e0b5",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-517",
+      "cricsheet": "75224f22",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-519",
+      "cricsheet": "7c7d63a2",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-523",
+      "cricsheet": "97114e80",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-524",
+      "cricsheet": "5d3d423a",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-525",
+      "cricsheet": "249abedf",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-538",
+      "cricsheet": "c5215e7c",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-540",
+      "cricsheet": "b4587494",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-545",
+      "cricsheet": "376025f1",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-546",
+      "cricsheet": "ddc7a53d",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-548",
+      "cricsheet": "8dc152d1",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-556",
+      "cricsheet": "f9f21866",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-561",
+      "cricsheet": "242a9261",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-564",
+      "cricsheet": "79b35258",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-570",
+      "cricsheet": "2597e56b",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-571",
+      "cricsheet": "f992200b",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-573",
+      "cricsheet": "3c29632a",
+      "method": "unique exact normalized register alias"
+    },
+    {
+      "player": "auction-574",
+      "cricsheet": "1e1ce0d8",
+      "method": "unique exact normalized register alias"
+    }
+  ],
+  "excluded": "Partial competition seasons; 2026 T20I calendar year; Super Overs. Unmatched or ambiguous players are not guessed. Afghanistan matches may be withheld upstream."
+}

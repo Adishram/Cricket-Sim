@@ -1,1 +1,3957 @@
-{"cutoff":"2026-10-18","window":[2024,2025,2026],"source":"https://cricsheet.org/","status":"No verified ball-by-ball split observations imported; use labeled model priors.","players":{}}
+{
+  "cutoff": "2026-10-18",
+  "window": [
+    2026,
+    2025,
+    2024
+  ],
+  "source": "https://cricsheet.org/",
+  "license": "Open Data Commons Attribution 1.0",
+  "coverage": {
+    "IPL 2024": 71,
+    "IPL 2025": 74,
+    "IPL 2026": 74,
+    "T20I 2024": 611,
+    "T20I 2025": 531,
+    "T20I 2026": 516,
+    "BBL 2024": 41,
+    "BBL 2025": 42,
+    "BBL 2026": 44,
+    "PSL 2024": 32,
+    "PSL 2025": 34,
+    "PSL 2026": 43
+  },
+  "completed": [
+    "BBL 2024",
+    "BBL 2025",
+    "BBL 2026",
+    "IPL 2024",
+    "IPL 2025",
+    "IPL 2026",
+    "PSL 2024",
+    "PSL 2025",
+    "PSL 2026",
+    "T20I 2024",
+    "T20I 2025"
+  ],
+  "identityMatches": 436,
+  "status": "Observed IPL ball-by-ball aggregates; only identity- and style-matched deliveries.",
+  "players": {
+    "player-13144": {
+      "pace": {
+        "balls": 711,
+        "runs": 1206,
+        "dismissals": 23,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-22",
+        "to": "2026-05-31"
+      },
+      "spin": {
+        "balls": 433,
+        "runs": 592,
+        "dismissals": 8,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-22",
+        "to": "2026-05-31"
+      }
+    },
+    "auction-85": {
+      "pace": {
+        "balls": 220,
+        "runs": 321,
+        "dismissals": 10,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-22",
+        "to": "2025-05-24"
+      },
+      "spin": {
+        "balls": 133,
+        "runs": 194,
+        "dismissals": 7,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-02",
+        "to": "2025-05-24"
+      }
+    },
+    "auction-23": {
+      "pace": {
+        "balls": 26,
+        "runs": 22,
+        "dismissals": 5,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-22",
+        "to": "2025-04-26"
+      },
+      "spin": {
+        "balls": 31,
+        "runs": 36,
+        "dismissals": 6,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-25",
+        "to": "2025-04-26"
+      }
+    },
+    "player-65397": {
+      "pace": {
+        "balls": 189,
+        "runs": 282,
+        "dismissals": 8,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-22",
+        "to": "2026-05-24"
+      },
+      "spin": {
+        "balls": 165,
+        "runs": 244,
+        "dismissals": 4,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-22",
+        "to": "2026-05-24"
+      }
+    },
+    "player-66837": {
+      "pace": {
+        "balls": 44,
+        "runs": 67,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-22",
+        "to": "2024-04-15"
+      },
+      "spin": {
+        "balls": 14,
+        "runs": 11,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-22",
+        "to": "2024-04-02"
+      }
+    },
+    "player-64377": {
+      "pace": {
+        "balls": 470,
+        "runs": 622,
+        "dismissals": 17,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-22",
+        "to": "2026-05-21"
+      },
+      "spin": {
+        "balls": 205,
+        "runs": 262,
+        "dismissals": 8,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-26",
+        "to": "2026-05-18"
+      }
+    },
+    "player-26162": {
+      "pace": {
+        "balls": 168,
+        "runs": 248,
+        "dismissals": 6,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-22",
+        "to": "2025-04-20"
+      },
+      "spin": {
+        "balls": 84,
+        "runs": 111,
+        "dismissals": 6,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-22",
+        "to": "2025-04-14"
+      }
+    },
+    "player-12685": {
+      "pace": {
+        "balls": 404,
+        "runs": 581,
+        "dismissals": 19,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-22",
+        "to": "2026-05-24"
+      },
+      "spin": {
+        "balls": 208,
+        "runs": 251,
+        "dismissals": 11,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-22",
+        "to": "2026-05-24"
+      }
+    },
+    "auction-93": {
+      "spin": {
+        "balls": 67,
+        "runs": 106,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-22",
+        "to": "2024-05-18"
+      },
+      "pace": {
+        "balls": 133,
+        "runs": 185,
+        "dismissals": 6,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-22",
+        "to": "2024-05-18"
+      }
+    },
+    "player-63520": {
+      "pace": {
+        "balls": 393,
+        "runs": 606,
+        "dismissals": 15,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-22",
+        "to": "2026-05-21"
+      },
+      "spin": {
+        "balls": 157,
+        "runs": 194,
+        "dismissals": 7,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-22",
+        "to": "2026-05-21"
+      }
+    },
+    "player-13143": {
+      "pace": {
+        "balls": 348,
+        "runs": 517,
+        "dismissals": 7,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-22",
+        "to": "2026-05-29"
+      },
+      "spin": {
+        "balls": 158,
+        "runs": 165,
+        "dismissals": 9,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-22",
+        "to": "2026-05-29"
+      }
+    },
+    "auction-19": {
+      "pace": {
+        "balls": 89,
+        "runs": 132,
+        "dismissals": 5,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2024-04-20"
+      },
+      "spin": {
+        "balls": 16,
+        "runs": 20,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2024-05-12"
+      }
+    },
+    "player-12612": {
+      "pace": {
+        "balls": 461,
+        "runs": 785,
+        "dismissals": 20,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-19"
+      },
+      "spin": {
+        "balls": 207,
+        "runs": 297,
+        "dismissals": 5,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-31",
+        "to": "2026-05-19"
+      }
+    },
+    "auction-101": {
+      "pace": {
+        "balls": 58,
+        "runs": 74,
+        "dismissals": 4,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2024-05-14"
+      },
+      "spin": {
+        "balls": 47,
+        "runs": 73,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2024-05-14"
+      }
+    },
+    "player-17617": {
+      "spin": {
+        "balls": 243,
+        "runs": 289,
+        "dismissals": 11,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-23"
+      },
+      "pace": {
+        "balls": 366,
+        "runs": 546,
+        "dismissals": 17,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-23"
+      }
+    },
+    "auction-117": {
+      "pace": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2024-03-28"
+      },
+      "spin": {
+        "balls": 5,
+        "runs": 2,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2024-03-23"
+      }
+    },
+    "player-73364": {
+      "pace": {
+        "balls": 372,
+        "runs": 564,
+        "dismissals": 10,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-17"
+      },
+      "spin": {
+        "balls": 159,
+        "runs": 233,
+        "dismissals": 7,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-08"
+      }
+    },
+    "player-17616": {
+      "spin": {
+        "balls": 187,
+        "runs": 300,
+        "dismissals": 9,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-24"
+      },
+      "pace": {
+        "balls": 223,
+        "runs": 258,
+        "dismissals": 15,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-24"
+      }
+    },
+    "player-76558": {
+      "pace": {
+        "balls": 291,
+        "runs": 470,
+        "dismissals": 12,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-24"
+      },
+      "spin": {
+        "balls": 124,
+        "runs": 162,
+        "dismissals": 8,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-28",
+        "to": "2026-05-24"
+      }
+    },
+    "player-20030": {
+      "pace": {
+        "balls": 39,
+        "runs": 37,
+        "dismissals": 5,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-04-11"
+      },
+      "spin": {
+        "balls": 18,
+        "runs": 22,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-29",
+        "to": "2026-04-27"
+      }
+    },
+    "auction-27": {
+      "pace": {
+        "balls": 135,
+        "runs": 216,
+        "dismissals": 7,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2025-06-01"
+      },
+      "spin": {
+        "balls": 69,
+        "runs": 117,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-30",
+        "to": "2025-05-30"
+      }
+    },
+    "player-68831": {
+      "pace": {
+        "balls": 553,
+        "runs": 905,
+        "dismissals": 18,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-23"
+      },
+      "spin": {
+        "balls": 232,
+        "runs": 359,
+        "dismissals": 17,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-23"
+      }
+    },
+    "player-21837": {
+      "pace": {
+        "balls": 144,
+        "runs": 179,
+        "dismissals": 10,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2025-05-03"
+      },
+      "spin": {
+        "balls": 95,
+        "runs": 110,
+        "dismissals": 4,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2025-05-03"
+      }
+    },
+    "player-20033": {
+      "spin": {
+        "balls": 107,
+        "runs": 164,
+        "dismissals": 10,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-31"
+      },
+      "pace": {
+        "balls": 220,
+        "runs": 296,
+        "dismissals": 14,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-25",
+        "to": "2026-05-31"
+      }
+    },
+    "player-23875": {
+      "spin": {
+        "balls": 86,
+        "runs": 109,
+        "dismissals": 4,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-04-05"
+      },
+      "pace": {
+        "balls": 94,
+        "runs": 121,
+        "dismissals": 7,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-04-18"
+      }
+    },
+    "player-34331": {
+      "pace": {
+        "balls": 245,
+        "runs": 424,
+        "dismissals": 14,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-17"
+      },
+      "spin": {
+        "balls": 163,
+        "runs": 254,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-30",
+        "to": "2026-05-17"
+      }
+    },
+    "player-69782": {
+      "pace": {
+        "balls": 41,
+        "runs": 43,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-17"
+      },
+      "spin": {
+        "balls": 11,
+        "runs": 22,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-13",
+        "to": "2024-05-05"
+      }
+    },
+    "player-28502": {
+      "pace": {
+        "balls": 385,
+        "runs": 657,
+        "dismissals": 18,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-04-18"
+      },
+      "spin": {
+        "balls": 107,
+        "runs": 195,
+        "dismissals": 6,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-04-18"
+      }
+    },
+    "player-11658": {
+      "pace": {
+        "balls": 307,
+        "runs": 517,
+        "dismissals": 16,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-04-26"
+      },
+      "spin": {
+        "balls": 49,
+        "runs": 92,
+        "dismissals": 9,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-29",
+        "to": "2025-05-07"
+      }
+    },
+    "player-34170": {
+      "pace": {
+        "balls": 256,
+        "runs": 463,
+        "dismissals": 12,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-31"
+      },
+      "spin": {
+        "balls": 152,
+        "runs": 200,
+        "dismissals": 6,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-29",
+        "to": "2026-05-22"
+      }
+    },
+    "player-22014": {
+      "pace": {
+        "balls": 431,
+        "runs": 713,
+        "dismissals": 22,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-23"
+      },
+      "spin": {
+        "balls": 267,
+        "runs": 416,
+        "dismissals": 4,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-29",
+        "to": "2026-05-23"
+      }
+    },
+    "player-23460": {
+      "pace": {
+        "balls": 205,
+        "runs": 298,
+        "dismissals": 14,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-08"
+      },
+      "spin": {
+        "balls": 74,
+        "runs": 116,
+        "dismissals": 5,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-11",
+        "to": "2026-05-08"
+      }
+    },
+    "player-65478": {
+      "pace": {
+        "balls": 84,
+        "runs": 135,
+        "dismissals": 7,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-04-26"
+      },
+      "spin": {
+        "balls": 54,
+        "runs": 62,
+        "dismissals": 6,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-04-26"
+      }
+    },
+    "player-33718": {
+      "pace": {
+        "balls": 220,
+        "runs": 349,
+        "dismissals": 10,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-20"
+      },
+      "spin": {
+        "balls": 186,
+        "runs": 260,
+        "dismissals": 7,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-29",
+        "to": "2026-05-24"
+      }
+    },
+    "player-14328": {
+      "pace": {
+        "balls": 12,
+        "runs": 11,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-08"
+      },
+      "spin": {
+        "balls": 8,
+        "runs": 4,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2025-03-24",
+        "to": "2025-04-29"
+      }
+    },
+    "player-65346": {
+      "pace": {
+        "balls": 438,
+        "runs": 799,
+        "dismissals": 25,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-27"
+      },
+      "spin": {
+        "balls": 189,
+        "runs": 440,
+        "dismissals": 9,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-18"
+      }
+    },
+    "player-27774": {
+      "spin": {
+        "balls": 183,
+        "runs": 224,
+        "dismissals": 7,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-10"
+      },
+      "pace": {
+        "balls": 350,
+        "runs": 503,
+        "dismissals": 19,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-27",
+        "to": "2026-05-10"
+      }
+    },
+    "player-23673": {
+      "spin": {
+        "balls": 357,
+        "runs": 610,
+        "dismissals": 11,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-27"
+      },
+      "pace": {
+        "balls": 486,
+        "runs": 775,
+        "dismissals": 20,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-27"
+      }
+    },
+    "player-70433": {
+      "spin": {
+        "balls": 80,
+        "runs": 99,
+        "dismissals": 5,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-23"
+      },
+      "pace": {
+        "balls": 163,
+        "runs": 287,
+        "dismissals": 10,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-23"
+      }
+    },
+    "player-70625": {
+      "spin": {
+        "balls": 70,
+        "runs": 73,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-10"
+      },
+      "pace": {
+        "balls": 107,
+        "runs": 147,
+        "dismissals": 5,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-23",
+        "to": "2026-05-10"
+      }
+    },
+    "player-68314": {
+      "pace": {
+        "balls": 623,
+        "runs": 1037,
+        "dismissals": 29,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-29"
+      },
+      "spin": {
+        "balls": 214,
+        "runs": 284,
+        "dismissals": 9,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-13",
+        "to": "2026-05-27"
+      }
+    },
+    "player-16261": {
+      "pace": {
+        "balls": 503,
+        "runs": 762,
+        "dismissals": 16,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-31"
+      },
+      "spin": {
+        "balls": 248,
+        "runs": 344,
+        "dismissals": 11,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-28",
+        "to": "2026-05-31"
+      }
+    },
+    "player-17613": {
+      "pace": {
+        "balls": 467,
+        "runs": 732,
+        "dismissals": 19,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-21"
+      },
+      "spin": {
+        "balls": 238,
+        "runs": 329,
+        "dismissals": 4,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-10"
+      }
+    },
+    "player-65476": {
+      "spin": {
+        "balls": 336,
+        "runs": 481,
+        "dismissals": 10,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-29"
+      },
+      "pace": {
+        "balls": 371,
+        "runs": 602,
+        "dismissals": 22,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-29"
+      }
+    },
+    "player-23713": {
+      "pace": {
+        "balls": 186,
+        "runs": 272,
+        "dismissals": 16,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-09"
+      },
+      "spin": {
+        "balls": 92,
+        "runs": 115,
+        "dismissals": 4,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-04-22"
+      }
+    },
+    "player-71456": {
+      "spin": {
+        "balls": 243,
+        "runs": 314,
+        "dismissals": 11,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-27"
+      },
+      "pace": {
+        "balls": 353,
+        "runs": 580,
+        "dismissals": 15,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-29"
+      }
+    },
+    "player-17614": {
+      "pace": {
+        "balls": 250,
+        "runs": 335,
+        "dismissals": 17,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-04-23"
+      },
+      "spin": {
+        "balls": 76,
+        "runs": 117,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-30",
+        "to": "2026-04-23"
+      }
+    },
+    "player-68292": {
+      "pace": {
+        "balls": 277,
+        "runs": 455,
+        "dismissals": 17,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-31"
+      },
+      "spin": {
+        "balls": 158,
+        "runs": 212,
+        "dismissals": 8,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-02",
+        "to": "2026-05-26"
+      }
+    },
+    "player-20451": {
+      "pace": {
+        "balls": 622,
+        "runs": 1001,
+        "dismissals": 24,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-24"
+      },
+      "spin": {
+        "balls": 292,
+        "runs": 432,
+        "dismissals": 7,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-24"
+      }
+    },
+    "player-68296": {
+      "pace": {
+        "balls": 268,
+        "runs": 428,
+        "dismissals": 13,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-23"
+      },
+      "spin": {
+        "balls": 173,
+        "runs": 207,
+        "dismissals": 12,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-30",
+        "to": "2026-05-23"
+      }
+    },
+    "player-23906": {
+      "spin": {
+        "balls": 225,
+        "runs": 427,
+        "dismissals": 9,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-19"
+      },
+      "pace": {
+        "balls": 396,
+        "runs": 612,
+        "dismissals": 20,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-23"
+      }
+    },
+    "player-10925": {
+      "pace": {
+        "balls": 250,
+        "runs": 432,
+        "dismissals": 10,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-17"
+      },
+      "spin": {
+        "balls": 141,
+        "runs": 189,
+        "dismissals": 9,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-30",
+        "to": "2026-05-17"
+      }
+    },
+    "player-20456": {
+      "pace": {
+        "balls": 172,
+        "runs": 245,
+        "dismissals": 7,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-26"
+      },
+      "spin": {
+        "balls": 116,
+        "runs": 145,
+        "dismissals": 5,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-07",
+        "to": "2026-05-31"
+      }
+    },
+    "player-65345": {
+      "pace": {
+        "balls": 620,
+        "runs": 941,
+        "dismissals": 25,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-31"
+      },
+      "spin": {
+        "balls": 366,
+        "runs": 606,
+        "dismissals": 6,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-29"
+      }
+    },
+    "player-74538": {
+      "spin": {
+        "balls": 358,
+        "runs": 604,
+        "dismissals": 9,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-29"
+      },
+      "pace": {
+        "balls": 787,
+        "runs": 1162,
+        "dismissals": 25,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-31"
+      }
+    },
+    "player-66512": {
+      "spin": {
+        "balls": 35,
+        "runs": 39,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2025-05-29"
+      },
+      "pace": {
+        "balls": 57,
+        "runs": 96,
+        "dismissals": 7,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-17"
+      }
+    },
+    "player-13575": {
+      "pace": {
+        "balls": 253,
+        "runs": 345,
+        "dismissals": 11,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-24"
+      },
+      "spin": {
+        "balls": 85,
+        "runs": 117,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-31",
+        "to": "2026-05-24"
+      }
+    },
+    "auction-58": {
+      "pace": {
+        "balls": 56,
+        "runs": 70,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2025-04-05"
+      },
+      "spin": {
+        "balls": 62,
+        "runs": 78,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-26",
+        "to": "2025-04-14"
+      }
+    },
+    "player-50536": {
+      "pace": {
+        "balls": 203,
+        "runs": 308,
+        "dismissals": 11,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-31"
+      },
+      "spin": {
+        "balls": 56,
+        "runs": 73,
+        "dismissals": 4,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-07",
+        "to": "2026-05-26"
+      }
+    },
+    "player-25242": {
+      "pace": {
+        "balls": 76,
+        "runs": 109,
+        "dismissals": 7,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-31"
+      },
+      "spin": {
+        "balls": 39,
+        "runs": 55,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-17",
+        "to": "2026-05-26"
+      }
+    },
+    "player-20227": {
+      "pace": {
+        "balls": 476,
+        "runs": 821,
+        "dismissals": 27,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-27"
+      },
+      "spin": {
+        "balls": 195,
+        "runs": 290,
+        "dismissals": 9,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-27",
+        "to": "2026-05-22"
+      }
+    },
+    "player-79429": {
+      "pace": {
+        "balls": 291,
+        "runs": 464,
+        "dismissals": 19,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-24"
+      },
+      "spin": {
+        "balls": 92,
+        "runs": 127,
+        "dismissals": 6,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-27",
+        "to": "2026-05-14"
+      }
+    },
+    "player-11326": {
+      "pace": {
+        "balls": 450,
+        "runs": 713,
+        "dismissals": 19,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-24"
+      },
+      "spin": {
+        "balls": 185,
+        "runs": 247,
+        "dismissals": 11,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-20"
+      }
+    },
+    "player-75144": {
+      "pace": {
+        "balls": 127,
+        "runs": 198,
+        "dismissals": 9,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-21"
+      },
+      "spin": {
+        "balls": 122,
+        "runs": 161,
+        "dismissals": 5,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-21"
+      }
+    },
+    "player-69845": {
+      "spin": {
+        "balls": 244,
+        "runs": 316,
+        "dismissals": 9,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-20"
+      },
+      "pace": {
+        "balls": 394,
+        "runs": 602,
+        "dismissals": 17,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-24"
+      }
+    },
+    "player-67369": {
+      "spin": {
+        "balls": 95,
+        "runs": 158,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-31"
+      },
+      "pace": {
+        "balls": 250,
+        "runs": 434,
+        "dismissals": 13,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-27",
+        "to": "2026-05-31"
+      }
+    },
+    "player-66452": {
+      "pace": {
+        "balls": 19,
+        "runs": 15,
+        "dismissals": 5,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2025-05-25"
+      },
+      "spin": {
+        "balls": 6,
+        "runs": 2,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-01",
+        "to": "2025-05-25"
+      }
+    },
+    "player-16093": {
+      "pace": {
+        "balls": 274,
+        "runs": 385,
+        "dismissals": 22,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-05-24"
+      },
+      "spin": {
+        "balls": 117,
+        "runs": 166,
+        "dismissals": 6,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-01",
+        "to": "2026-05-24"
+      }
+    },
+    "auction-77": {
+      "pace": {
+        "balls": 6,
+        "runs": 7,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2024-05-03"
+      },
+      "spin": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-01",
+        "to": "2024-04-01"
+      }
+    },
+    "player-16096": {
+      "pace": {
+        "balls": 16,
+        "runs": 18,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2026-04-23"
+      },
+      "spin": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-01",
+        "to": "2025-04-07"
+      }
+    },
+    "auction-206": {
+      "pace": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-24",
+        "to": "2024-03-24"
+      }
+    },
+    "player-29333": {
+      "pace": {
+        "balls": 374,
+        "runs": 635,
+        "dismissals": 18,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-25",
+        "to": "2026-05-31"
+      },
+      "spin": {
+        "balls": 208,
+        "runs": 350,
+        "dismissals": 10,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-25",
+        "to": "2026-05-31"
+      }
+    },
+    "player-71449": {
+      "spin": {
+        "balls": 92,
+        "runs": 124,
+        "dismissals": 6,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-26",
+        "to": "2026-05-08"
+      },
+      "pace": {
+        "balls": 185,
+        "runs": 275,
+        "dismissals": 6,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-19",
+        "to": "2026-05-05"
+      }
+    },
+    "auction-186": {
+      "pace": {
+        "balls": 8,
+        "runs": 10,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-26",
+        "to": "2024-04-07"
+      }
+    },
+    "player-66728": {
+      "pace": {
+        "balls": 5,
+        "runs": 2,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-26",
+        "to": "2026-05-21"
+      }
+    },
+    "player-21033": {
+      "pace": {
+        "balls": 484,
+        "runs": 868,
+        "dismissals": 28,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-27",
+        "to": "2026-05-27"
+      },
+      "spin": {
+        "balls": 169,
+        "runs": 271,
+        "dismissals": 12,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-27",
+        "to": "2026-05-06"
+      }
+    },
+    "player-58377": {
+      "pace": {
+        "balls": 76,
+        "runs": 147,
+        "dismissals": 6,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-27",
+        "to": "2026-05-10"
+      },
+      "spin": {
+        "balls": 29,
+        "runs": 48,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-10",
+        "to": "2026-05-07"
+      }
+    },
+    "player-65301": {
+      "pace": {
+        "balls": 79,
+        "runs": 104,
+        "dismissals": 5,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-31",
+        "to": "2024-04-29"
+      },
+      "spin": {
+        "balls": 31,
+        "runs": 70,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2024-03-31",
+        "to": "2024-04-20"
+      }
+    },
+    "player-72670": {
+      "pace": {
+        "balls": 7,
+        "runs": 5,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-01",
+        "to": "2025-05-01"
+      },
+      "spin": {
+        "balls": 7,
+        "runs": 3,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2025-05-01",
+        "to": "2025-05-01"
+      }
+    },
+    "player-74047": {
+      "pace": {
+        "balls": 85,
+        "runs": 160,
+        "dismissals": 7,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-01",
+        "to": "2026-05-24"
+      },
+      "spin": {
+        "balls": 43,
+        "runs": 47,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-01",
+        "to": "2026-05-17"
+      }
+    },
+    "auction-125": {
+      "pace": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-02",
+        "to": "2024-04-02"
+      }
+    },
+    "player-44904": {
+      "spin": {
+        "balls": 19,
+        "runs": 17,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-02",
+        "to": "2026-05-26"
+      },
+      "pace": {
+        "balls": 8,
+        "runs": 3,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-02",
+        "to": "2026-05-26"
+      }
+    },
+    "player-76204": {
+      "pace": {
+        "balls": 316,
+        "runs": 482,
+        "dismissals": 13,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-03",
+        "to": "2026-05-16"
+      },
+      "spin": {
+        "balls": 195,
+        "runs": 246,
+        "dismissals": 8,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-03",
+        "to": "2026-05-16"
+      }
+    },
+    "player-68859": {
+      "spin": {
+        "balls": 11,
+        "runs": 5,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-03",
+        "to": "2024-05-12"
+      },
+      "pace": {
+        "balls": 17,
+        "runs": 21,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-03",
+        "to": "2026-05-10"
+      }
+    },
+    "player-23659": {
+      "spin": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-03",
+        "to": "2024-04-03"
+      },
+      "pace": {
+        "balls": 5,
+        "runs": 3,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-03",
+        "to": "2026-04-01"
+      }
+    },
+    "player-17701": {
+      "pace": {
+        "balls": 7,
+        "runs": 1,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-03",
+        "to": "2024-05-12"
+      }
+    },
+    "auction-90": {
+      "pace": {
+        "balls": 10,
+        "runs": 8,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-04",
+        "to": "2024-04-04"
+      },
+      "spin": {
+        "balls": 12,
+        "runs": 9,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-04",
+        "to": "2024-04-07"
+      }
+    },
+    "auction-243": {
+      "spin": {
+        "balls": 13,
+        "runs": 19,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-04",
+        "to": "2024-04-09"
+      },
+      "pace": {
+        "balls": 20,
+        "runs": 15,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-04",
+        "to": "2024-04-09"
+      }
+    },
+    "player-67627": {
+      "spin": {
+        "balls": 92,
+        "runs": 114,
+        "dismissals": 6,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-04",
+        "to": "2026-05-24"
+      },
+      "pace": {
+        "balls": 208,
+        "runs": 380,
+        "dismissals": 11,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-04",
+        "to": "2026-05-24"
+      }
+    },
+    "player-74028": {
+      "spin": {
+        "balls": 200,
+        "runs": 325,
+        "dismissals": 7,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-05",
+        "to": "2026-05-27"
+      },
+      "pace": {
+        "balls": 300,
+        "runs": 388,
+        "dismissals": 17,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-05",
+        "to": "2026-05-27"
+      }
+    },
+    "auction-135": {
+      "pace": {
+        "balls": 11,
+        "runs": 11,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-06",
+        "to": "2024-04-15"
+      },
+      "spin": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-06",
+        "to": "2024-04-06"
+      }
+    },
+    "player-20861": {
+      "pace": {
+        "balls": 361,
+        "runs": 584,
+        "dismissals": 22,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-07",
+        "to": "2026-05-24"
+      },
+      "spin": {
+        "balls": 294,
+        "runs": 442,
+        "dismissals": 8,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-11",
+        "to": "2026-05-24"
+      }
+    },
+    "player-72805": {
+      "pace": {
+        "balls": 16,
+        "runs": 19,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-07",
+        "to": "2026-04-04"
+      },
+      "spin": {
+        "balls": 5,
+        "runs": 2,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-29",
+        "to": "2026-04-04"
+      }
+    },
+    "auction-319": {
+      "pace": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-07",
+        "to": "2024-04-07"
+      }
+    },
+    "auction-139": {
+      "spin": {
+        "balls": 5,
+        "runs": 2,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-07",
+        "to": "2024-04-07"
+      }
+    },
+    "player-65841": {
+      "pace": {
+        "balls": 24,
+        "runs": 32,
+        "dismissals": 4,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-08",
+        "to": "2026-05-24"
+      },
+      "spin": {
+        "balls": 16,
+        "runs": 23,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-17",
+        "to": "2026-05-24"
+      }
+    },
+    "player-14153": {
+      "pace": {
+        "balls": 74,
+        "runs": 127,
+        "dismissals": 6,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-09",
+        "to": "2026-05-12"
+      },
+      "spin": {
+        "balls": 63,
+        "runs": 87,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-25",
+        "to": "2026-05-27"
+      }
+    },
+    "player-12690": {
+      "pace": {
+        "balls": 51,
+        "runs": 56,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-09",
+        "to": "2026-05-10"
+      },
+      "spin": {
+        "balls": 19,
+        "runs": 10,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-25",
+        "to": "2026-04-30"
+      }
+    },
+    "auction-47": {
+      "pace": {
+        "balls": 47,
+        "runs": 51,
+        "dismissals": 5,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-10",
+        "to": "2025-05-23"
+      },
+      "spin": {
+        "balls": 26,
+        "runs": 16,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-17",
+        "to": "2025-04-23"
+      }
+    },
+    "player-27214": {
+      "spin": {
+        "balls": 55,
+        "runs": 77,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-10",
+        "to": "2026-04-20"
+      },
+      "pace": {
+        "balls": 122,
+        "runs": 207,
+        "dismissals": 9,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-10",
+        "to": "2026-04-30"
+      }
+    },
+    "player-65551": {
+      "pace": {
+        "balls": 153,
+        "runs": 262,
+        "dismissals": 5,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-11",
+        "to": "2026-05-24"
+      },
+      "spin": {
+        "balls": 140,
+        "runs": 212,
+        "dismissals": 6,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-21",
+        "to": "2026-05-24"
+      }
+    },
+    "player-74053": {
+      "pace": {
+        "balls": 6,
+        "runs": 2,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-11",
+        "to": "2026-05-03"
+      },
+      "spin": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-06",
+        "to": "2026-05-06"
+      }
+    },
+    "player-70603": {
+      "pace": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-11",
+        "to": "2025-04-04"
+      }
+    },
+    "player-74055": {
+      "spin": {
+        "balls": 24,
+        "runs": 29,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-12",
+        "to": "2026-05-31"
+      },
+      "pace": {
+        "balls": 47,
+        "runs": 87,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-12",
+        "to": "2026-05-31"
+      }
+    },
+    "auction-15": {
+      "pace": {
+        "balls": 124,
+        "runs": 220,
+        "dismissals": 10,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-12",
+        "to": "2025-04-16"
+      },
+      "spin": {
+        "balls": 34,
+        "runs": 81,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-12",
+        "to": "2025-03-30"
+      }
+    },
+    "auction-51": {
+      "pace": {
+        "balls": 30,
+        "runs": 42,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-13",
+        "to": "2024-05-19"
+      },
+      "spin": {
+        "balls": 5,
+        "runs": 12,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-19",
+        "to": "2024-05-19"
+      }
+    },
+    "auction-204": {
+      "pace": {
+        "balls": 18,
+        "runs": 21,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-13",
+        "to": "2024-04-13"
+      },
+      "spin": {
+        "balls": 7,
+        "runs": 1,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-13",
+        "to": "2024-04-13"
+      }
+    },
+    "player-20866": {
+      "pace": {
+        "balls": 105,
+        "runs": 148,
+        "dismissals": 5,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-13",
+        "to": "2026-05-24"
+      },
+      "spin": {
+        "balls": 90,
+        "runs": 114,
+        "dismissals": 4,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-16",
+        "to": "2026-05-24"
+      }
+    },
+    "auction-241": {
+      "pace": {
+        "balls": 23,
+        "runs": 28,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-14",
+        "to": "2024-04-30"
+      },
+      "spin": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-22",
+        "to": "2024-04-22"
+      }
+    },
+    "player-14330": {
+      "spin": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-16",
+        "to": "2025-04-07"
+      },
+      "pace": {
+        "balls": 13,
+        "runs": 14,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-07",
+        "to": "2026-05-02"
+      }
+    },
+    "player-71151": {
+      "spin": {
+        "balls": 18,
+        "runs": 4,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-17",
+        "to": "2026-05-21"
+      },
+      "pace": {
+        "balls": 23,
+        "runs": 12,
+        "dismissals": 6,
+        "source": "https://cricsheet.org/",
+        "from": "2025-03-28",
+        "to": "2026-05-21"
+      }
+    },
+    "auction-158": {
+      "pace": {
+        "balls": 56,
+        "runs": 101,
+        "dismissals": 5,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-18",
+        "to": "2024-05-19"
+      },
+      "spin": {
+        "balls": 30,
+        "runs": 36,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-21",
+        "to": "2024-05-09"
+      }
+    },
+    "player-18000": {
+      "pace": {
+        "balls": 32,
+        "runs": 35,
+        "dismissals": 5,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-18",
+        "to": "2026-05-03"
+      },
+      "spin": {
+        "balls": 5,
+        "runs": 3,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-05",
+        "to": "2025-04-03"
+      }
+    },
+    "player-19720": {
+      "pace": {
+        "balls": 32,
+        "runs": 46,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-18",
+        "to": "2026-05-31"
+      },
+      "spin": {
+        "balls": 11,
+        "runs": 10,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2025-05-22",
+        "to": "2026-05-26"
+      }
+    },
+    "auction-163": {
+      "spin": {
+        "balls": 38,
+        "runs": 56,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-19",
+        "to": "2025-03-26"
+      },
+      "pace": {
+        "balls": 57,
+        "runs": 67,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-19",
+        "to": "2025-04-21"
+      }
+    },
+    "player-31742": {
+      "pace": {
+        "balls": 9,
+        "runs": 3,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-20",
+        "to": "2024-05-12"
+      }
+    },
+    "auction-81": {
+      "pace": {
+        "balls": 12,
+        "runs": 26,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-21",
+        "to": "2025-05-06"
+      }
+    },
+    "player-20183": {
+      "pace": {
+        "balls": 2,
+        "runs": 5,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-21",
+        "to": "2025-04-05"
+      }
+    },
+    "player-68289": {
+      "spin": {
+        "balls": 107,
+        "runs": 141,
+        "dismissals": 5,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-22",
+        "to": "2026-04-25"
+      },
+      "pace": {
+        "balls": 158,
+        "runs": 212,
+        "dismissals": 11,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-22",
+        "to": "2026-05-03"
+      }
+    },
+    "player-65783": {
+      "pace": {
+        "balls": 6,
+        "runs": 13,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-24",
+        "to": "2025-05-25"
+      },
+      "spin": {
+        "balls": 7,
+        "runs": 3,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2025-05-22",
+        "to": "2025-05-25"
+      }
+    },
+    "player-20729": {
+      "pace": {
+        "balls": 12,
+        "runs": 22,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-25",
+        "to": "2024-05-22"
+      },
+      "spin": {
+        "balls": 9,
+        "runs": 15,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-04",
+        "to": "2024-05-04"
+      }
+    },
+    "player-15271": {
+      "pace": {
+        "balls": 15,
+        "runs": 17,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-25",
+        "to": "2026-03-28"
+      },
+      "spin": {
+        "balls": 5,
+        "runs": 3,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-26",
+        "to": "2024-05-26"
+      }
+    },
+    "auction-50": {
+      "pace": {
+        "balls": 6,
+        "runs": 5,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-28",
+        "to": "2024-05-02"
+      }
+    },
+    "auction-160": {
+      "spin": {
+        "balls": 8,
+        "runs": 16,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-30",
+        "to": "2024-05-05"
+      },
+      "pace": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-04-30",
+        "to": "2024-04-30"
+      }
+    },
+    "player-16935": {
+      "spin": {
+        "balls": 56,
+        "runs": 74,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-03",
+        "to": "2026-05-24"
+      },
+      "pace": {
+        "balls": 69,
+        "runs": 105,
+        "dismissals": 4,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-03",
+        "to": "2026-05-24"
+      }
+    },
+    "player-70453": {
+      "pace": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-04",
+        "to": "2024-05-04"
+      }
+    },
+    "player-14334": {
+      "pace": {
+        "balls": 46,
+        "runs": 63,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-05",
+        "to": "2026-04-12"
+      },
+      "spin": {
+        "balls": 11,
+        "runs": 5,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-05",
+        "to": "2025-04-07"
+      }
+    },
+    "player-27765": {
+      "spin": {
+        "balls": 15,
+        "runs": 11,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-05",
+        "to": "2026-05-24"
+      },
+      "pace": {
+        "balls": 36,
+        "runs": 34,
+        "dismissals": 4,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-05",
+        "to": "2026-05-24"
+      }
+    },
+    "player-44044": {
+      "pace": {
+        "balls": 20,
+        "runs": 30,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-05",
+        "to": "2026-05-09"
+      },
+      "spin": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-09",
+        "to": "2025-04-09"
+      }
+    },
+    "player-27711": {
+      "pace": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-05",
+        "to": "2024-05-05"
+      }
+    },
+    "player-63511": {
+      "pace": {
+        "balls": 9,
+        "runs": 7,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-05",
+        "to": "2024-05-09"
+      }
+    },
+    "player-82909": {
+      "pace": {
+        "balls": 18,
+        "runs": 16,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-05",
+        "to": "2026-05-23"
+      },
+      "spin": {
+        "balls": 7,
+        "runs": 2,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-07",
+        "to": "2026-05-07"
+      }
+    },
+    "player-70430": {
+      "spin": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-05",
+        "to": "2024-05-05"
+      },
+      "pace": {
+        "balls": 20,
+        "runs": 14,
+        "dismissals": 4,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-14",
+        "to": "2026-04-19"
+      }
+    },
+    "player-68021": {
+      "pace": {
+        "balls": 86,
+        "runs": 93,
+        "dismissals": 4,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-06",
+        "to": "2026-05-14"
+      },
+      "spin": {
+        "balls": 22,
+        "runs": 41,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-06",
+        "to": "2026-05-06"
+      }
+    },
+    "auction-132": {
+      "pace": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-06",
+        "to": "2024-05-06"
+      },
+      "spin": {
+        "balls": 5,
+        "runs": 6,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-19",
+        "to": "2024-05-21"
+      }
+    },
+    "auction-242": {
+      "spin": {
+        "balls": 5,
+        "runs": 13,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-07",
+        "to": "2024-05-07"
+      },
+      "pace": {
+        "balls": 6,
+        "runs": 3,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-07",
+        "to": "2024-05-07"
+      }
+    },
+    "player-68473": {
+      "pace": {
+        "balls": 118,
+        "runs": 188,
+        "dismissals": 8,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-07",
+        "to": "2026-05-29"
+      },
+      "spin": {
+        "balls": 60,
+        "runs": 120,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-07",
+        "to": "2026-05-29"
+      }
+    },
+    "player-67190": {
+      "pace": {
+        "balls": 7,
+        "runs": 6,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-09",
+        "to": "2025-04-15"
+      },
+      "spin": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-03",
+        "to": "2026-05-03"
+      }
+    },
+    "auction-184": {
+      "pace": {
+        "balls": 3,
+        "runs": 0,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-14",
+        "to": "2024-05-14"
+      }
+    },
+    "player-20223": {
+      "pace": {
+        "balls": 16,
+        "runs": 20,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-15",
+        "to": "2026-04-15"
+      },
+      "spin": {
+        "balls": 4,
+        "runs": 10,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2025-05-04",
+        "to": "2025-05-04"
+      }
+    },
+    "auction-207": {
+      "pace": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-19",
+        "to": "2024-05-19"
+      }
+    },
+    "auction-29": {
+      "pace": {
+        "balls": 73,
+        "runs": 91,
+        "dismissals": 4,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-21",
+        "to": "2025-05-07"
+      },
+      "spin": {
+        "balls": 8,
+        "runs": 13,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2024-05-26",
+        "to": "2024-05-26"
+      }
+    },
+    "player-77153": {
+      "pace": {
+        "balls": 31,
+        "runs": 27,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2025-03-22",
+        "to": "2025-05-25"
+      },
+      "spin": {
+        "balls": 18,
+        "runs": 29,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2025-03-31",
+        "to": "2025-05-25"
+      }
+    },
+    "player-87977": {
+      "pace": {
+        "balls": 98,
+        "runs": 134,
+        "dismissals": 6,
+        "source": "https://cricsheet.org/",
+        "from": "2025-03-23",
+        "to": "2026-05-03"
+      },
+      "spin": {
+        "balls": 74,
+        "runs": 125,
+        "dismissals": 8,
+        "source": "https://cricsheet.org/",
+        "from": "2025-03-27",
+        "to": "2026-05-03"
+      }
+    },
+    "player-28503": {
+      "pace": {
+        "balls": 69,
+        "runs": 90,
+        "dismissals": 10,
+        "source": "https://cricsheet.org/",
+        "from": "2025-03-23",
+        "to": "2026-05-29"
+      },
+      "spin": {
+        "balls": 14,
+        "runs": 17,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-09",
+        "to": "2026-05-24"
+      }
+    },
+    "player-37670": {
+      "pace": {
+        "balls": 295,
+        "runs": 506,
+        "dismissals": 16,
+        "source": "https://cricsheet.org/",
+        "from": "2025-03-23",
+        "to": "2026-05-24"
+      },
+      "spin": {
+        "balls": 110,
+        "runs": 209,
+        "dismissals": 5,
+        "source": "https://cricsheet.org/",
+        "from": "2025-03-31",
+        "to": "2026-05-20"
+      }
+    },
+    "player-84159": {
+      "spin": {
+        "balls": 8,
+        "runs": 3,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2025-03-23",
+        "to": "2025-03-29"
+      },
+      "pace": {
+        "balls": 7,
+        "runs": 8,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2025-03-29",
+        "to": "2026-05-02"
+      }
+    },
+    "player-19257": {
+      "spin": {
+        "balls": 7,
+        "runs": 2,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2025-03-23",
+        "to": "2025-05-06"
+      },
+      "pace": {
+        "balls": 26,
+        "runs": 37,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2025-03-23",
+        "to": "2026-05-24"
+      }
+    },
+    "player-86874": {
+      "spin": {
+        "balls": 38,
+        "runs": 78,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2025-03-24",
+        "to": "2025-05-21"
+      },
+      "pace": {
+        "balls": 32,
+        "runs": 44,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2025-03-24",
+        "to": "2026-05-08"
+      }
+    },
+    "player-75656": {
+      "pace": {
+        "balls": 340,
+        "runs": 655,
+        "dismissals": 17,
+        "source": "https://cricsheet.org/",
+        "from": "2025-03-25",
+        "to": "2026-05-23"
+      },
+      "spin": {
+        "balls": 78,
+        "runs": 151,
+        "dismissals": 9,
+        "source": "https://cricsheet.org/",
+        "from": "2025-03-25",
+        "to": "2026-04-25"
+      }
+    },
+    "player-66048": {
+      "pace": {
+        "balls": 132,
+        "runs": 207,
+        "dismissals": 10,
+        "source": "https://cricsheet.org/",
+        "from": "2025-03-25",
+        "to": "2026-05-14"
+      },
+      "spin": {
+        "balls": 65,
+        "runs": 108,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-02",
+        "to": "2026-05-14"
+      }
+    },
+    "player-26489": {
+      "spin": {
+        "balls": 11,
+        "runs": 8,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2025-03-26",
+        "to": "2025-05-04"
+      },
+      "pace": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-24",
+        "to": "2025-05-18"
+      }
+    },
+    "player-11458": {
+      "pace": {
+        "balls": 25,
+        "runs": 38,
+        "dismissals": 5,
+        "source": "https://cricsheet.org/",
+        "from": "2025-03-27",
+        "to": "2026-05-10"
+      },
+      "spin": {
+        "balls": 6,
+        "runs": 2,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-03",
+        "to": "2026-04-09"
+      }
+    },
+    "auction-73": {
+      "pace": {
+        "balls": 6,
+        "runs": 3,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2025-03-27",
+        "to": "2025-04-06"
+      },
+      "spin": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-03",
+        "to": "2025-04-03"
+      }
+    },
+    "auction-441": {
+      "spin": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2025-03-30",
+        "to": "2025-03-30"
+      },
+      "pace": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2025-03-30",
+        "to": "2025-03-30"
+      }
+    },
+    "auction-82": {
+      "pace": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2025-03-30",
+        "to": "2025-03-30"
+      },
+      "spin": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2025-05-01",
+        "to": "2025-05-01"
+      }
+    },
+    "player-10301": {
+      "pace": {
+        "balls": 67,
+        "runs": 114,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2025-03-30",
+        "to": "2026-04-26"
+      },
+      "spin": {
+        "balls": 10,
+        "runs": 12,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-03-30",
+        "to": "2026-03-30"
+      }
+    },
+    "auction-14": {
+      "pace": {
+        "balls": 62,
+        "runs": 86,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-05",
+        "to": "2025-05-25"
+      },
+      "spin": {
+        "balls": 33,
+        "runs": 44,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-08",
+        "to": "2025-05-25"
+      }
+    },
+    "player-78777": {
+      "pace": {
+        "balls": 57,
+        "runs": 85,
+        "dismissals": 5,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-05",
+        "to": "2026-05-23"
+      },
+      "spin": {
+        "balls": 28,
+        "runs": 60,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-15",
+        "to": "2026-05-17"
+      }
+    },
+    "player-20226": {
+      "pace": {
+        "balls": 230,
+        "runs": 382,
+        "dismissals": 10,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-06",
+        "to": "2026-05-31"
+      },
+      "spin": {
+        "balls": 67,
+        "runs": 74,
+        "dismissals": 4,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-12",
+        "to": "2026-05-31"
+      }
+    },
+    "player-15660": {
+      "spin": {
+        "balls": 2,
+        "runs": 3,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-09",
+        "to": "2025-04-09"
+      },
+      "pace": {
+        "balls": 3,
+        "runs": 3,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-09",
+        "to": "2025-04-09"
+      }
+    },
+    "player-70442": {
+      "pace": {
+        "balls": 34,
+        "runs": 46,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-11",
+        "to": "2026-05-21"
+      },
+      "spin": {
+        "balls": 8,
+        "runs": 7,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-30",
+        "to": "2026-05-21"
+      }
+    },
+    "player-16936": {
+      "pace": {
+        "balls": 87,
+        "runs": 143,
+        "dismissals": 5,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-13",
+        "to": "2026-05-05"
+      },
+      "spin": {
+        "balls": 46,
+        "runs": 73,
+        "dismissals": 4,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-13",
+        "to": "2026-05-05"
+      }
+    },
+    "player-37709": {
+      "spin": {
+        "balls": 95,
+        "runs": 146,
+        "dismissals": 6,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-15",
+        "to": "2026-05-23"
+      },
+      "pace": {
+        "balls": 179,
+        "runs": 318,
+        "dismissals": 6,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-18",
+        "to": "2026-05-23"
+      }
+    },
+    "player-55170": {
+      "spin": {
+        "balls": 10,
+        "runs": 6,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-15",
+        "to": "2025-04-15"
+      },
+      "pace": {
+        "balls": 18,
+        "runs": 34,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-15",
+        "to": "2026-05-14"
+      }
+    },
+    "player-72965": {
+      "pace": {
+        "balls": 10,
+        "runs": 1,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-15",
+        "to": "2026-04-02"
+      },
+      "spin": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-17",
+        "to": "2026-04-17"
+      }
+    },
+    "auction-270": {
+      "spin": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-18",
+        "to": "2025-04-18"
+      },
+      "pace": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-18",
+        "to": "2025-04-18"
+      }
+    },
+    "player-68716": {
+      "spin": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-18",
+        "to": "2025-04-18"
+      },
+      "pace": {
+        "balls": 7,
+        "runs": 4,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2025-05-23",
+        "to": "2025-06-03"
+      }
+    },
+    "player-14327": {
+      "spin": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-18",
+        "to": "2025-04-18"
+      },
+      "pace": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-30",
+        "to": "2026-04-30"
+      }
+    },
+    "player-83313": {
+      "pace": {
+        "balls": 343,
+        "runs": 816,
+        "dismissals": 16,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-19",
+        "to": "2026-05-29"
+      },
+      "spin": {
+        "balls": 95,
+        "runs": 205,
+        "dismissals": 5,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-19",
+        "to": "2026-05-29"
+      }
+    },
+    "player-86445": {
+      "pace": {
+        "balls": 170,
+        "runs": 336,
+        "dismissals": 11,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-20",
+        "to": "2026-04-18"
+      },
+      "spin": {
+        "balls": 44,
+        "runs": 58,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-20",
+        "to": "2026-04-14"
+      }
+    },
+    "auction-252": {
+      "pace": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-24",
+        "to": "2025-04-24"
+      }
+    },
+    "player-43272": {
+      "pace": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-25",
+        "to": "2025-04-25"
+      }
+    },
+    "player-22181": {
+      "pace": {
+        "balls": 41,
+        "runs": 65,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-27",
+        "to": "2026-05-24"
+      },
+      "spin": {
+        "balls": 17,
+        "runs": 18,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-27",
+        "to": "2026-05-24"
+      }
+    },
+    "player-84374": {
+      "pace": {
+        "balls": 10,
+        "runs": 4,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-27",
+        "to": "2026-04-26"
+      },
+      "spin": {
+        "balls": 1,
+        "runs": 1,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2025-05-04",
+        "to": "2025-05-04"
+      }
+    },
+    "player-86771": {
+      "pace": {
+        "balls": 8,
+        "runs": 3,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-27",
+        "to": "2026-04-22"
+      }
+    },
+    "player-13294": {
+      "pace": {
+        "balls": 8,
+        "runs": 5,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-27",
+        "to": "2025-05-21"
+      },
+      "spin": {
+        "balls": 4,
+        "runs": 4,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-29",
+        "to": "2025-05-21"
+      }
+    },
+    "player-73907": {
+      "spin": {
+        "balls": 26,
+        "runs": 35,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-27",
+        "to": "2026-05-17"
+      },
+      "pace": {
+        "balls": 77,
+        "runs": 107,
+        "dismissals": 7,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-27",
+        "to": "2026-05-17"
+      }
+    },
+    "player-68649": {
+      "pace": {
+        "balls": 7,
+        "runs": 6,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2025-04-29",
+        "to": "2026-05-24"
+      }
+    },
+    "player-67543": {
+      "pace": {
+        "balls": 63,
+        "runs": 118,
+        "dismissals": 4,
+        "source": "https://cricsheet.org/",
+        "from": "2025-05-07",
+        "to": "2026-05-21"
+      },
+      "spin": {
+        "balls": 27,
+        "runs": 72,
+        "dismissals": 4,
+        "source": "https://cricsheet.org/",
+        "from": "2025-05-07",
+        "to": "2026-05-10"
+      }
+    },
+    "player-76217": {
+      "pace": {
+        "balls": 2,
+        "runs": 8,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2025-05-18",
+        "to": "2025-05-18"
+      }
+    },
+    "player-87978": {
+      "spin": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2025-05-21",
+        "to": "2025-05-21"
+      },
+      "pace": {
+        "balls": 5,
+        "runs": 10,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2025-05-21",
+        "to": "2026-05-11"
+      }
+    },
+    "player-19402": {
+      "pace": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2025-05-21",
+        "to": "2025-05-21"
+      }
+    },
+    "player-28230": {
+      "pace": {
+        "balls": 8,
+        "runs": 4,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2025-05-23",
+        "to": "2026-05-08"
+      },
+      "spin": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-21",
+        "to": "2026-04-21"
+      }
+    },
+    "player-32332": {
+      "spin": {
+        "balls": 5,
+        "runs": 9,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2025-05-27",
+        "to": "2025-05-27"
+      }
+    },
+    "player-33186": {
+      "pace": {
+        "balls": 10,
+        "runs": 11,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2025-05-29",
+        "to": "2026-04-27"
+      },
+      "spin": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-27",
+        "to": "2026-04-27"
+      }
+    },
+    "auction-174": {
+      "pace": {
+        "balls": 8,
+        "runs": 19,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2025-05-30",
+        "to": "2025-05-30"
+      },
+      "spin": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2025-05-30",
+        "to": "2025-05-30"
+      }
+    },
+    "player-76211": {
+      "pace": {
+        "balls": 18,
+        "runs": 24,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2025-06-01",
+        "to": "2026-05-10"
+      }
+    },
+    "auction-230": {
+      "spin": {
+        "balls": 6,
+        "runs": 3,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2025-05-24",
+        "to": "2025-05-24"
+      },
+      "pace": {
+        "balls": 10,
+        "runs": 19,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2025-05-24",
+        "to": "2025-05-24"
+      }
+    },
+    "player-72140": {
+      "pace": {
+        "balls": 73,
+        "runs": 134,
+        "dismissals": 4,
+        "source": "https://cricsheet.org/",
+        "from": "2026-03-28",
+        "to": "2026-05-27"
+      },
+      "spin": {
+        "balls": 21,
+        "runs": 17,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-11",
+        "to": "2026-05-27"
+      }
+    },
+    "player-74025": {
+      "pace": {
+        "balls": 9,
+        "runs": 13,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2026-03-28",
+        "to": "2026-04-11"
+      }
+    },
+    "player-11256": {
+      "pace": {
+        "balls": 5,
+        "runs": 6,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-03-28",
+        "to": "2026-03-28"
+      }
+    },
+    "player-26170": {
+      "pace": {
+        "balls": 110,
+        "runs": 200,
+        "dismissals": 8,
+        "source": "https://cricsheet.org/",
+        "from": "2026-03-29",
+        "to": "2026-05-24"
+      },
+      "spin": {
+        "balls": 39,
+        "runs": 88,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2026-03-29",
+        "to": "2026-05-16"
+      }
+    },
+    "player-20224": {
+      "pace": {
+        "balls": 63,
+        "runs": 122,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2026-03-30",
+        "to": "2026-04-26"
+      },
+      "spin": {
+        "balls": 32,
+        "runs": 39,
+        "dismissals": 4,
+        "source": "https://cricsheet.org/",
+        "from": "2026-03-30",
+        "to": "2026-04-23"
+      }
+    },
+    "player-20067": {
+      "pace": {
+        "balls": 35,
+        "runs": 46,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2026-03-30",
+        "to": "2026-05-21"
+      },
+      "spin": {
+        "balls": 10,
+        "runs": 11,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-18",
+        "to": "2026-04-18"
+      }
+    },
+    "player-87338": {
+      "pace": {
+        "balls": 117,
+        "runs": 166,
+        "dismissals": 7,
+        "source": "https://cricsheet.org/",
+        "from": "2026-03-30",
+        "to": "2026-05-21"
+      },
+      "spin": {
+        "balls": 96,
+        "runs": 128,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2026-03-30",
+        "to": "2026-05-18"
+      }
+    },
+    "player-18052": {
+      "pace": {
+        "balls": 8,
+        "runs": 7,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2026-03-30",
+        "to": "2026-04-05"
+      },
+      "spin": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2026-03-30",
+        "to": "2026-03-30"
+      }
+    },
+    "player-26160": {
+      "spin": {
+        "balls": 17,
+        "runs": 20,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2026-03-31",
+        "to": "2026-04-20"
+      },
+      "pace": {
+        "balls": 32,
+        "runs": 35,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2026-03-31",
+        "to": "2026-04-20"
+      }
+    },
+    "player-73472": {
+      "pace": {
+        "balls": 170,
+        "runs": 263,
+        "dismissals": 6,
+        "source": "https://cricsheet.org/",
+        "from": "2026-03-31",
+        "to": "2026-05-23"
+      },
+      "spin": {
+        "balls": 109,
+        "runs": 202,
+        "dismissals": 4,
+        "source": "https://cricsheet.org/",
+        "from": "2026-03-31",
+        "to": "2026-05-14"
+      }
+    },
+    "player-79805": {
+      "spin": {
+        "balls": 27,
+        "runs": 34,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-01",
+        "to": "2026-04-26"
+      },
+      "pace": {
+        "balls": 83,
+        "runs": 124,
+        "dismissals": 4,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-01",
+        "to": "2026-05-23"
+      }
+    },
+    "player-67617": {
+      "pace": {
+        "balls": 4,
+        "runs": 0,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-01",
+        "to": "2026-04-22"
+      }
+    },
+    "player-34256": {
+      "pace": {
+        "balls": 113,
+        "runs": 203,
+        "dismissals": 7,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-01",
+        "to": "2026-05-08"
+      },
+      "spin": {
+        "balls": 59,
+        "runs": 72,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-04",
+        "to": "2026-05-08"
+      }
+    },
+    "player-90837": {
+      "pace": {
+        "balls": 30,
+        "runs": 42,
+        "dismissals": 5,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-02",
+        "to": "2026-05-27"
+      },
+      "spin": {
+        "balls": 10,
+        "runs": 9,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-03",
+        "to": "2026-05-27"
+      }
+    },
+    "player-66831": {
+      "pace": {
+        "balls": 10,
+        "runs": 11,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-02",
+        "to": "2026-05-24"
+      }
+    },
+    "player-82907": {
+      "pace": {
+        "balls": 45,
+        "runs": 56,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-03",
+        "to": "2026-05-18"
+      },
+      "spin": {
+        "balls": 10,
+        "runs": 24,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-05",
+        "to": "2026-04-05"
+      }
+    },
+    "player-76540": {
+      "pace": {
+        "balls": 4,
+        "runs": 1,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-04",
+        "to": "2026-04-20"
+      }
+    },
+    "player-68788": {
+      "spin": {
+        "balls": 1,
+        "runs": 4,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-11",
+        "to": "2026-04-11"
+      },
+      "pace": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-11",
+        "to": "2026-04-11"
+      }
+    },
+    "player-37001": {
+      "pace": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-11",
+        "to": "2026-04-11"
+      }
+    },
+    "player-20680": {
+      "pace": {
+        "balls": 18,
+        "runs": 23,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-12",
+        "to": "2026-04-26"
+      },
+      "spin": {
+        "balls": 3,
+        "runs": 8,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-26",
+        "to": "2026-04-26"
+      }
+    },
+    "player-81719": {
+      "pace": {
+        "balls": 6,
+        "runs": 5,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-13",
+        "to": "2026-05-19"
+      },
+      "spin": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-19",
+        "to": "2026-05-19"
+      }
+    },
+    "player-52827": {
+      "pace": {
+        "balls": 9,
+        "runs": 14,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-13",
+        "to": "2026-05-27"
+      }
+    },
+    "player-20009": {
+      "pace": {
+        "balls": 18,
+        "runs": 19,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-17",
+        "to": "2026-04-26"
+      }
+    },
+    "player-87731": {
+      "pace": {
+        "balls": 5,
+        "runs": 0,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-18",
+        "to": "2026-05-12"
+      },
+      "spin": {
+        "balls": 4,
+        "runs": 3,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-12",
+        "to": "2026-05-12"
+      }
+    },
+    "player-90896": {
+      "pace": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-19",
+        "to": "2026-05-09"
+      }
+    },
+    "player-54303": {
+      "pace": {
+        "balls": 38,
+        "runs": 53,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-19",
+        "to": "2026-05-10"
+      },
+      "spin": {
+        "balls": 31,
+        "runs": 39,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-22",
+        "to": "2026-05-10"
+      }
+    },
+    "player-87528": {
+      "pace": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-20",
+        "to": "2026-04-20"
+      },
+      "spin": {
+        "balls": 1,
+        "runs": 0,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-23",
+        "to": "2026-04-23"
+      }
+    },
+    "player-76160": {
+      "pace": {
+        "balls": 5,
+        "runs": 5,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-22",
+        "to": "2026-04-22"
+      }
+    },
+    "player-24868": {
+      "pace": {
+        "balls": 3,
+        "runs": 5,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-23",
+        "to": "2026-05-18"
+      }
+    },
+    "player-87066": {
+      "spin": {
+        "balls": 8,
+        "runs": 4,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-23",
+        "to": "2026-04-23"
+      },
+      "pace": {
+        "balls": 13,
+        "runs": 6,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-23",
+        "to": "2026-05-02"
+      }
+    },
+    "player-72996": {
+      "pace": {
+        "balls": 6,
+        "runs": 1,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-23",
+        "to": "2026-04-23"
+      }
+    },
+    "player-12693": {
+      "pace": {
+        "balls": 43,
+        "runs": 46,
+        "dismissals": 4,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-24",
+        "to": "2026-05-31"
+      },
+      "spin": {
+        "balls": 5,
+        "runs": 17,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-24",
+        "to": "2026-04-24"
+      }
+    },
+    "player-86350": {
+      "pace": {
+        "balls": 9,
+        "runs": 7,
+        "dismissals": 3,
+        "source": "https://cricsheet.org/",
+        "from": "2026-04-27",
+        "to": "2026-05-17"
+      },
+      "spin": {
+        "balls": 18,
+        "runs": 25,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-17",
+        "to": "2026-05-24"
+      }
+    },
+    "player-83039": {
+      "pace": {
+        "balls": 23,
+        "runs": 19,
+        "dismissals": 2,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-03",
+        "to": "2026-05-27"
+      },
+      "spin": {
+        "balls": 2,
+        "runs": 0,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-03",
+        "to": "2026-05-03"
+      }
+    },
+    "player-77440": {
+      "pace": {
+        "balls": 11,
+        "runs": 4,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-03",
+        "to": "2026-05-27"
+      },
+      "spin": {
+        "balls": 6,
+        "runs": 3,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-12",
+        "to": "2026-05-27"
+      }
+    },
+    "player-76212": {
+      "pace": {
+        "balls": 42,
+        "runs": 49,
+        "dismissals": 4,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-03",
+        "to": "2026-05-31"
+      },
+      "spin": {
+        "balls": 4,
+        "runs": 2,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-16",
+        "to": "2026-05-31"
+      }
+    },
+    "player-76593": {
+      "spin": {
+        "balls": 18,
+        "runs": 20,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-04",
+        "to": "2026-05-10"
+      },
+      "pace": {
+        "balls": 7,
+        "runs": 9,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-10",
+        "to": "2026-05-10"
+      }
+    },
+    "player-16094": {
+      "spin": {
+        "balls": 14,
+        "runs": 27,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-09",
+        "to": "2026-05-24"
+      },
+      "pace": {
+        "balls": 31,
+        "runs": 35,
+        "dismissals": 4,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-09",
+        "to": "2026-05-29"
+      }
+    },
+    "player-34672": {
+      "pace": {
+        "balls": 8,
+        "runs": 15,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-14",
+        "to": "2026-05-14"
+      }
+    },
+    "player-86608": {
+      "pace": {
+        "balls": 2,
+        "runs": 4,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-17",
+        "to": "2026-05-17"
+      }
+    },
+    "player-20007": {
+      "pace": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-17",
+        "to": "2026-05-17"
+      }
+    },
+    "player-86769": {
+      "spin": {
+        "balls": 7,
+        "runs": 6,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-20",
+        "to": "2026-05-24"
+      },
+      "pace": {
+        "balls": 8,
+        "runs": 6,
+        "dismissals": 1,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-20",
+        "to": "2026-05-20"
+      }
+    },
+    "player-70580": {
+      "spin": {
+        "balls": 2,
+        "runs": 2,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-21",
+        "to": "2026-05-21"
+      }
+    },
+    "player-68286": {
+      "pace": {
+        "balls": 5,
+        "runs": 5,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-23",
+        "to": "2026-05-23"
+      }
+    },
+    "player-78206": {
+      "pace": {
+        "balls": 3,
+        "runs": 2,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-24",
+        "to": "2026-05-24"
+      }
+    },
+    "player-72721": {
+      "pace": {
+        "balls": 2,
+        "runs": 4,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-24",
+        "to": "2026-05-24"
+      }
+    },
+    "player-59553": {
+      "pace": {
+        "balls": 5,
+        "runs": 5,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-26",
+        "to": "2026-05-26"
+      },
+      "spin": {
+        "balls": 2,
+        "runs": 1,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-26",
+        "to": "2026-05-26"
+      }
+    },
+    "player-71452": {
+      "pace": {
+        "balls": 3,
+        "runs": 1,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-27",
+        "to": "2026-05-27"
+      }
+    },
+    "player-78832": {
+      "pace": {
+        "balls": 7,
+        "runs": 5,
+        "dismissals": 0,
+        "source": "https://cricsheet.org/",
+        "from": "2026-05-27",
+        "to": "2026-05-27"
+      }
+    }
+  }
+}

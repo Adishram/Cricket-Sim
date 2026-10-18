@@ -1,0 +1,8 @@
+import type {Match,Cricketer,Tactics} from './index';
+import {bowlingKind} from './matchup';
+import {DEFAULT_BOWLING} from './planning';
+export const CAPTAIN_STYLES=['Aggressive','Conservative','Analytical','Flexible'] as const;
+export function captainStyle(id:string){return CAPTAIN_STYLES[[...id].reduce((n,s)=>n+s.charCodeAt(0),0)%4];}
+/** Uses public current conditions and its own XI, never an opponent's future commands. */
+export function botTactics(m:Match,team:number):Tactics{const i=m.innings.at(-1)!,side=m.teams[team],t=m.tactics[team],personality=captainStyle(side.id),required=i.target?(i.target-i.score)/Math.max(1,i.maxBalls-i.balls)*6:8;const raw=i.wickets>=7?1:i.balls>=90||required>10?3:2;const aggression=Math.max(0,Math.min(4,raw+(personality==='Aggressive'?1:personality==='Conservative'?-1:0))) as Tactics['aggression'];const plans=Object.fromEntries(side.xi.filter(p=>/bowl|all/i.test(p.role)).map(p=>[p.id,{...DEFAULT_BOWLING,line:i.balls>=90?'wide' as const:'off' as const,length:i.balls>=90&&p.control>=65&&bowlingKind(p.style)==='pace'?'wide-yorker' as const:'good' as const,pace:i.balls>=36&&i.balls<90&&personality==='Analytical'?'slower' as const:'stock' as const}]));return {...t,aggression:team===i.team?aggression:2,intent:i.wickets<5?'attack':'defend',field:i.balls>=90?'defensive':i.wickets>=6?'attacking':'balanced',bowlingPlans:plans};}
+export function botBatterOrder(pool:Cricketer[],balls:number,wickets:number){return [...pool].sort((a,b)=>{const score=(p:Cricketer)=>p.batting+(balls>=90&&/all/i.test(p.role)?5:0)-(wickets<4&&/bowl/i.test(p.role)&&!/all/i.test(p.role)?8:0);return score(b)-score(a)||a.id.localeCompare(b.id);});}

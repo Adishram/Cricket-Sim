@@ -1,13 +1,13 @@
 import snapshot from './snapshot.json';
-import formData from './form-2026.json';
+import recentData from './recent-evidence.json';
 import register from './auction-register.json';
 import {computeRating,type Rating,type SeasonForm,type Evidence} from './rating';
 export type {Rating} from './rating';
 export type Career={competition:string;source:string;provider:string;asOf:string;coverage:string;matches:number;fallback:boolean;batting:{innings:number;runs:number|null;average:number|null;strikeRate:number|null}|null;bowling:{innings:number;wickets:number|null;economy:number|null;average:number|null;strikeRate:number|null}|null};
-export type Player={id:string;name:string;country:string;role:string;bat:string;bowl:string;rating:Rating;form:SeasonForm|null;base:number;overseas:boolean;initials:string;color:string;seasonTeam:string;squadSource:string;career:Career|null;auction?:{year:number;setNumber:number;setCode:string;base:number;source:string;eligibility:string}};
-const seasonForm=formData.players as Record<string,SeasonForm>;
+export type Player={id:string;name:string;country:string;role:string;bat:string;bowl:string;rating:Rating;form:SeasonForm|null;formSeason:number|null;formCompetition:string|null;base:number;overseas:boolean;initials:string;color:string;seasonTeam:string;squadSource:string;career:Career|null;auction?:{year:number;setNumber:number;setCode:string;base:number;source:string;eligibility:string}};
+const recent=recentData.players as Record<string,Evidence[]>;const capped=new Set(recentData.verifiedT20ICapped);
 const meta=register.meta as Record<string,NonNullable<Player['auction']>>;
-export const players:Player[]=[...snapshot.players,...register.extra].map(p=>{const form=seasonForm[p.id]??null;const evidence:Evidence[]=form?[{season:2026,competition:'IPL',source:'OpenIPL / Cricsheet · IPL 2026 scorecards',complete:true,form}]:[];return {...p,base:meta[p.id]?.base??p.base,form,auction:meta[p.id],rating:computeRating(p.role,evidence,'unknown')};});
+export const players:Player[]=[...snapshot.players,...register.extra].map(p=>{const evidence=recent[p.id]??[],latest=[...evidence].filter(e=>e.competition==='IPL').sort((a,b)=>b.season-a.season)[0]??[...evidence].sort((a,b)=>b.season-a.season)[0];return {...p,base:meta[p.id]?.base??p.base,form:latest?.form??null,formSeason:latest?.season??null,formCompetition:latest?.competitionId??latest?.competition??null,auction:meta[p.id],rating:computeRating(p.role,evidence,capped.has(p.id)?'capped':'unknown',recentData.cutoff)};});
 export const playerById=new Map(players.map(p=>[p.id,p]));
 export const auctionOrder=register.order;
 export const auctionPlayers=auctionOrder.map(id=>playerById.get(id)!);
