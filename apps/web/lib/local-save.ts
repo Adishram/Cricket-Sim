@@ -1,0 +1,5 @@
+/** Device-local persistence, deliberately separate from authoritative multiplayer storage. */
+const DB='auction-to-glory-v1';
+function database():Promise<IDBDatabase>{return new Promise((resolve,reject)=>{const request=indexedDB.open(DB,1);request.onupgradeneeded=()=>request.result.createObjectStore('saves');request.onsuccess=()=>resolve(request.result);request.onerror=()=>reject(request.error);});}
+export async function readSave<T>(key:string):Promise<T|null>{const db=await database();return new Promise((resolve,reject)=>{const tx=db.transaction('saves','readonly');const request=tx.objectStore('saves').get(key);request.onsuccess=()=>resolve(request.result??null);request.onerror=()=>reject(request.error);tx.oncomplete=()=>db.close();tx.onabort=()=>{db.close();reject(tx.error);};});}
+export async function writeSave<T>(key:string,value:T):Promise<void>{const db=await database();return new Promise((resolve,reject)=>{const tx=db.transaction('saves','readwrite');tx.objectStore('saves').put(value,key);tx.oncomplete=()=>{db.close();resolve();};tx.onabort=tx.onerror=()=>{db.close();reject(tx.error??Error('Device save failed'));};});}

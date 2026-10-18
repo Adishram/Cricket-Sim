@@ -1,0 +1,21 @@
+{
+  "name": "auction-to-glory",
+  "private": true,
+  "packageManager": "pnpm@10.18.3",
+  "scripts": {
+    "dev": "pnpm --filter web dev",
+    "build": "pnpm --filter web build",
+    "typecheck": "pnpm --filter web typecheck",
+    "test": "vitest run",
+    "test:e2e": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.0",
+    "vitest": "^3.2.4",
+    "typescript": "^5.9.3"
+  },
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}

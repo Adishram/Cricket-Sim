@@ -1,0 +1,430 @@
+{
+  "rosterRetrievedAt": "2026-10-17T16:57:01.941937+00:00",
+  "statsRetrievedOn": "2026-10-18",
+  "files": [
+    {
+      "path": "rcb-batting.csv",
+      "sha256": "2fefb4027c5e56bf67ed2449a2f88d2afd11fb85d2f531c73c700e1686439885"
+    },
+    {
+      "path": "kolkata-knight-riders-batting.csv",
+      "sha256": "15d4381c3afd4dfac076a82e2be0939bb66bcd522f239534f156a3a67195984a"
+    },
+    {
+      "path": "lucknow-super-giants-batting.csv",
+      "sha256": "5ea697daf9537d43ac9d4f5fe2f11e9190a21872a85157b3dd03f4112d464ec7"
+    },
+    {
+      "path": "chennai-super-kings-batting.csv",
+      "sha256": "f8a982f55db0ac8f90b1db032aebe308e5b7fc53c5f1c12e0e2f70627fc1be2e"
+    },
+    {
+      "path": "registry-2026.csv",
+      "sha256": "a83cebab1e20a85aef4a85f2bc60b6a230236fadfe3eed1fbde1a6a63f2c3fc7"
+    },
+    {
+      "path": "gujarat-titans-batting.csv",
+      "sha256": "e11c4a6edcadc4cd77de32cacee4c329c8c68c0de9277715b9b8b1f82ea2ca3b"
+    },
+    {
+      "path": "punjab-kings-batting.csv",
+      "sha256": "21874de6334cc47e52027c7a7f52ad2930eb178d40e951c7f86a37db40428b65"
+    },
+    {
+      "path": "royal-challengers-bengaluru-bowling.csv",
+      "sha256": "ae013d67b3c0b1c6185b4b6647b71e6c56ec3e83de7054dfa8ac877233e2d18b"
+    },
+    {
+      "path": "rajasthan-royals-batting.csv",
+      "sha256": "36623e9e91679bfeaba88ab5f128e6a37f6c0ae15a9a48aa25041f7aededdedd"
+    },
+    {
+      "path": "delhi-capitals-batting.csv",
+      "sha256": "1ba0f5f9d9cc9f8186e3f2c301c1cdc710c154fd08055fd272c5513b7d7f6f2f"
+    },
+    {
+      "path": "sunrisers-hyderabad-batting.csv",
+      "sha256": "28ba03d256d784abea5c49a4503cb00f7792977f203334741668c9af2bd6e76d"
+    },
+    {
+      "path": "kohli-batting.csv",
+      "sha256": "575606e8f3fd1bc60b74f13166aa7e24b5e99a13db323c9ca1358584e8944543"
+    },
+    {
+      "path": "mumbai-indians-bowling.csv",
+      "sha256": "fbbe0d6385be722f01acf3521072902d686de5ae5fd448aff1da48ada6bde769"
+    },
+    {
+      "path": "kolkata-knight-riders-bowling.csv",
+      "sha256": "2fd51b222706e9c8542ef1f81cdacc8ee69da56db850147d32cb17a04837f52c"
+    },
+    {
+      "path": "chennai-super-kings-bowling.csv",
+      "sha256": "4099875fcfaeec7da294c9f271e18055869f9765b0ebb533f3565ba369da34a3"
+    },
+    {
+      "path": "lucknow-super-giants-bowling.csv",
+      "sha256": "b6901e908976a96da7ba2f4f89e5707970b2e2c5fa9df0350d4b6d3a2cf5b0bc"
+    },
+    {
+      "path": "matches-2026.csv",
+      "sha256": "ac6d25f3ee634cf08925f7ed3a69be6393016a9230af4b338d2e630accbac005"
+    },
+    {
+      "path": "punjab-kings-bowling.csv",
+      "sha256": "c0e218460e1e4f09a412403530a30b2dcf9019b4a0afda797098a3aa9f4079b7"
+    },
+    {
+      "path": "gujarat-titans-bowling.csv",
+      "sha256": "f70e761b36db0001a0c86c6ebad5b74f6b99e89fe004bb8662e87b65a1ecea3e"
+    },
+    {
+      "path": "mumbai-indians-batting.csv",
+      "sha256": "a938eab66f13daccbe6cacff9f98716bf178b5d311f916141fd45d76a5de1b5f"
+    },
+    {
+      "path": "players-2026.csv",
+      "sha256": "ce32597c3f10dca41f1a6ef4f54736b99fea9039fd7e2ba8cd5924b8b2511d0d"
+    },
+    {
+      "path": "sunrisers-hyderabad-bowling.csv",
+      "sha256": "4da1b7a83c72c9fc9b8d60a445c20a15b247ee6daa9e140cd35764b370f2ef93"
+    },
+    {
+      "path": "delhi-capitals-bowling.csv",
+      "sha256": "97c530db49c4b86b8b2a1ef8e4834c04e67fe4c0a03cc8f1c1edc2310ee53365"
+    },
+    {
+      "path": "rajasthan-royals-bowling.csv",
+      "sha256": "5ebd900cc4feaf344d0159aa9612163da73e945cd3072191bbcffd6f638b8615"
+    },
+    {
+      "path": "royal-challengers-bengaluru-batting.csv",
+      "sha256": "2fefb4027c5e56bf67ed2449a2f88d2afd11fb85d2f531c73c700e1686439885"
+    },
+    {
+      "path": "squad-rajasthan-royals.json",
+      "sha256": "95818107f868985a22b79def6300146e1acd32ad6453c957b579cbff20a9d149"
+    },
+    {
+      "path": "squad-delhi-capitals.json",
+      "sha256": "e4ed893e82a1b872fa3a21df8d240a54832565797064f1b64cfcc233600dd62d"
+    },
+    {
+      "path": "squad-kolkata-knight-riders.json",
+      "sha256": "e1eea5a65dba18f953a48b3fd6883bfc7dc96a8b0a1d00fc08a3c524db1ed0ca"
+    },
+    {
+      "path": "squad-mumbai-indians.json",
+      "sha256": "4873849e5d59ef17597f48cb33080def3ba4629deaac121a9f2ee404363e37ec"
+    },
+    {
+      "path": "squad-royal-challengers-bengaluru.json",
+      "sha256": "338790f52b917e98bfeeb4a38a54eda60f4eed2afbd27a9d42e9c284fe92d47f"
+    },
+    {
+      "path": "squad-sunrisers-hyderabad.json",
+      "sha256": "eba1ae2fc5c3b5d908ee7ec4950ab35aa0ff0412f37d3bb4444f95b4a4c4c2ab"
+    },
+    {
+      "path": "squad-chennai-super-kings.json",
+      "sha256": "398916f63cb6ccdb5bf37642ff4b91c5fdee884d2ca34254b8276665baa54600"
+    },
+    {
+      "path": "squad-lucknow-super-giants.json",
+      "sha256": "9318ccca0fed7ab07a89258b8796b65b6528335d25a9ce748267a847830d496d"
+    },
+    {
+      "path": "squad-gujarat-titans.json",
+      "sha256": "8eddfa1976fee842e6c0bc3ab150c3e5cd6a992eff744ca837360b3e9b25fa8e"
+    },
+    {
+      "path": "squad-punjab-kings.json",
+      "sha256": "399705fd21463be7b589e423e01598810cf70e48ca88535bc5378d3ddf2cb699"
+    },
+    {
+      "path": "profiles/player-76210.html",
+      "sha256": "25d8fd287d5439beb4046b9641c117d528013f5afcc40ab24af34cbec058d65a"
+    },
+    {
+      "path": "profiles/player-19402.html",
+      "sha256": "52ccc1aa8cb45686b123d23e43ce086ee662197872333925de87050c28c411ce"
+    },
+    {
+      "path": "profiles/player-41417.html",
+      "sha256": "0cb4d44df810315c40030ad1ab01f367c05a1affeb00ffd0e25c2b1619aca3bc"
+    },
+    {
+      "path": "profiles/player-86859.html",
+      "sha256": "f8f1a870ba2775483dcef7d62acdef62442d5f4c0fea8a98e92ba33c5d48219a"
+    },
+    {
+      "path": "profiles/player-69043.html",
+      "sha256": "a9c35676b9f4138fb2be0c285d47122fd260722e58d625395af2aa9e2f097f1c"
+    },
+    {
+      "path": "profiles/player-27711.html",
+      "sha256": "dfa964fcea534a36387197c921975e41d26a49772bb22ae1b6e931b81eeb0946"
+    },
+    {
+      "path": "profiles/player-66837.html",
+      "sha256": "923b9b3f172db980f3a4676507a30d6b0147e7dc6b7ab68688e072bc06c281e2"
+    },
+    {
+      "path": "profiles/player-68716.html",
+      "sha256": "32d5c839fedc07da67229523215fb0f039a54b842474f31172ad22d847497eae"
+    },
+    {
+      "path": "profiles/player-68917.html",
+      "sha256": "29cac0032fe466cb4988bf557464e9c8753c71508e8391cd8424628b9899d0fa"
+    },
+    {
+      "path": "profiles/player-51461.html",
+      "sha256": "41eecb7a1be93d8fd554701fa93ab400f791744c5d4da50d7e340eca7655794a"
+    },
+    {
+      "path": "profiles/player-72710.html",
+      "sha256": "cf704a693ed72839c4980c9ef1c16e9c3fa37276464c29f88955f116dc300469"
+    },
+    {
+      "path": "profiles/player-66840.html",
+      "sha256": "d3f72eeaec6f344c5bc9b807eb59308777b8075b679defa109a506585424ffdf"
+    },
+    {
+      "path": "profiles/player-20236.html",
+      "sha256": "b88348c88e371762adfd8097660d2b8708da39283703052760a4afe9ac3c569d"
+    },
+    {
+      "path": "profiles/player-65954.html",
+      "sha256": "bdf180eb0d37cfe525efeb7cde8bb4b0ea2dbde884da23d4571ad4e0a1979aff"
+    },
+    {
+      "path": "profiles/player-60039.html",
+      "sha256": "7c1e1c2734eb7729bb9c43c7ae9b095c05fcd0552fcc3baf64cd348a5c133f0c"
+    },
+    {
+      "path": "profiles/player-74067.html",
+      "sha256": "f7b68ef147eb4a60f633a0513b6d19f35e9224e577e48389e23ecff05ea8d55c"
+    },
+    {
+      "path": "profiles/player-76164.html",
+      "sha256": "5fc06913e5e455d63145bf4cbbe32fa8a020c8fd522cbebf9e617f56e3eebe66"
+    },
+    {
+      "path": "profiles/player-87852.html",
+      "sha256": "b8ca45dd6dbdd3a895764f10c5903a536c9ca18d26ee4618128a9bb499e3c277"
+    },
+    {
+      "path": "profiles/player-65553.html",
+      "sha256": "782db02fcdab9bdfef6326ca2603f4dae387d81a233482485461eea1578fea4b"
+    },
+    {
+      "path": "profiles/player-82390.html",
+      "sha256": "de4cf39cdcead0b0450585821dd0f514aa2a884ee9729c6029f495f4fa90c555"
+    },
+    {
+      "path": "profiles/player-91380.html",
+      "sha256": "6aabc012a3027753a2be38ab29ac79942addaaf217284043b852b8f504e2fb76"
+    },
+    {
+      "path": "profiles/player-32332.html",
+      "sha256": "a92310141d89856400edfffc62397c3f912aee15f96e010b76646bca44fa3145"
+    },
+    {
+      "path": "profiles/player-72756.html",
+      "sha256": "4fa3ead752b169e7d1d59864af30180755bc69edc6abaa108475547ee86d9b39"
+    },
+    {
+      "path": "profiles/player-17314.html",
+      "sha256": "ae7a4848db368616831a73716f47a96d5283a673d58bdada54250eabfaf8ef0c"
+    },
+    {
+      "path": "profiles/player-77153.html",
+      "sha256": "c78072e9b34dc0f96f5b6254093a0fa2756af90d063f885c19c6a549b6c57787"
+    },
+    {
+      "path": "profiles/player-76217.html",
+      "sha256": "1b44a26628121779e70a9025356ff0c41242bab2691ac343b67456d769e19e1c"
+    },
+    {
+      "path": "profiles/player-21837.html",
+      "sha256": "8c509413b01606dfaa8e92bd2b62b1517f3348f0d4d83c1aefe1de923dd69c4d"
+    },
+    {
+      "path": "profiles/player-16178.html",
+      "sha256": "a5795f07238cd659114943eb6d3e6417e073f40b2b008760e693982bc4a89a93"
+    },
+    {
+      "path": "profiles/player-87900.html",
+      "sha256": "f9c87ff17b1169c67cba6a7e0d4f24e7303c2ad8294646f0def0eb8186adaf4c"
+    },
+    {
+      "path": "profiles/player-70603.html",
+      "sha256": "5646d3a6bf81cb452e4a10c65b662b2372551e86bdbee43f372389a92207dc95"
+    },
+    {
+      "path": "profiles/player-74139.html",
+      "sha256": "67575a448b73add95a7e63c9edf876ea3055bf9681c0c539df650e1e349bcb1d"
+    },
+    {
+      "path": "profiles/player-79510.html",
+      "sha256": "4319144f0ff3df6348af1574b0479458e0908b169df6fa7600e1f285fb73bd77"
+    },
+    {
+      "path": "profiles/player-22692.html",
+      "sha256": "638fbc47b5b28983f92ab3ad76e29e2622695b97d25d734421967df8db784895"
+    },
+    {
+      "path": "profiles/player-20729.html",
+      "sha256": "ca25359c7bbf6f853a5be7257ab84a2f66b67a30ebd7b96171b1fa7ce862cb0d"
+    },
+    {
+      "path": "profiles/player-94972.html",
+      "sha256": "75e3bf58471d623c93126386b60e6b7b0cc1538303d67f743db5911a1cdb2942"
+    },
+    {
+      "path": "profiles/player-90360.html",
+      "sha256": "31dd8f6d286b30ea0a0b3dfa7c623c70486db58be18979c5ba976612c0c9ff28"
+    },
+    {
+      "path": "profiles/player-72670.html",
+      "sha256": "8816ee5d629359d76968635b2406b084cf6afef43c1060361a9637182e8e9a26"
+    },
+    {
+      "path": "profiles/player-95066.html",
+      "sha256": "c4f6b2675aa5a75a0d22caa4dfb86c7a338e7ea4ed81f36e68acfba1c16a6836"
+    },
+    {
+      "path": "profiles/player-83038.html",
+      "sha256": "a5b7923d979f3778408e6cb95763aa75ddd5a7188aa3c5da86e987e51af45e7e"
+    },
+    {
+      "path": "profiles/player-88265.html",
+      "sha256": "74f9f9db2c1e3e79e7aa2c9ae3d9d23a5790968a66c1d261508cfbac2f8c2813"
+    },
+    {
+      "path": "profiles/player-90854.html",
+      "sha256": "91117054aa4781a41ed01eeaba4649ef3a8ec9ef180ecf0a21f8d2c9a961c407"
+    },
+    {
+      "path": "profiles/player-73981.html",
+      "sha256": "7c8934baa10399024632fdf4e75d2e1f84ccfc51a6f591c3ef2eb348f92614f0"
+    },
+    {
+      "path": "profiles/player-26488.html",
+      "sha256": "9ab4a1daa401ff88f04351442ed38b2121c457ba0558c026e88f6876a9e0f43a"
+    },
+    {
+      "path": "profiles/player-72144.html",
+      "sha256": "9c99ae3b63f8b1426d1fefc1f2e0a41123cc1b7b7699dd70d30ed1e1e2d57e09"
+    },
+    {
+      "path": "profiles/player-65546.html",
+      "sha256": "4188a86b730ce55c242cc696000042ee43ddde53a33cb60ca4b1e8bea4d0aed7"
+    },
+    {
+      "path": "profiles/player-26489.html",
+      "sha256": "589328a02ddd224de64572917314f55c160b8a281605733c4a1986a9d682a6d5"
+    },
+    {
+      "path": "profiles/player-87914.html",
+      "sha256": "8f8b2007814cad93ef64cb087bf6f9a20e044d3e5bd237d89c5c1729cc3ad4a8"
+    },
+    {
+      "path": "profiles/player-66452.html",
+      "sha256": "79f8138cd21d550f2ce9c0d00f946af66a29782204fcac76fe424a01759d8b74"
+    },
+    {
+      "path": "profiles/player-65550.html",
+      "sha256": "b60b4aabf0affde1e208d9075e6487fd39c901089d4cc3836ce52e7680b13243"
+    },
+    {
+      "path": "profiles/player-83310.html",
+      "sha256": "1d4f9631d7ecc234ea83e68649a556351db16aeb770801743ca97a77fbfd2098"
+    },
+    {
+      "path": "profiles/player-65301.html",
+      "sha256": "3d2f229edf78b0127bdd20994f7d01ca542754b5412a42bd1158792bff97aa44"
+    },
+    {
+      "path": "profiles/player-90418.html",
+      "sha256": "de3a29c41c566e98a3e73a7e1ee0f03e964ef092bd0d22d687f02747b54bc471"
+    },
+    {
+      "path": "profiles/player-41054.html",
+      "sha256": "a7b9c7b24baa11e15ff4db235dd05227cbd4f4d2130bba70b9f6e70d807856e6"
+    },
+    {
+      "path": "profiles/player-75966.html",
+      "sha256": "87ef5735568a8f3c83aa99c9cc90bb415b971495739f662ec673b80f1bc432dc"
+    },
+    {
+      "path": "profiles/player-18001.html",
+      "sha256": "75018792c26497f653b1353ccb5b6140dda015a75d0c4ba68c12d4391f968202"
+    },
+    {
+      "path": "profiles/player-70503.html",
+      "sha256": "8088a850ce0184869b51c154ba4794d93422bbcb06eeaa8f20fd1fb8e8f567a3"
+    },
+    {
+      "path": "profiles/player-73856.html",
+      "sha256": "555b3fe97f37b824438c367dd205336615f86cd41f772c92b6f23003065a77e5"
+    },
+    {
+      "path": "profiles/player-17701.html",
+      "sha256": "f182d4c8d8c83651bc384b878e2a7391bb1ced746f777a87bbad786f627a6963"
+    },
+    {
+      "path": "profiles/player-83182.html",
+      "sha256": "1a687cda37bf5be75ad86ec3f3d5a3623cc6cdcae4a343ee2e3b7fb275a8c0fc"
+    },
+    {
+      "path": "profiles/player-91255.html",
+      "sha256": "1eb9e67c6179d71baf3d9c52c788a386014665e821ac1bf74275804ee5115a00"
+    },
+    {
+      "path": "profiles/player-26162.html",
+      "sha256": "f99ab42101c5efa07e7f67c4316738cc0c92a68960d6ee6f46f9e6d13705bc31"
+    },
+    {
+      "path": "profiles/player-87006.html",
+      "sha256": "e9177c5ad296233394a14cd25b325665c591ba1319238ab073c0e60465c4e25e"
+    },
+    {
+      "path": "profiles/player-76208.html",
+      "sha256": "87299d06571b926e5a1c2b3d5ef0a57e382653946ad4283f6e564a913088f8c1"
+    },
+    {
+      "path": "profiles/player-94165.html",
+      "sha256": "cc5869790614a9143579b543f978294f7b7d51ffaf307a4f2f2f78383d00c9ec"
+    },
+    {
+      "path": "profiles/player-86477.html",
+      "sha256": "febda8f47e3efc4b95d1e2ccad89c600413e3eb63aa0cbb9155696063c6680b6"
+    },
+    {
+      "path": "profiles/player-77032.html",
+      "sha256": "87cd9a42c7b34d0ee7d69915629501728ce30be9078214ff76b16b1f8c3d604a"
+    },
+    {
+      "path": "profiles/player-16937.html",
+      "sha256": "fa09c62baa9237a37662cd91ecd9419acce641288384764241ec37967d00e953"
+    },
+    {
+      "path": "profiles/player-11318.html",
+      "sha256": "fde4926f3b5f907c719f5e695a841556ec7dd32c0ab7e779983fe64e422f5a57"
+    },
+    {
+      "path": "profiles/player-74536.html",
+      "sha256": "ca31c4d4f48efd0923f1744131f2173a5df52610f673fb80d89528f712b3c529"
+    },
+    {
+      "path": "profiles/player-16664.html",
+      "sha256": "cdaf8547dd2fd4dd7a4fa22a4d20aa3934e0dcd739a18c6448b40447fc5a8cc6"
+    },
+    {
+      "path": "profiles/player-20222.html",
+      "sha256": "583e2cf7f133ffad6a9c6cdc3a74cd66ea298df96ae07759b8dc7860485c3367"
+    }
+  ]
+}

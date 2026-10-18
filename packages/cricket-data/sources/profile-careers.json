@@ -1,0 +1,775 @@
+{
+  "player-65954": {
+    "matches": 77,
+    "batting": {
+      "innings": 57,
+      "runs": 853.0,
+      "average": 16.09,
+      "strikeRate": 121.5
+    },
+    "bowling": {
+      "innings": 46,
+      "wickets": 52.0,
+      "economy": 8.32,
+      "average": 23.84,
+      "strikeRate": 17.1
+    },
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/jack-edwards",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-41417": {
+    "matches": 52,
+    "batting": {
+      "innings": 42,
+      "runs": 490.0,
+      "average": 16.33,
+      "strikeRate": 131.72
+    },
+    "bowling": {
+      "innings": 50,
+      "wickets": 52.0,
+      "economy": 7.32,
+      "average": 23.65,
+      "strikeRate": 19.3
+    },
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/ajay-mandal",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-70603": {
+    "matches": 14,
+    "batting": {
+      "innings": 5,
+      "runs": 25.0,
+      "average": 8.33,
+      "strikeRate": 178.57
+    },
+    "bowling": {
+      "innings": 14,
+      "wickets": 10.0,
+      "economy": 11.97,
+      "average": 54.8,
+      "strikeRate": 27.8
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/akash-deep",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-76593": {
+    "matches": 3,
+    "batting": {
+      "innings": 2,
+      "runs": 29.0,
+      "average": 14.5,
+      "strikeRate": 116.0
+    },
+    "bowling": null,
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/akshat-raghuwanshi",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-72144": {
+    "matches": 25,
+    "batting": {
+      "innings": 13,
+      "runs": 135.0,
+      "average": 16.87,
+      "strikeRate": 156.97
+    },
+    "bowling": {
+      "innings": 23,
+      "wickets": 19.0,
+      "economy": 7.13,
+      "average": 30.47,
+      "strikeRate": 25.6
+    },
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/atharva-ankolekar",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-86445": {
+    "matches": 13,
+    "batting": {
+      "innings": 13,
+      "runs": 441.0,
+      "average": 33.92,
+      "strikeRate": 183.75
+    },
+    "bowling": null,
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/ayush-mhatre",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-17314": {
+    "matches": 217,
+    "batting": {
+      "innings": 210,
+      "runs": 5397.0,
+      "average": 30.32,
+      "strikeRate": 140.14
+    },
+    "bowling": null,
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/ben-matthew-duckett",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-46139": {
+    "matches": 1,
+    "batting": null,
+    "bowling": {
+      "innings": 1,
+      "wickets": 1.0,
+      "economy": 12.75,
+      "average": 51.0,
+      "strikeRate": 24.0
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/ben-dwarshuis",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-16178": {
+    "matches": 88,
+    "batting": {
+      "innings": 64,
+      "runs": 792.0,
+      "average": 17.21,
+      "strikeRate": 139.19
+    },
+    "bowling": {
+      "innings": 78,
+      "wickets": 58.0,
+      "economy": 9.09,
+      "average": 35.48,
+      "strikeRate": 23.3
+    },
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/brydon-carse",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-77032": {
+    "matches": 44,
+    "batting": {
+      "innings": 39,
+      "runs": 926.0,
+      "average": 28.93,
+      "strikeRate": 129.87
+    },
+    "bowling": null,
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/connor-esterhuizen",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-11256": {
+    "matches": 2,
+    "batting": {
+      "innings": 1,
+      "runs": 6.0,
+      "average": null,
+      "strikeRate": 120.0
+    },
+    "bowling": {
+      "innings": 2,
+      "wickets": 2.0,
+      "economy": 14.0,
+      "average": 35.0,
+      "strikeRate": 15.0
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/david-payne",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-82390": {
+    "matches": 36,
+    "batting": {
+      "innings": 33,
+      "runs": 681.0,
+      "average": 35.84,
+      "strikeRate": 140.7
+    },
+    "bowling": {
+      "innings": 19,
+      "wickets": 11.0,
+      "economy": 9.33,
+      "average": 30.27,
+      "strikeRate": 19.4
+    },
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/dian-forrester",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-76208": {
+    "matches": 9,
+    "batting": {
+      "innings": 8,
+      "runs": 169.0,
+      "average": 21.12,
+      "strikeRate": 130.0
+    },
+    "bowling": null,
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/harnoor-singh",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-77153": {
+    "matches": 34,
+    "batting": {
+      "innings": 10,
+      "runs": 59.0,
+      "average": 9.83,
+      "strikeRate": 105.36
+    },
+    "bowling": {
+      "innings": 32,
+      "wickets": 40.0,
+      "economy": 9.52,
+      "average": 25.73,
+      "strikeRate": 16.23
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/harshit-rana",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-69894": {
+    "matches": 178,
+    "batting": {
+      "innings": 165,
+      "runs": 4045.0,
+      "average": 30.64,
+      "strikeRate": 140.15
+    },
+    "bowling": null,
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/jordan-cox",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-16664": {
+    "matches": 2,
+    "batting": {
+      "innings": 1,
+      "runs": 1.0,
+      "average": 1.0,
+      "strikeRate": 50.0
+    },
+    "bowling": {
+      "innings": 2,
+      "wickets": 2.0,
+      "economy": 6.5,
+      "average": 19.5,
+      "strikeRate": 18.0
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/keshav-maharaj",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-72756": {
+    "matches": 3,
+    "batting": {
+      "innings": 1,
+      "runs": 0.0,
+      "average": null,
+      "strikeRate": 0.0
+    },
+    "bowling": {
+      "innings": 2,
+      "wickets": 2.0,
+      "economy": 9.71,
+      "average": 34.0,
+      "strikeRate": 21.0
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/kuldip-yadav",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-70503": {
+    "matches": 15,
+    "batting": {
+      "innings": 9,
+      "runs": 124.0,
+      "average": 13.77,
+      "strikeRate": 127.83
+    },
+    "bowling": null,
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/luvnith-sisodia",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-20222": {
+    "matches": 40,
+    "batting": {
+      "innings": 35,
+      "runs": 527.0,
+      "average": 18.17,
+      "strikeRate": 141.29
+    },
+    "bowling": {
+      "innings": 4,
+      "wickets": 1.0,
+      "economy": 6.71,
+      "average": 47.0,
+      "strikeRate": 42.0
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/mahipal-lomror",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-90854": {
+    "matches": 2,
+    "batting": {
+      "innings": 1,
+      "runs": 28.0,
+      "average": 28.0,
+      "strikeRate": 233.33
+    },
+    "bowling": {
+      "innings": 2,
+      "wickets": 3.0,
+      "economy": 12.14,
+      "average": 28.33,
+      "strikeRate": 14.0
+    },
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/mangesh-yadav",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-65550": {
+    "matches": 1,
+    "batting": {
+      "innings": 1,
+      "runs": 0.0,
+      "average": null,
+      "strikeRate": null
+    },
+    "bowling": null,
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/mayank-rawat",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-73856": {
+    "matches": 1,
+    "batting": {
+      "innings": 1,
+      "runs": 0.0,
+      "average": 0.0,
+      "strikeRate": 0.0
+    },
+    "bowling": null,
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/mitchell-owen",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-19402": {
+    "matches": 60,
+    "batting": {
+      "innings": 10,
+      "runs": 13.0,
+      "average": 6.5,
+      "strikeRate": 54.17
+    },
+    "bowling": {
+      "innings": 59,
+      "wickets": 65.0,
+      "economy": 8.1,
+      "average": 27.92,
+      "strikeRate": 20.74
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/mustafizur-rahman",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-68917": {
+    "matches": 17,
+    "batting": {
+      "innings": 5,
+      "runs": 19.0,
+      "average": 4.75,
+      "strikeRate": 76.0
+    },
+    "bowling": {
+      "innings": 17,
+      "wickets": 19.0,
+      "economy": 8.66,
+      "average": 29.16,
+      "strikeRate": 20.21
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/nathan-ellis",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-76212": {
+    "matches": 8,
+    "batting": {
+      "innings": 5,
+      "runs": 63.0,
+      "average": 12.6,
+      "strikeRate": 126.0
+    },
+    "bowling": null,
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/nishant-sindhu",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-83182": {
+    "matches": 13,
+    "batting": {
+      "innings": 12,
+      "runs": 198.0,
+      "average": 18.0,
+      "strikeRate": 116.47
+    },
+    "bowling": null,
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/pyla-avinash",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-86608": {
+    "matches": 1,
+    "batting": {
+      "innings": 1,
+      "runs": 4.0,
+      "average": 4.0,
+      "strikeRate": 200.0
+    },
+    "bowling": null,
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/ravi-singh",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-74536": {
+    "matches": 97,
+    "batting": {
+      "innings": 75,
+      "runs": 1071.0,
+      "average": 18.46,
+      "strikeRate": 125.7
+    },
+    "bowling": {
+      "innings": 91,
+      "wickets": 85.0,
+      "economy": 8.13,
+      "average": 28.11,
+      "strikeRate": 20.7
+    },
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/rehan-ahmed",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-27711": {
+    "matches": 3,
+    "batting": {
+      "innings": 1,
+      "runs": 2.0,
+      "average": null,
+      "strikeRate": 100.0
+    },
+    "bowling": {
+      "innings": 3,
+      "wickets": 2.0,
+      "economy": 10.19,
+      "average": 55.0,
+      "strikeRate": 34.0
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/richard-gleeson",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-87900": {
+    "matches": 12,
+    "batting": {
+      "innings": 12,
+      "runs": 333.0,
+      "average": 41.62,
+      "strikeRate": 169.03
+    },
+    "bowling": null,
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/ruchit-ahir",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-86350": {
+    "matches": 4,
+    "batting": {
+      "innings": 4,
+      "runs": 46.0,
+      "average": 11.5,
+      "strikeRate": 139.39
+    },
+    "bowling": null,
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/sahil-parakh",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-21837": {
+    "matches": 64,
+    "batting": {
+      "innings": 53,
+      "runs": 997.0,
+      "average": 24.93,
+      "strikeRate": 136.39
+    },
+    "bowling": {
+      "innings": 63,
+      "wickets": 59.0,
+      "economy": 9.75,
+      "average": 34.46,
+      "strikeRate": 21.24
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/sam-curran",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-60039": {
+    "matches": 5,
+    "batting": {
+      "innings": 5,
+      "runs": 66.0,
+      "average": 13.2,
+      "strikeRate": 126.92
+    },
+    "bowling": null,
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/sarthak-ranjan",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-72721": {
+    "matches": 4,
+    "batting": {
+      "innings": 1,
+      "runs": 4.0,
+      "average": null,
+      "strikeRate": 200.0
+    },
+    "bowling": {
+      "innings": 4,
+      "wickets": 5.0,
+      "economy": 8.48,
+      "average": 21.2,
+      "strikeRate": 15.4
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/saurabh-dubey",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-71452": {
+    "matches": 2,
+    "batting": {
+      "innings": 1,
+      "runs": 1.0,
+      "average": null,
+      "strikeRate": 33.33
+    },
+    "bowling": {
+      "innings": 2,
+      "wickets": 2.0,
+      "economy": 10.81,
+      "average": 33.5,
+      "strikeRate": 19.0
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/sushant-mishra",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-86769": {
+    "matches": 2,
+    "batting": {
+      "innings": 2,
+      "runs": 12.0,
+      "average": 6.0,
+      "strikeRate": 80.0
+    },
+    "bowling": null,
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/tejasvi-dahiya",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-65546": {
+    "matches": 2,
+    "batting": {
+      "innings": 2,
+      "runs": 18.0,
+      "average": 9.0,
+      "strikeRate": 90.0
+    },
+    "bowling": null,
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/tom-banton",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-76210": {
+    "matches": 15,
+    "batting": {
+      "innings": 8,
+      "runs": 67.0,
+      "average": 13.4,
+      "strikeRate": 106.34
+    },
+    "bowling": {
+      "innings": 15,
+      "wickets": 14.0,
+      "economy": 6.46,
+      "average": 25.71,
+      "strikeRate": 23.8
+    },
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/vicky-ostwal",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-26489": {
+    "matches": 37,
+    "batting": {
+      "innings": 19,
+      "runs": 81.0,
+      "average": 5.4,
+      "strikeRate": 92.05
+    },
+    "bowling": {
+      "innings": 35,
+      "wickets": 46.0,
+      "economy": 8.34,
+      "average": 23.02,
+      "strikeRate": 16.57
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/wanindu-hasaranga",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "player-75966": {
+    "matches": 68,
+    "batting": {
+      "innings": 39,
+      "runs": 292.0,
+      "average": 13.27,
+      "strikeRate": 129.77
+    },
+    "bowling": {
+      "innings": 64,
+      "wickets": 77.0,
+      "economy": 8.1,
+      "average": 22.93,
+      "strikeRate": 16.9
+    },
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/zakary-foulkes",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  }
+}

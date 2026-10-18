@@ -1,0 +1,3831 @@
+{
+  "1": {
+    "competition": "IPL career",
+    "matches": 138,
+    "batting": {
+      "innings": 136,
+      "runs": 4646,
+      "average": 39.71,
+      "strikeRate": 149.73
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/jos_buttler",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "2": {
+    "competition": "IPL career",
+    "matches": 147,
+    "batting": {
+      "innings": 145,
+      "runs": 4229,
+      "average": 35.84,
+      "strikeRate": 136.73
+    },
+    "bowling": {
+      "innings": 1,
+      "wickets": 0,
+      "economy": 7,
+      "average": null,
+      "strikeRate": null
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/shreyas_iyer",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "3": {
+    "competition": "IPL career",
+    "matches": 139,
+    "batting": {
+      "innings": 136,
+      "runs": 3865,
+      "average": 33.61,
+      "strikeRate": 146.79
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/rishabh_pant",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "4": {
+    "competition": "IPL career",
+    "matches": 101,
+    "batting": {
+      "innings": 37,
+      "runs": 262,
+      "average": 13.1,
+      "strikeRate": 109.62
+    },
+    "bowling": {
+      "innings": 101,
+      "wickets": 148,
+      "economy": 8.8,
+      "average": 22.69,
+      "strikeRate": 15.47
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/kagiso_rabada",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "5": {
+    "competition": "IPL career",
+    "matches": 96,
+    "batting": {
+      "innings": 15,
+      "runs": 32,
+      "average": 5.33,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 95,
+      "wickets": 111,
+      "economy": 9.19,
+      "average": 28.03,
+      "strikeRate": 18.31
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/arshdeep_singh",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "6": {
+    "competition": "IPL career",
+    "matches": 58,
+    "batting": {
+      "innings": 25,
+      "runs": 111,
+      "average": 9.25,
+      "strikeRate": 91.74
+    },
+    "bowling": {
+      "innings": 55,
+      "wickets": 76,
+      "economy": 8.79,
+      "average": 22.72,
+      "strikeRate": 15.51
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/mitchell_starc",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "7": {
+    "competition": "IPL career",
+    "matches": 188,
+    "batting": {
+      "innings": 20,
+      "runs": 37,
+      "average": 5.29,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 184,
+      "wickets": 233,
+      "economy": 8.05,
+      "average": 23.25,
+      "strikeRate": 17.33
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/yuzvendra_chahal",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "8": {
+    "competition": "IPL career",
+    "matches": 51,
+    "batting": {
+      "innings": 49,
+      "runs": 1066,
+      "average": 25.38,
+      "strikeRate": 155.17
+    },
+    "bowling": {
+      "innings": 27,
+      "wickets": 13,
+      "economy": 9.02,
+      "average": 36.08,
+      "strikeRate": 24
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/liam_livingstone",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "9": {
+    "competition": "IPL career",
+    "matches": 152,
+    "batting": {
+      "innings": 145,
+      "runs": 3288,
+      "average": 35.35,
+      "strikeRate": 139.5
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/david_miller",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "10": {
+    "competition": "IPL career",
+    "matches": 159,
+    "batting": {
+      "innings": 150,
+      "runs": 5815,
+      "average": 46.15,
+      "strikeRate": 139.15
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/kl_rahul",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "11": {
+    "competition": "IPL career",
+    "matches": 132,
+    "batting": {
+      "innings": 37,
+      "runs": 115,
+      "average": 6.05,
+      "strikeRate": 102.68
+    },
+    "bowling": {
+      "innings": 132,
+      "wickets": 145,
+      "economy": 8.67,
+      "average": 29.02,
+      "strikeRate": 20.08
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/mohammad_shami",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "12": {
+    "competition": "IPL career",
+    "matches": 125,
+    "batting": {
+      "innings": 28,
+      "runs": 117,
+      "average": 9.75,
+      "strikeRate": 84.17
+    },
+    "bowling": {
+      "innings": 125,
+      "wickets": 128,
+      "economy": 8.78,
+      "average": 30.55,
+      "strikeRate": 20.88
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/mohammad_siraj",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "16": {
+    "competition": "IPL career",
+    "matches": 69,
+    "batting": {
+      "innings": 66,
+      "runs": 1671,
+      "average": 30.38,
+      "strikeRate": 135.52
+    },
+    "bowling": {
+      "innings": 24,
+      "wickets": 6,
+      "economy": 9.61,
+      "average": 59.5,
+      "strikeRate": 37.17
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/aiden_markram",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "17": {
+    "competition": "IPL career",
+    "matches": 90,
+    "batting": {
+      "innings": 89,
+      "runs": 2270,
+      "average": 26.71,
+      "strikeRate": 133.14
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/devdutt_padikkal",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "18": {
+    "competition": "IPL career",
+    "matches": 100,
+    "batting": {
+      "innings": 98,
+      "runs": 2291,
+      "average": 26.33,
+      "strikeRate": 137.85
+    },
+    "bowling": {
+      "innings": 1,
+      "wickets": 0,
+      "economy": 12,
+      "average": null,
+      "strikeRate": null
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/rahul_tripathi",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "21": {
+    "competition": "IPL career",
+    "matches": 69,
+    "batting": {
+      "innings": 62,
+      "runs": 1677,
+      "average": 31.64,
+      "strikeRate": 142
+    },
+    "bowling": {
+      "innings": 9,
+      "wickets": 3,
+      "economy": 10.59,
+      "average": 47.67,
+      "strikeRate": 27
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/venkatesh_iyer",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "22": {
+    "competition": "IPL career",
+    "matches": 68,
+    "batting": {
+      "innings": 62,
+      "runs": 1856,
+      "average": 30.93,
+      "strikeRate": 148.6
+    },
+    "bowling": {
+      "innings": 34,
+      "wickets": 37,
+      "economy": 8.52,
+      "average": 21.49,
+      "strikeRate": 15.14
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/mitchell_marsh",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "24": {
+    "competition": "IPL career",
+    "matches": 124,
+    "batting": {
+      "innings": 49,
+      "runs": 280,
+      "average": 8.75,
+      "strikeRate": 117.65
+    },
+    "bowling": {
+      "innings": 121,
+      "wickets": 151,
+      "economy": 8.92,
+      "average": 24.68,
+      "strikeRate": 16.6
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/harshal_patel",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "25": {
+    "competition": "IPL career",
+    "matches": 18,
+    "batting": {
+      "innings": 18,
+      "runs": 413,
+      "average": 24.29,
+      "strikeRate": 143.9
+    },
+    "bowling": {
+      "innings": 2,
+      "wickets": 0,
+      "economy": 3.5,
+      "average": null,
+      "strikeRate": null
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/rachin_ravindra",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "26": {
+    "competition": "IPL career",
+    "matches": 122,
+    "batting": {
+      "innings": 108,
+      "runs": 2242,
+      "average": 28.74,
+      "strikeRate": 147.5
+    },
+    "bowling": {
+      "innings": 75,
+      "wickets": 46,
+      "economy": 9.93,
+      "average": 33.63,
+      "strikeRate": 20.33
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/marcus_stoinis",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "28": {
+    "competition": "IPL career",
+    "matches": 118,
+    "batting": {
+      "innings": 118,
+      "runs": 3441,
+      "average": 31.28,
+      "strikeRate": 134.94
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/quinton_de_kock",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "30": {
+    "competition": "IPL career",
+    "matches": 134,
+    "batting": {
+      "innings": 127,
+      "runs": 3600,
+      "average": 30.51,
+      "strikeRate": 143.54
+    },
+    "bowling": {
+      "innings": 1,
+      "wickets": 0,
+      "economy": 24,
+      "average": null,
+      "strikeRate": null
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/ishan_kishan",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "31": {
+    "competition": "IPL career",
+    "matches": 40,
+    "batting": {
+      "innings": 40,
+      "runs": 1258,
+      "average": 34,
+      "strikeRate": 174.48
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/phil_salt",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "32": {
+    "competition": "IPL career",
+    "matches": 71,
+    "batting": {
+      "innings": 59,
+      "runs": 1107,
+      "average": 23.06,
+      "strikeRate": 152.48
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/jitesh_sharma",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "33": {
+    "competition": "IPL career",
+    "matches": 76,
+    "batting": {
+      "innings": 7,
+      "runs": 2,
+      "average": 0.4,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 76,
+      "wickets": 91,
+      "economy": 8.96,
+      "average": 27.19,
+      "strikeRate": 18.21
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/syed_khaleel_ahmed",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "575": {
+    "competition": "IPL career",
+    "matches": 68,
+    "batting": {
+      "innings": 42,
+      "runs": 326,
+      "average": 13.04,
+      "strikeRate": 144.89
+    },
+    "bowling": {
+      "innings": 68,
+      "wickets": 84,
+      "economy": 8.22,
+      "average": 25.73,
+      "strikeRate": 18.79
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/jofra_archer",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "34": {
+    "competition": "IPL career",
+    "matches": 125,
+    "batting": {
+      "innings": 31,
+      "runs": 93,
+      "average": 9.3,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 124,
+      "wickets": 145,
+      "economy": 8.49,
+      "average": 27.14,
+      "strikeRate": 19.17
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/trent_boult",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "35": {
+    "competition": "IPL career",
+    "matches": 52,
+    "batting": {
+      "innings": 8,
+      "runs": 19,
+      "average": 19,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 52,
+      "wickets": 72,
+      "economy": 8.62,
+      "average": 23.47,
+      "strikeRate": 16.33
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/josh_hazlewood",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "36": {
+    "competition": "IPL career",
+    "matches": 83,
+    "batting": {
+      "innings": 18,
+      "runs": 68,
+      "average": 17,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 82,
+      "wickets": 93,
+      "economy": 9.28,
+      "average": 29.4,
+      "strikeRate": 19
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/avesh_khan",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "37": {
+    "competition": "IPL career",
+    "matches": 78,
+    "batting": {
+      "innings": 11,
+      "runs": 15,
+      "average": 5,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 78,
+      "wickets": 90,
+      "economy": 8.99,
+      "average": 28.87,
+      "strikeRate": 19.26
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/prasidh_krishna",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "38": {
+    "competition": "IPL career",
+    "matches": 73,
+    "batting": {
+      "innings": 5,
+      "runs": 4,
+      "average": null,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 72,
+      "wickets": 72,
+      "economy": 9.21,
+      "average": 32.97,
+      "strikeRate": 21.47
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/t_natarajan",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "39": {
+    "competition": "IPL career",
+    "matches": 49,
+    "batting": {
+      "innings": 18,
+      "runs": 49,
+      "average": 7,
+      "strikeRate": 98
+    },
+    "bowling": {
+      "innings": 49,
+      "wickets": 61,
+      "economy": 9.09,
+      "average": 27.8,
+      "strikeRate": 18.36
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/anrich_nortje",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "40": {
+    "competition": "IPL career",
+    "matches": 51,
+    "batting": {
+      "innings": 17,
+      "runs": 31,
+      "average": 2.82,
+      "strikeRate": 53.45
+    },
+    "bowling": {
+      "innings": 51,
+      "wickets": 61,
+      "economy": 8.17,
+      "average": 24.51,
+      "strikeRate": 18
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/noor_ahmad",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "41": {
+    "competition": "IPL career",
+    "matches": 80,
+    "batting": {
+      "innings": 24,
+      "runs": 129,
+      "average": 8.06,
+      "strikeRate": 104.03
+    },
+    "bowling": {
+      "innings": 79,
+      "wickets": 75,
+      "economy": 7.78,
+      "average": 29.28,
+      "strikeRate": 22.59
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/rahul_chahar",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "42": {
+    "matches": 37,
+    "batting": {
+      "innings": 19,
+      "runs": 81.0,
+      "average": 5.4,
+      "strikeRate": 92.05
+    },
+    "bowling": {
+      "innings": 35,
+      "wickets": 46.0,
+      "economy": 8.34,
+      "average": 23.02,
+      "strikeRate": 16.57
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/wanindu-hasaranga",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "48": {
+    "competition": "IPL career",
+    "matches": 86,
+    "batting": {
+      "innings": 78,
+      "runs": 1712,
+      "average": 23.45,
+      "strikeRate": 131.29
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/karun_nair",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "49": {
+    "competition": "IPL career",
+    "matches": 35,
+    "batting": {
+      "innings": 30,
+      "runs": 885,
+      "average": 34.04,
+      "strikeRate": 145.56
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/angkrish_raghuvanshi",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "52": {
+    "competition": "IPL career",
+    "matches": 44,
+    "batting": {
+      "innings": 37,
+      "runs": 784,
+      "average": 23.76,
+      "strikeRate": 140
+    },
+    "bowling": {
+      "innings": 2,
+      "wickets": 0,
+      "economy": 7.76,
+      "average": null,
+      "strikeRate": null
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/nehal_wadhera",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "53": {
+    "competition": "IPL career",
+    "matches": 51,
+    "batting": {
+      "innings": 27,
+      "runs": 249,
+      "average": 20.75,
+      "strikeRate": 120.87
+    },
+    "bowling": {
+      "innings": 48,
+      "wickets": 37,
+      "economy": 8,
+      "average": 30.95,
+      "strikeRate": 23.22
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/harpreet_brar",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "54": {
+    "competition": "IPL career",
+    "matches": 37,
+    "batting": {
+      "innings": 33,
+      "runs": 710,
+      "average": 27.31,
+      "strikeRate": 163.97
+    },
+    "bowling": {
+      "innings": 5,
+      "wickets": 0,
+      "economy": 8.77,
+      "average": null,
+      "strikeRate": null
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/naman_dhir",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "55": {
+    "matches": 40,
+    "batting": {
+      "innings": 35,
+      "runs": 527.0,
+      "average": 18.17,
+      "strikeRate": 141.29
+    },
+    "bowling": {
+      "innings": 4,
+      "wickets": 1.0,
+      "economy": 6.71,
+      "average": 47.0,
+      "strikeRate": 42.0
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/mahipal-lomror",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "56": {
+    "competition": "IPL career",
+    "matches": 24,
+    "batting": {
+      "innings": 18,
+      "runs": 424,
+      "average": 30.29,
+      "strikeRate": 144.71
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/sameer_rizvi",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "57": {
+    "competition": "IPL career",
+    "matches": 71,
+    "batting": {
+      "innings": 60,
+      "runs": 857,
+      "average": 19.48,
+      "strikeRate": 148.78
+    },
+    "bowling": {
+      "innings": 7,
+      "wickets": 2,
+      "economy": 13.16,
+      "average": 62.5,
+      "strikeRate": 28.5
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/abdul_samad",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "59": {
+    "competition": "IPL career",
+    "matches": 32,
+    "batting": {
+      "innings": 26,
+      "runs": 564,
+      "average": 29.68,
+      "strikeRate": 168.86
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/ashutosh_sharma",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "60": {
+    "matches": 8,
+    "batting": {
+      "innings": 5,
+      "runs": 63.0,
+      "average": 12.6,
+      "strikeRate": 126.0
+    },
+    "bowling": null,
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/nishant-sindhu",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "63": {
+    "competition": "IPL career",
+    "matches": 5,
+    "batting": {
+      "innings": 4,
+      "runs": 21,
+      "average": 5.25,
+      "strikeRate": 100
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/kumar_kushagra",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "64": {
+    "competition": "IPL career",
+    "matches": 4,
+    "batting": {
+      "innings": 4,
+      "runs": 12,
+      "average": 4,
+      "strikeRate": 63.16
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/robin_minz",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "65": {
+    "competition": "IPL career",
+    "matches": 24,
+    "batting": {
+      "innings": 21,
+      "runs": 318,
+      "average": 19.88,
+      "strikeRate": 119.1
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/anuj_rawat",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "66": {
+    "matches": 15,
+    "batting": {
+      "innings": 9,
+      "runs": 124.0,
+      "average": 13.77,
+      "strikeRate": 127.83
+    },
+    "bowling": null,
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/luvnith-sisodia",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "67": {
+    "competition": "IPL career",
+    "matches": 7,
+    "batting": {
+      "innings": 7,
+      "runs": 71,
+      "average": 11.83,
+      "strikeRate": 109.23
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/vishnu_vinod",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "69": {
+    "competition": "IPL career",
+    "matches": 43,
+    "batting": {
+      "innings": 12,
+      "runs": 10,
+      "average": 2.5,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 42,
+      "wickets": 47,
+      "economy": 9.74,
+      "average": 29.91,
+      "strikeRate": 18.43
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/vaibhav_arora",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "70": {
+    "competition": "IPL career",
+    "matches": 25,
+    "batting": {
+      "innings": 8,
+      "runs": 43,
+      "average": 8.6,
+      "strikeRate": 102.38
+    },
+    "bowling": {
+      "innings": 25,
+      "wickets": 29,
+      "economy": 10.01,
+      "average": 28.07,
+      "strikeRate": 16.83
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/rasikh_dar",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "71": {
+    "competition": "IPL career",
+    "matches": 17,
+    "batting": {
+      "innings": 2,
+      "runs": 8,
+      "average": null,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 17,
+      "wickets": 23,
+      "economy": 10.06,
+      "average": 25.65,
+      "strikeRate": 15.3
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/akash_madhwal",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "74": {
+    "competition": "IPL career",
+    "matches": 22,
+    "batting": null,
+    "bowling": {
+      "innings": 22,
+      "wickets": 27,
+      "economy": 10.6,
+      "average": 30.56,
+      "strikeRate": 17.3
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/yash_thakur",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "75": {
+    "competition": "IPL career",
+    "matches": 34,
+    "batting": {
+      "innings": 10,
+      "runs": 24,
+      "average": 3.43,
+      "strikeRate": 92.31
+    },
+    "bowling": {
+      "innings": 33,
+      "wickets": 33,
+      "economy": 9.98,
+      "average": 36.7,
+      "strikeRate": 22.06
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/kartik_tyagi",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "76": {
+    "competition": "IPL career",
+    "matches": 26,
+    "batting": {
+      "innings": 6,
+      "runs": 16,
+      "average": 8,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 25,
+      "wickets": 26,
+      "economy": 10.47,
+      "average": 34.85,
+      "strikeRate": 19.96
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/vyshak_vijaykumar",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "78": {
+    "competition": "IPL career",
+    "matches": 52,
+    "batting": {
+      "innings": 22,
+      "runs": 180,
+      "average": 12.86,
+      "strikeRate": 106.51
+    },
+    "bowling": {
+      "innings": 51,
+      "wickets": 52,
+      "economy": 8.21,
+      "average": 25.9,
+      "strikeRate": 18.94
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/shreyas_gopal",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "79": {
+    "competition": "IPL career",
+    "matches": 40,
+    "batting": {
+      "innings": 11,
+      "runs": 48,
+      "average": 16,
+      "strikeRate": 114.29
+    },
+    "bowling": {
+      "innings": 40,
+      "wickets": 37,
+      "economy": 9.16,
+      "average": 30.95,
+      "strikeRate": 20.27
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/mayank_markande",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "80": {
+    "competition": "IPL career",
+    "matches": 39,
+    "batting": null,
+    "bowling": {
+      "innings": 39,
+      "wickets": 27,
+      "economy": 8.89,
+      "average": 44.07,
+      "strikeRate": 29.74
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/suyash_sharma",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "83": {
+    "competition": "IPL career",
+    "matches": 5,
+    "batting": {
+      "innings": 1,
+      "runs": 1,
+      "average": 1,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 4,
+      "wickets": 2,
+      "economy": 11.75,
+      "average": 47,
+      "strikeRate": 24
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/manav_suthar",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "86": {
+    "competition": "IPL career",
+    "matches": 14,
+    "batting": {
+      "innings": 13,
+      "runs": 132,
+      "average": 12,
+      "strikeRate": 121.1
+    },
+    "bowling": {
+      "innings": 4,
+      "wickets": 2,
+      "economy": 8,
+      "average": 20,
+      "strikeRate": 15
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/glenn_phillips",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "87": {
+    "competition": "IPL career",
+    "matches": 40,
+    "batting": {
+      "innings": 30,
+      "runs": 555,
+      "average": 22.2,
+      "strikeRate": 142.31
+    },
+    "bowling": {
+      "innings": 2,
+      "wickets": 1,
+      "economy": 11.67,
+      "average": 35,
+      "strikeRate": 18
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/rovman_powell",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "88": {
+    "competition": "IPL career",
+    "matches": 212,
+    "batting": {
+      "innings": 197,
+      "runs": 5367,
+      "average": 30.15,
+      "strikeRate": 125.6
+    },
+    "bowling": {
+      "innings": 1,
+      "wickets": 1,
+      "economy": 5,
+      "average": 5,
+      "strikeRate": 6
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/ajinkya_rahane",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "89": {
+    "competition": "IPL career",
+    "matches": 79,
+    "batting": {
+      "innings": 79,
+      "runs": 1892,
+      "average": 23.95,
+      "strikeRate": 147.47
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/prithvi_shaw",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "91": {
+    "matches": 64,
+    "batting": {
+      "innings": 53,
+      "runs": 997.0,
+      "average": 24.93,
+      "strikeRate": 136.39
+    },
+    "bowling": {
+      "innings": 63,
+      "wickets": 59.0,
+      "economy": 9.75,
+      "average": 34.46,
+      "strikeRate": 21.24
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/sam-curran",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "92": {
+    "competition": "IPL career",
+    "matches": 48,
+    "batting": {
+      "innings": 26,
+      "runs": 192,
+      "average": 12.8,
+      "strikeRate": 110.34
+    },
+    "bowling": {
+      "innings": 47,
+      "wickets": 45,
+      "economy": 9.63,
+      "average": 36.27,
+      "strikeRate": 22.6
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/marco_jansen",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "94": {
+    "competition": "IPL career",
+    "matches": 158,
+    "batting": {
+      "innings": 127,
+      "runs": 1982,
+      "average": 23.32,
+      "strikeRate": 133.83
+    },
+    "bowling": {
+      "innings": 147,
+      "wickets": 107,
+      "economy": 7.57,
+      "average": 31.87,
+      "strikeRate": 25.24
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/krunal_pandya",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "95": {
+    "competition": "IPL career",
+    "matches": 127,
+    "batting": {
+      "innings": 121,
+      "runs": 3078,
+      "average": 27.73,
+      "strikeRate": 137.72
+    },
+    "bowling": {
+      "innings": 27,
+      "wickets": 10,
+      "economy": 9.03,
+      "average": 32.5,
+      "strikeRate": 21.6
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/nitish_rana",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "96": {
+    "competition": "IPL career",
+    "matches": 83,
+    "batting": {
+      "innings": 61,
+      "runs": 888,
+      "average": 21.14,
+      "strikeRate": 135.37
+    },
+    "bowling": {
+      "innings": 68,
+      "wickets": 40,
+      "economy": 7.77,
+      "average": 38,
+      "strikeRate": 29.35
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/washington_sundar",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "97": {
+    "competition": "IPL career",
+    "matches": 114,
+    "batting": {
+      "innings": 45,
+      "runs": 349,
+      "average": 11.63,
+      "strikeRate": 132.7
+    },
+    "bowling": {
+      "innings": 109,
+      "wickets": 119,
+      "economy": 9.57,
+      "average": 29.53,
+      "strikeRate": 18.5
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/shardul_thakur",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "100": {
+    "competition": "IPL career",
+    "matches": 18,
+    "batting": {
+      "innings": 16,
+      "runs": 326,
+      "average": 27.17,
+      "strikeRate": 170.68
+    },
+    "bowling": {
+      "innings": 3,
+      "wickets": 1,
+      "economy": 13.67,
+      "average": 41,
+      "strikeRate": 18
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/donovan_ferreira",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "102": {
+    "competition": "IPL career",
+    "matches": 16,
+    "batting": {
+      "innings": 16,
+      "runs": 544,
+      "average": 38.86,
+      "strikeRate": 173.25
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/josh_inglis",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "103": {
+    "competition": "IPL career",
+    "matches": 26,
+    "batting": {
+      "innings": 26,
+      "runs": 836,
+      "average": 34.83,
+      "strikeRate": 168.21
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/ryan_rickelton",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "104": {
+    "competition": "IPL career",
+    "matches": 103,
+    "batting": {
+      "innings": 21,
+      "runs": 142,
+      "average": 14.2,
+      "strikeRate": 137.86
+    },
+    "bowling": {
+      "innings": 103,
+      "wickets": 96,
+      "economy": 8.3,
+      "average": 29.81,
+      "strikeRate": 21.54
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/deepak_chahar",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "105": {
+    "competition": "IPL career",
+    "matches": 14,
+    "batting": {
+      "innings": 7,
+      "runs": 31,
+      "average": 5.17,
+      "strikeRate": 93.94
+    },
+    "bowling": {
+      "innings": 14,
+      "wickets": 15,
+      "economy": 10.37,
+      "average": 31.47,
+      "strikeRate": 18.2
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/gerald_coetzee",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "106": {
+    "matches": 14,
+    "batting": {
+      "innings": 5,
+      "runs": 25.0,
+      "average": 8.33,
+      "strikeRate": 178.57
+    },
+    "bowling": {
+      "innings": 14,
+      "wickets": 10.0,
+      "economy": 11.97,
+      "average": 54.8,
+      "strikeRate": 27.8
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/akash-deep",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "107": {
+    "competition": "IPL career",
+    "matches": 53,
+    "batting": {
+      "innings": 10,
+      "runs": 54,
+      "average": 13.5,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 53,
+      "wickets": 55,
+      "economy": 10.11,
+      "average": 33.78,
+      "strikeRate": 20.05
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/tushar_deshpande",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "108": {
+    "competition": "IPL career",
+    "matches": 52,
+    "batting": {
+      "innings": 11,
+      "runs": 72,
+      "average": 24,
+      "strikeRate": 153.19
+    },
+    "bowling": {
+      "innings": 52,
+      "wickets": 52,
+      "economy": 9.21,
+      "average": 32.13,
+      "strikeRate": 20.94
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/lockie_ferguson",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "109": {
+    "competition": "IPL career",
+    "matches": 206,
+    "batting": {
+      "innings": 78,
+      "runs": 354,
+      "average": 9.32,
+      "strikeRate": 93.9
+    },
+    "bowling": {
+      "innings": 206,
+      "wickets": 226,
+      "economy": 7.71,
+      "average": 26.16,
+      "strikeRate": 20.35
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/bhuvneshwar_kumar",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "110": {
+    "competition": "IPL career",
+    "matches": 42,
+    "batting": {
+      "innings": 5,
+      "runs": 10,
+      "average": 10,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 42,
+      "wickets": 42,
+      "economy": 10.59,
+      "average": 34.64,
+      "strikeRate": 19.62
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/mukesh_kumar",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "111": {
+    "competition": "IPL career",
+    "matches": 11,
+    "batting": {
+      "innings": 1,
+      "runs": 2,
+      "average": null,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 11,
+      "wickets": 15,
+      "economy": 10.02,
+      "average": 25.93,
+      "strikeRate": 15.53
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/allah_ghazanfar",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "112": {
+    "competition": "IPL career",
+    "matches": 8,
+    "batting": {
+      "innings": 4,
+      "runs": 21,
+      "average": null,
+      "strikeRate": 161.54
+    },
+    "bowling": {
+      "innings": 8,
+      "wickets": 9,
+      "economy": 8.3,
+      "average": 26.44,
+      "strikeRate": 19.11
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/akeal_hosein",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "113": {
+    "matches": 2,
+    "batting": {
+      "innings": 1,
+      "runs": 1.0,
+      "average": 1.0,
+      "strikeRate": 50.0
+    },
+    "bowling": {
+      "innings": 2,
+      "wickets": 2.0,
+      "economy": 6.5,
+      "average": 19.5,
+      "strikeRate": 18.0
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/keshav-maharaj",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "120": {
+    "competition": "IPL career",
+    "matches": 19,
+    "batting": {
+      "innings": 17,
+      "runs": 220,
+      "average": 22,
+      "strikeRate": 153.85
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/shubham_dubey",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "124": {
+    "competition": "IPL career",
+    "matches": 9,
+    "batting": {
+      "innings": 5,
+      "runs": 92,
+      "average": 30.67,
+      "strikeRate": 133.33
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/himmat_singh",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "126": {
+    "competition": "IPL career",
+    "matches": 25,
+    "batting": {
+      "innings": 10,
+      "runs": 74,
+      "average": 24.67,
+      "strikeRate": 142.31
+    },
+    "bowling": {
+      "innings": 25,
+      "wickets": 31,
+      "economy": 9.97,
+      "average": 26.32,
+      "strikeRate": 15.84
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/anshul_kamboj",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "127": {
+    "competition": "IPL career",
+    "matches": 27,
+    "batting": {
+      "innings": 14,
+      "runs": 147,
+      "average": 21,
+      "strikeRate": 148.48
+    },
+    "bowling": {
+      "innings": 25,
+      "wickets": 18,
+      "economy": 11.06,
+      "average": 38.5,
+      "strikeRate": 20.89
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/mohd_arshad_khan",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "130": {
+    "competition": "IPL career",
+    "matches": 26,
+    "batting": {
+      "innings": 14,
+      "runs": 78,
+      "average": 9.75,
+      "strikeRate": 121.88
+    },
+    "bowling": {
+      "innings": 22,
+      "wickets": 15,
+      "economy": 8.9,
+      "average": 31.93,
+      "strikeRate": 21.53
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/anukul_roy",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "131": {
+    "competition": "IPL career",
+    "matches": 14,
+    "batting": {
+      "innings": 9,
+      "runs": 51,
+      "average": 10.2,
+      "strikeRate": 113.33
+    },
+    "bowling": {
+      "innings": 14,
+      "wickets": 7,
+      "economy": 8.93,
+      "average": 34.43,
+      "strikeRate": 23.14
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/swapnil_singh",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "140": {
+    "competition": "IPL career",
+    "matches": 1,
+    "batting": null,
+    "bowling": {
+      "innings": 1,
+      "wickets": 0,
+      "economy": 14,
+      "average": null,
+      "strikeRate": null
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/gurnoor_singh_brar",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "141": {
+    "competition": "IPL career",
+    "matches": 24,
+    "batting": {
+      "innings": 3,
+      "runs": 8,
+      "average": 8,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 24,
+      "wickets": 25,
+      "economy": 9.58,
+      "average": 30.84,
+      "strikeRate": 19.32
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/mukesh_choudhary",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "142": {
+    "competition": "IPL career",
+    "matches": 11,
+    "batting": {
+      "innings": 1,
+      "runs": 5,
+      "average": null,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 11,
+      "wickets": 15,
+      "economy": 9.45,
+      "average": 26.47,
+      "strikeRate": 16.8
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/sakib_hussain",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "145": {
+    "matches": 2,
+    "batting": {
+      "innings": 1,
+      "runs": 1.0,
+      "average": null,
+      "strikeRate": 33.33
+    },
+    "bowling": {
+      "innings": 2,
+      "wickets": 2.0,
+      "economy": 10.81,
+      "average": 33.5,
+      "strikeRate": 19.0
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/sushant-mishra",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "146": {
+    "competition": "IPL career",
+    "matches": 6,
+    "batting": {
+      "innings": 2,
+      "runs": 18,
+      "average": 18,
+      "strikeRate": 128.57
+    },
+    "bowling": {
+      "innings": 6,
+      "wickets": 4,
+      "economy": 9.28,
+      "average": 37.5,
+      "strikeRate": 24.25
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/arjun_tendulkar",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "147": {
+    "competition": "IPL career",
+    "matches": 10,
+    "batting": null,
+    "bowling": {
+      "innings": 10,
+      "wickets": 6,
+      "economy": 9.84,
+      "average": 55.5,
+      "strikeRate": 33.83
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/zeeshan_ansari",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "150": {
+    "competition": "IPL career",
+    "matches": 9,
+    "batting": null,
+    "bowling": {
+      "innings": 9,
+      "wickets": 9,
+      "economy": 9.13,
+      "average": 31.44,
+      "strikeRate": 20.67
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/m_siddharth",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "151": {
+    "competition": "IPL career",
+    "matches": 23,
+    "batting": {
+      "innings": 4,
+      "runs": 3,
+      "average": 3,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 23,
+      "wickets": 19,
+      "economy": 9.08,
+      "average": 43.47,
+      "strikeRate": 28.74
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/digvesh_singh",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "152": {
+    "competition": "IPL career",
+    "matches": 2,
+    "batting": null,
+    "bowling": {
+      "innings": 2,
+      "wickets": 2,
+      "economy": 6.33,
+      "average": 19,
+      "strikeRate": 18
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/prashant_solanki",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "154": {
+    "competition": "IPL career",
+    "matches": 11,
+    "batting": {
+      "innings": 11,
+      "runs": 349,
+      "average": 34.9,
+      "strikeRate": 214.11
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/finn_allen",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "155": {
+    "competition": "IPL career",
+    "matches": 27,
+    "batting": {
+      "innings": 24,
+      "runs": 606,
+      "average": 25.25,
+      "strikeRate": 146.02
+    },
+    "bowling": {
+      "innings": 1,
+      "wickets": 1,
+      "economy": 16,
+      "average": 8,
+      "strikeRate": 3
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/dewald_brevis",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "156": {
+    "matches": 217,
+    "batting": {
+      "innings": 210,
+      "runs": 5397.0,
+      "average": 30.32,
+      "strikeRate": 140.14
+    },
+    "bowling": null,
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/ben-matthew-duckett",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "157": {
+    "competition": "IPL career",
+    "matches": 180,
+    "batting": {
+      "innings": 164,
+      "runs": 4012,
+      "average": 29.5,
+      "strikeRate": 121.83
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/manish_pandey",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "159": {
+    "competition": "IPL career",
+    "matches": 31,
+    "batting": {
+      "innings": 27,
+      "runs": 520,
+      "average": 24.76,
+      "strikeRate": 142.86
+    },
+    "bowling": {
+      "innings": 6,
+      "wickets": 1,
+      "economy": 8.63,
+      "average": 59,
+      "strikeRate": 41
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/sherfane_rutherford",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "162": {
+    "competition": "IPL career",
+    "matches": 63,
+    "batting": {
+      "innings": 40,
+      "runs": 603,
+      "average": 20.79,
+      "strikeRate": 123.31
+    },
+    "bowling": {
+      "innings": 50,
+      "wickets": 27,
+      "economy": 9.79,
+      "average": 39.59,
+      "strikeRate": 24.26
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/shahbaz_ahamad",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "164": {
+    "competition": "IPL career",
+    "matches": 66,
+    "batting": {
+      "innings": 59,
+      "runs": 1151,
+      "average": 32.89,
+      "strikeRate": 177.08
+    },
+    "bowling": {
+      "innings": 1,
+      "wickets": 0,
+      "economy": 18,
+      "average": null,
+      "strikeRate": null
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/tim_david",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "166": {
+    "competition": "IPL career",
+    "matches": 28,
+    "batting": {
+      "innings": 26,
+      "runs": 602,
+      "average": 27.36,
+      "strikeRate": 158.84
+    },
+    "bowling": {
+      "innings": 19,
+      "wickets": 10,
+      "economy": 9.86,
+      "average": 31.4,
+      "strikeRate": 19.1
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/will_jacks",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "167": {
+    "competition": "IPL career",
+    "matches": 19,
+    "batting": {
+      "innings": 11,
+      "runs": 151,
+      "average": 15.1,
+      "strikeRate": 149.5
+    },
+    "bowling": {
+      "innings": 18,
+      "wickets": 15,
+      "economy": 9.63,
+      "average": 37.87,
+      "strikeRate": 23.6
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/azmatullah_omarzai",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "168": {
+    "competition": "IPL career",
+    "matches": 28,
+    "batting": {
+      "innings": 5,
+      "runs": 18,
+      "average": 4.5,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 27,
+      "wickets": 33,
+      "economy": 8.99,
+      "average": 21.12,
+      "strikeRate": 14.09
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/sai_kishore",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "169": {
+    "competition": "IPL career",
+    "matches": 33,
+    "batting": {
+      "innings": 19,
+      "runs": 268,
+      "average": 24.36,
+      "strikeRate": 175.16
+    },
+    "bowling": {
+      "innings": 28,
+      "wickets": 17,
+      "economy": 11.77,
+      "average": 41.53,
+      "strikeRate": 21.18
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/romario_shepherd",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "170": {
+    "matches": 2,
+    "batting": {
+      "innings": 2,
+      "runs": 18.0,
+      "average": 9.0,
+      "strikeRate": 90.0
+    },
+    "bowling": null,
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/tom-banton",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "172": {
+    "matches": 178,
+    "batting": {
+      "innings": 165,
+      "runs": 4045.0,
+      "average": 30.64,
+      "strikeRate": 140.15
+    },
+    "bowling": null,
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/jordan-cox",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "177": {
+    "competition": "IPL career",
+    "matches": 6,
+    "batting": {
+      "innings": 6,
+      "runs": 45,
+      "average": 7.5,
+      "strikeRate": 109.76
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/tim_seifert",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "178": {
+    "competition": "IPL career",
+    "matches": 19,
+    "batting": {
+      "innings": 3,
+      "runs": 14,
+      "average": 14,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 18,
+      "wickets": 21,
+      "economy": 9.67,
+      "average": 27.86,
+      "strikeRate": 17.29
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/nandre_burger",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "179": {
+    "competition": "IPL career",
+    "matches": 12,
+    "batting": {
+      "innings": 6,
+      "runs": 8,
+      "average": 8,
+      "strikeRate": 66.67
+    },
+    "bowling": {
+      "innings": 12,
+      "wickets": 7,
+      "economy": 10.33,
+      "average": 56.57,
+      "strikeRate": 32.86
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/spencer_johnson",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "180": {
+    "competition": "IPL career",
+    "matches": 26,
+    "batting": {
+      "innings": 6,
+      "runs": 23,
+      "average": 11.5,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 26,
+      "wickets": 29,
+      "economy": 9.4,
+      "average": 26.62,
+      "strikeRate": 17
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/umran_malik",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "181": {
+    "matches": 60,
+    "batting": {
+      "innings": 10,
+      "runs": 13.0,
+      "average": 6.5,
+      "strikeRate": 54.17
+    },
+    "bowling": {
+      "innings": 59,
+      "wickets": 65.0,
+      "economy": 8.1,
+      "average": 27.92,
+      "strikeRate": 20.74
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/mustafizur-rahman",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "182": {
+    "competition": "IPL career",
+    "matches": 117,
+    "batting": {
+      "innings": 28,
+      "runs": 57,
+      "average": 9.5,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 117,
+      "wickets": 96,
+      "economy": 8.39,
+      "average": 35.22,
+      "strikeRate": 25.2
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/ishant_sharma",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "183": {
+    "competition": "IPL career",
+    "matches": 8,
+    "batting": null,
+    "bowling": {
+      "innings": 8,
+      "wickets": 9,
+      "economy": 9.43,
+      "average": 31.44,
+      "strikeRate": 20
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/nuwan_thushara",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "185": {
+    "competition": "IPL career",
+    "matches": 116,
+    "batting": {
+      "innings": 33,
+      "runs": 201,
+      "average": 12.56,
+      "strikeRate": 118.93
+    },
+    "bowling": {
+      "innings": 115,
+      "wickets": 114,
+      "economy": 8.92,
+      "average": 30.75,
+      "strikeRate": 20.68
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/jaydev_unadkat",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "201": {
+    "competition": "IPL career",
+    "matches": 9,
+    "batting": {
+      "innings": 4,
+      "runs": 22,
+      "average": 5.5,
+      "strikeRate": 137.5
+    },
+    "bowling": {
+      "innings": 9,
+      "wickets": 8,
+      "economy": 11,
+      "average": 31.63,
+      "strikeRate": 17.25
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/yudhvir_charak",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "205": {
+    "competition": "IPL career",
+    "matches": 4,
+    "batting": {
+      "innings": 4,
+      "runs": 26,
+      "average": 6.5,
+      "strikeRate": 78.79
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/arshin_kulkarni",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "212": {
+    "competition": "IPL career",
+    "matches": 10,
+    "batting": {
+      "innings": 10,
+      "runs": 197,
+      "average": 19.7,
+      "strikeRate": 205.21
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/urvil_patel",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "217": {
+    "competition": "IPL career",
+    "matches": 10,
+    "batting": {
+      "innings": 1,
+      "runs": 1,
+      "average": null,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 10,
+      "wickets": 17,
+      "economy": 10.95,
+      "average": 19.65,
+      "strikeRate": 10.76
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/ashwani_kumar",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "220": {
+    "competition": "IPL career",
+    "matches": 12,
+    "batting": null,
+    "bowling": {
+      "innings": 12,
+      "wickets": 13,
+      "economy": 9.86,
+      "average": 31.23,
+      "strikeRate": 19
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/akash_singh",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "221": {
+    "competition": "IPL career",
+    "matches": 8,
+    "batting": null,
+    "bowling": {
+      "innings": 8,
+      "wickets": 4,
+      "economy": 9.26,
+      "average": 58.25,
+      "strikeRate": 37.75
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/gurjapneet_singh",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "231": {
+    "competition": "IPL career",
+    "matches": 1,
+    "batting": {
+      "innings": 1,
+      "runs": 14,
+      "average": 14,
+      "strikeRate": 116.67
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/matthew_breetzke",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "235": {
+    "competition": "IPL career",
+    "matches": 10,
+    "batting": {
+      "innings": 10,
+      "runs": 278,
+      "average": 27.8,
+      "strikeRate": 158.86
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/pathum_nissanka",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "244": {
+    "competition": "IPL career",
+    "matches": 35,
+    "batting": {
+      "innings": 21,
+      "runs": 136,
+      "average": 17,
+      "strikeRate": 110.57
+    },
+    "bowling": {
+      "innings": 35,
+      "wickets": 30,
+      "economy": 7.51,
+      "average": 28.67,
+      "strikeRate": 22.9
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/mitchell_santner",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "245": {
+    "competition": "IPL career",
+    "matches": 20,
+    "batting": {
+      "innings": 5,
+      "runs": 40,
+      "average": 10,
+      "strikeRate": 111.11
+    },
+    "bowling": {
+      "innings": 20,
+      "wickets": 8,
+      "economy": 6.85,
+      "average": 55.63,
+      "strikeRate": 48.75
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/jayant_yadav",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "253": {
+    "matches": 3,
+    "batting": {
+      "innings": 1,
+      "runs": 2.0,
+      "average": null,
+      "strikeRate": 100.0
+    },
+    "bowling": {
+      "innings": 3,
+      "wickets": 2.0,
+      "economy": 10.19,
+      "average": 55.0,
+      "strikeRate": 34.0
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/richard-gleeson",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "254": {
+    "competition": "IPL career",
+    "matches": 9,
+    "batting": {
+      "innings": 2,
+      "runs": 7,
+      "average": 3.5,
+      "strikeRate": 70
+    },
+    "bowling": {
+      "innings": 9,
+      "wickets": 4,
+      "economy": 11.52,
+      "average": 77.75,
+      "strikeRate": 40.5
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/matt_henry",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "256": {
+    "competition": "IPL career",
+    "matches": 4,
+    "batting": {
+      "innings": 1,
+      "runs": 8,
+      "average": null,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 4,
+      "wickets": 2,
+      "economy": 13,
+      "average": 71.5,
+      "strikeRate": 33
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/kwena_maphaka",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "257": {
+    "competition": "IPL career",
+    "matches": 12,
+    "batting": {
+      "innings": 1,
+      "runs": 0,
+      "average": null,
+      "strikeRate": 0
+    },
+    "bowling": {
+      "innings": 12,
+      "wickets": 14,
+      "economy": 9.63,
+      "average": 27.64,
+      "strikeRate": 17.21
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/kuldeep_sen",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "260": {
+    "competition": "IPL career",
+    "matches": 2,
+    "batting": {
+      "innings": 1,
+      "runs": 9,
+      "average": null,
+      "strikeRate": 300
+    },
+    "bowling": {
+      "innings": 2,
+      "wickets": 1,
+      "economy": 15.5,
+      "average": 93,
+      "strikeRate": 36
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/luke_wood",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "266": {
+    "matches": 3,
+    "batting": {
+      "innings": 2,
+      "runs": 29.0,
+      "average": 14.5,
+      "strikeRate": 116.0
+    },
+    "bowling": null,
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/akshat-raghuwanshi",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "269": {
+    "competition": "IPL career",
+    "matches": 30,
+    "batting": {
+      "innings": 30,
+      "runs": 839,
+      "average": 27.97,
+      "strikeRate": 191.99
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/priyansh_arya",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "271": {
+    "competition": "IPL career",
+    "matches": 5,
+    "batting": {
+      "innings": 2,
+      "runs": 23,
+      "average": 23,
+      "strikeRate": 69.7
+    },
+    "bowling": {
+      "innings": 5,
+      "wickets": 2,
+      "economy": 8.54,
+      "average": 55.5,
+      "strikeRate": 39
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/pravin_dubey",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "272": {
+    "matches": 52,
+    "batting": {
+      "innings": 42,
+      "runs": 490.0,
+      "average": 16.33,
+      "strikeRate": 131.72
+    },
+    "bowling": {
+      "innings": 50,
+      "wickets": 52.0,
+      "economy": 7.32,
+      "average": 23.65,
+      "strikeRate": 19.3
+    },
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/ajay-mandal",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "274": {
+    "competition": "IPL career",
+    "matches": 19,
+    "batting": {
+      "innings": 10,
+      "runs": 157,
+      "average": 19.63,
+      "strikeRate": 176.4
+    },
+    "bowling": {
+      "innings": 18,
+      "wickets": 13,
+      "economy": 9.77,
+      "average": 36.08,
+      "strikeRate": 22.15
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/vipraj_nigam",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "275": {
+    "matches": 15,
+    "batting": {
+      "innings": 8,
+      "runs": 67.0,
+      "average": 13.4,
+      "strikeRate": 106.34
+    },
+    "bowling": {
+      "innings": 15,
+      "wickets": 14.0,
+      "economy": 6.46,
+      "average": 25.71,
+      "strikeRate": 23.8
+    },
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/vicky-ostwal",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "277": {
+    "competition": "IPL career",
+    "matches": 14,
+    "batting": {
+      "innings": 11,
+      "runs": 156,
+      "average": 22.29,
+      "strikeRate": 159.18
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/salil_arora",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "289": {
+    "matches": 3,
+    "batting": {
+      "innings": 1,
+      "runs": 0.0,
+      "average": null,
+      "strikeRate": 0.0
+    },
+    "bowling": {
+      "innings": 2,
+      "wickets": 2.0,
+      "economy": 9.71,
+      "average": 34.0,
+      "strikeRate": 21.0
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/kuldip-yadav",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "306": {
+    "competition": "IPL career",
+    "matches": 9,
+    "batting": {
+      "innings": 9,
+      "runs": 163,
+      "average": 18.11,
+      "strikeRate": 140.52
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/jacob_bethell",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "307": {
+    "matches": 88,
+    "batting": {
+      "innings": 64,
+      "runs": 792.0,
+      "average": 17.21,
+      "strikeRate": 139.19
+    },
+    "bowling": {
+      "innings": 78,
+      "wickets": 58.0,
+      "economy": 9.09,
+      "average": 35.48,
+      "strikeRate": 23.3
+    },
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/brydon-carse",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "309": {
+    "competition": "IPL career",
+    "matches": 58,
+    "batting": {
+      "innings": 44,
+      "runs": 746,
+      "average": 22.61,
+      "strikeRate": 137.38
+    },
+    "bowling": {
+      "innings": 1,
+      "wickets": 0,
+      "economy": 18,
+      "average": null,
+      "strikeRate": null
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/sarfaraz_khan",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "311": {
+    "competition": "IPL career",
+    "matches": 5,
+    "batting": {
+      "innings": 5,
+      "runs": 92,
+      "average": 30.67,
+      "strikeRate": 133.33
+    },
+    "bowling": {
+      "innings": 4,
+      "wickets": 2,
+      "economy": 8.57,
+      "average": 30,
+      "strikeRate": 21
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/kamindu_mendis",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "314": {
+    "competition": "IPL career",
+    "matches": 20,
+    "batting": {
+      "innings": 12,
+      "runs": 53,
+      "average": 13.25,
+      "strikeRate": 117.78
+    },
+    "bowling": {
+      "innings": 19,
+      "wickets": 13,
+      "economy": 9.7,
+      "average": 47.77,
+      "strikeRate": 29.54
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/dushmantha_chameera",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "315": {
+    "matches": 17,
+    "batting": {
+      "innings": 5,
+      "runs": 19.0,
+      "average": 4.75,
+      "strikeRate": 76.0
+    },
+    "bowling": {
+      "innings": 17,
+      "wickets": 19.0,
+      "economy": 8.66,
+      "average": 29.16,
+      "strikeRate": 20.21
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/nathan-ellis",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "318": {
+    "competition": "IPL career",
+    "matches": 32,
+    "batting": {
+      "innings": 12,
+      "runs": 51,
+      "average": 5.67,
+      "strikeRate": 91.07
+    },
+    "bowling": {
+      "innings": 32,
+      "wickets": 30,
+      "economy": 8.71,
+      "average": 31.4,
+      "strikeRate": 21.63
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/shivam_mavi",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "320": {
+    "competition": "IPL career",
+    "matches": 34,
+    "batting": {
+      "innings": 7,
+      "runs": 33,
+      "average": 8.25,
+      "strikeRate": 89.19
+    },
+    "bowling": {
+      "innings": 33,
+      "wickets": 23,
+      "economy": 8.97,
+      "average": 43.96,
+      "strikeRate": 29.39
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/navdeep_saini",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "323": {
+    "matches": 13,
+    "batting": {
+      "innings": 13,
+      "runs": 441.0,
+      "average": 33.92,
+      "strikeRate": 183.75
+    },
+    "bowling": null,
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/ayush-mhatre",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "325": {
+    "competition": "IPL career",
+    "matches": 24,
+    "batting": {
+      "innings": 20,
+      "runs": 315,
+      "average": 21,
+      "strikeRate": 160.71
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/aniket_verma",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "329": {
+    "competition": "IPL career",
+    "matches": 8,
+    "batting": {
+      "innings": 4,
+      "runs": 35,
+      "average": 11.67,
+      "strikeRate": 109.38
+    },
+    "bowling": {
+      "innings": 2,
+      "wickets": 2,
+      "economy": 12.5,
+      "average": 25,
+      "strikeRate": 12
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/raj_angad_bawa",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "331": {
+    "competition": "IPL career",
+    "matches": 1,
+    "batting": {
+      "innings": 1,
+      "runs": 0,
+      "average": 0,
+      "strikeRate": 0
+    },
+    "bowling": {
+      "innings": 1,
+      "wickets": 1,
+      "economy": 13.5,
+      "average": 27,
+      "strikeRate": 12
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/musheer_khan",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "333": {
+    "matches": 1,
+    "batting": {
+      "innings": 1,
+      "runs": 0.0,
+      "average": null,
+      "strikeRate": null
+    },
+    "bowling": null,
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/mayank-rawat",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "334": {
+    "competition": "IPL career",
+    "matches": 12,
+    "batting": {
+      "innings": 10,
+      "runs": 165,
+      "average": 23.57,
+      "strikeRate": 163.37
+    },
+    "bowling": {
+      "innings": 1,
+      "wickets": 0,
+      "economy": 13.33,
+      "average": null,
+      "strikeRate": null
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/suryansh_shedge",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "341": {
+    "competition": "IPL career",
+    "matches": 12,
+    "batting": null,
+    "bowling": {
+      "innings": 12,
+      "wickets": 13,
+      "economy": 9.86,
+      "average": 31.23,
+      "strikeRate": 19
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/akash_singh",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "344": {
+    "matches": 4,
+    "batting": {
+      "innings": 1,
+      "runs": 4.0,
+      "average": null,
+      "strikeRate": 200.0
+    },
+    "bowling": {
+      "innings": 4,
+      "wickets": 5.0,
+      "economy": 8.48,
+      "average": 21.2,
+      "strikeRate": 15.4
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/saurabh-dubey",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "346": {
+    "competition": "IPL career",
+    "matches": 9,
+    "batting": null,
+    "bowling": {
+      "innings": 9,
+      "wickets": 6,
+      "economy": 11.01,
+      "average": 46.17,
+      "strikeRate": 25.17
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/kulwant_khejroliya",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "350": {
+    "competition": "IPL career",
+    "matches": 20,
+    "batting": {
+      "innings": 3,
+      "runs": 5,
+      "average": null,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 20,
+      "wickets": 19,
+      "economy": 9.14,
+      "average": 36,
+      "strikeRate": 23.63
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/prince_yadav",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "363": {
+    "competition": "IPL career",
+    "matches": 13,
+    "batting": {
+      "innings": 8,
+      "runs": 151,
+      "average": 30.2,
+      "strikeRate": 162.37
+    },
+    "bowling": {
+      "innings": 13,
+      "wickets": 14,
+      "economy": 9.76,
+      "average": 23.71,
+      "strikeRate": 14.57
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/jamie_overton",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "366": {
+    "competition": "IPL career",
+    "matches": 13,
+    "batting": {
+      "innings": 4,
+      "runs": 40,
+      "average": 20,
+      "strikeRate": 142.86
+    },
+    "bowling": {
+      "innings": 13,
+      "wickets": 7,
+      "economy": 11.13,
+      "average": 69.14,
+      "strikeRate": 37.29
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/xavier_bartlett",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "367": {
+    "competition": "IPL career",
+    "matches": 1,
+    "batting": null,
+    "bowling": {
+      "innings": 1,
+      "wickets": 1,
+      "economy": 9,
+      "average": 36,
+      "strikeRate": 24
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/dilshan_madushanka",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "368": {
+    "competition": "IPL career",
+    "matches": 11,
+    "batting": {
+      "innings": 7,
+      "runs": 25,
+      "average": 6.25,
+      "strikeRate": 80.65
+    },
+    "bowling": {
+      "innings": 11,
+      "wickets": 7,
+      "economy": 9.73,
+      "average": 52.57,
+      "strikeRate": 32.43
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/adam_milne",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "369": {
+    "competition": "IPL career",
+    "matches": 28,
+    "batting": {
+      "innings": 4,
+      "runs": 4,
+      "average": 2,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 27,
+      "wickets": 42,
+      "economy": 8.41,
+      "average": 20.69,
+      "strikeRate": 14.76
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/lungisani_ngidi",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "383": {
+    "competition": "IPL career",
+    "matches": 12,
+    "batting": {
+      "innings": 10,
+      "runs": 115,
+      "average": 12.78,
+      "strikeRate": 110.58
+    },
+    "bowling": {
+      "innings": 1,
+      "wickets": 0,
+      "economy": 13,
+      "average": null,
+      "strikeRate": null
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/aman_khan",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "390": {
+    "matches": 2,
+    "batting": {
+      "innings": 2,
+      "runs": 12.0,
+      "average": 6.0,
+      "strikeRate": 80.0
+    },
+    "bowling": null,
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/tejasvi-dahiya",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "401": {
+    "competition": "IPL career",
+    "matches": 23,
+    "batting": {
+      "innings": 5,
+      "runs": 2,
+      "average": 0.5,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 23,
+      "wickets": 28,
+      "economy": 7.86,
+      "average": 22.14,
+      "strikeRate": 16.89
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/abhinandan_singh",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "402": {
+    "competition": "IPL career",
+    "matches": 14,
+    "batting": {
+      "innings": 13,
+      "runs": 491,
+      "average": 44.64,
+      "strikeRate": 163.12
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/cooper_connolly",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "404": {
+    "competition": "IPL career",
+    "matches": 57,
+    "batting": {
+      "innings": 34,
+      "runs": 324,
+      "average": 12.46,
+      "strikeRate": 123.19
+    },
+    "bowling": {
+      "innings": 57,
+      "wickets": 70,
+      "economy": 8.58,
+      "average": 25.01,
+      "strikeRate": 17.5
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/jason_holder",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "410": {
+    "matches": 1,
+    "batting": null,
+    "bowling": {
+      "innings": 1,
+      "wickets": 1.0,
+      "economy": 12.75,
+      "average": 51.0,
+      "strikeRate": 24.0
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/ben-dwarshuis",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "416": {
+    "matches": 13,
+    "batting": {
+      "innings": 12,
+      "runs": 198.0,
+      "average": 18.0,
+      "strikeRate": 116.47
+    },
+    "bowling": null,
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/pyla-avinash",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "420": {
+    "matches": 5,
+    "batting": {
+      "innings": 5,
+      "runs": 66.0,
+      "average": 13.2,
+      "strikeRate": 126.92
+    },
+    "bowling": null,
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/sarthak-ranjan",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "422": {
+    "competition": "IPL career",
+    "matches": 3,
+    "batting": {
+      "innings": 2,
+      "runs": 10,
+      "average": 10,
+      "strikeRate": 47.62
+    },
+    "bowling": {
+      "innings": 3,
+      "wickets": 0,
+      "economy": 10.5,
+      "average": null,
+      "strikeRate": null
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/krish_bhagat",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "424": {
+    "competition": "IPL career",
+    "matches": 11,
+    "batting": {
+      "innings": 5,
+      "runs": 13,
+      "average": 6.5,
+      "strikeRate": 144.44
+    },
+    "bowling": {
+      "innings": 11,
+      "wickets": 13,
+      "economy": 10.19,
+      "average": 25.08,
+      "strikeRate": 14.77
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/harsh_dubey",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "425": {
+    "competition": "IPL career",
+    "matches": 2,
+    "batting": {
+      "innings": 2,
+      "runs": 7,
+      "average": 3.5,
+      "strikeRate": 87.5
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/ramakrishna_ghosh",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "437": {
+    "matches": 68,
+    "batting": {
+      "innings": 39,
+      "runs": 292.0,
+      "average": 13.27,
+      "strikeRate": 129.77
+    },
+    "bowling": {
+      "innings": 64,
+      "wickets": 77.0,
+      "economy": 8.1,
+      "average": 22.93,
+      "strikeRate": 16.9
+    },
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/zakary-foulkes",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "443": {
+    "competition": "IPL career",
+    "matches": 10,
+    "batting": {
+      "innings": 8,
+      "runs": 89,
+      "average": 12.71,
+      "strikeRate": 123.61
+    },
+    "bowling": {
+      "innings": 3,
+      "wickets": 1,
+      "economy": 10,
+      "average": 60,
+      "strikeRate": 36
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/dasun_shanaka",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "445": {
+    "competition": "IPL career",
+    "matches": 2,
+    "batting": null,
+    "bowling": {
+      "innings": 2,
+      "wickets": 4,
+      "economy": 10.71,
+      "average": 18.75,
+      "strikeRate": 10.5
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/blessing_muzarabani",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "467": {
+    "competition": "IPL career",
+    "matches": 7,
+    "batting": {
+      "innings": 2,
+      "runs": 3,
+      "average": 3,
+      "strikeRate": 33.33
+    },
+    "bowling": {
+      "innings": 7,
+      "wickets": 14,
+      "economy": 11.73,
+      "average": 21.79,
+      "strikeRate": 11.14
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/praful_hinge",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "470": {
+    "competition": "IPL career",
+    "matches": 6,
+    "batting": {
+      "innings": 2,
+      "runs": 1,
+      "average": null,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 6,
+      "wickets": 6,
+      "economy": 10.86,
+      "average": 38,
+      "strikeRate": 21
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/ashok_sharma",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "480": {
+    "competition": "IPL career",
+    "matches": 15,
+    "batting": {
+      "innings": 10,
+      "runs": 77,
+      "average": 15.4,
+      "strikeRate": 105.48
+    },
+    "bowling": {
+      "innings": 15,
+      "wickets": 16,
+      "economy": 10.12,
+      "average": 31.63,
+      "strikeRate": 18.75
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/kyle_jamieson",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "484": {
+    "matches": 2,
+    "batting": {
+      "innings": 1,
+      "runs": 6.0,
+      "average": null,
+      "strikeRate": 120.0
+    },
+    "bowling": {
+      "innings": 2,
+      "wickets": 2.0,
+      "economy": 14.0,
+      "average": 35.0,
+      "strikeRate": 15.0
+    },
+    "competition": "IPL career",
+    "fallback": false,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/david-payne",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "491": {
+    "competition": "IPL career",
+    "matches": 23,
+    "batting": {
+      "innings": 23,
+      "runs": 1028,
+      "average": 44.7,
+      "strikeRate": 228.95
+    },
+    "bowling": null,
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/vaibhav_sooryavanshi",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "521": {
+    "competition": "IPL career",
+    "matches": 9,
+    "batting": {
+      "innings": 6,
+      "runs": 97,
+      "average": 32.33,
+      "strikeRate": 153.97
+    },
+    "bowling": {
+      "innings": 8,
+      "wickets": 13,
+      "economy": 9.2,
+      "average": 19.23,
+      "strikeRate": 12.54
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/corbin_bosch",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "529": {
+    "competition": "IPL career",
+    "matches": 22,
+    "batting": {
+      "innings": 3,
+      "runs": 7,
+      "average": 7,
+      "strikeRate": null
+    },
+    "bowling": {
+      "innings": 22,
+      "wickets": 33,
+      "economy": 9.2,
+      "average": 22.58,
+      "strikeRate": 14.73
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/eshan_malinga",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "537": {
+    "matches": 25,
+    "batting": {
+      "innings": 13,
+      "runs": 135.0,
+      "average": 16.87,
+      "strikeRate": 156.97
+    },
+    "bowling": {
+      "innings": 23,
+      "wickets": 19.0,
+      "economy": 7.13,
+      "average": 30.47,
+      "strikeRate": 25.6
+    },
+    "competition": "T20 career",
+    "fallback": true,
+    "provider": "IPL.com (independent statistics site)",
+    "source": "https://www.ipl.com/player/atharva-ankolekar",
+    "asOf": "2026-10-18",
+    "coverage": "Provider-reported career totals; update cutoff not supplied."
+  },
+  "557": {
+    "competition": "IPL career",
+    "matches": 106,
+    "batting": {
+      "innings": 106,
+      "runs": 2619,
+      "average": 25.93,
+      "strikeRate": 121.87
+    },
+    "bowling": {
+      "innings": 4,
+      "wickets": 0,
+      "economy": 8.17,
+      "average": null,
+      "strikeRate": null
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/tripurana_vijay",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "565": {
+    "competition": "IPL career",
+    "matches": 4,
+    "batting": {
+      "innings": 2,
+      "runs": 21,
+      "average": 21,
+      "strikeRate": 175
+    },
+    "bowling": {
+      "innings": 3,
+      "wickets": 4,
+      "economy": 8.7,
+      "average": 21.75,
+      "strikeRate": 15
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/madhav_tiwari",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  },
+  "572": {
+    "competition": "IPL career",
+    "matches": 5,
+    "batting": null,
+    "bowling": {
+      "innings": 5,
+      "wickets": 6,
+      "economy": 9.08,
+      "average": 18.17,
+      "strikeRate": 12
+    },
+    "fallback": false,
+    "provider": "IPL T20 Players",
+    "source": "https://www.iplt20players.com/players/vignesh_puthur",
+    "asOf": "2026-10-18",
+    "coverage": "Career totals from the IPL T20 Players career comparison snapshot."
+  }
+}

@@ -1,0 +1,4 @@
+# Simulation design
+Planned, not implemented in Phase 1. Pure TypeScript engine takes seed, versioned ratings, venue, rules and tactics; emits replayable delivery events. Use seeded PRNG only, never LLM outcomes. Combine competition priors with sample-size-aware player estimates; shrink sparse matchups toward bowling-style and handedness priors. Recency and competition weights are versioned.
+
+First sample legal/illegal delivery, then wicket and run outcomes from normalized probabilities. Track extras, strike changes, legal-ball counts, bowler limits, dismissals and chase completion. Powerplay fielding, pitch and tactics modify probabilities with bounded effects. Live and automatic modes invoke identical transitions; live decisions pause between events. Super Overs and Impact Player rules are explicit rule modules. Replay, invariants, distribution calibration and property tests precede release. Stronger teams have an advantage without deterministic victories.

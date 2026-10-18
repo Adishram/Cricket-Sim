@@ -1,0 +1,3021 @@
+{
+ "season": 2026,
+ "source": "OpenIPL scorecards (Cricsheet, CC BY 4.0)",
+ "players": {
+  "player-10301": {
+   "matches": 10,
+   "batting": {
+    "innings": 6,
+    "runs": 136,
+    "balls": 86,
+    "dismissals": 5
+   },
+   "bowling": {
+    "innings": 10,
+    "balls": 168,
+    "runs": 249,
+    "wickets": 14
+   }
+  },
+  "player-10925": {
+   "matches": 10,
+   "batting": {
+    "innings": 9,
+    "runs": 216,
+    "balls": 120,
+    "dismissals": 6
+   },
+   "bowling": {
+    "innings": 4,
+    "balls": 47,
+    "runs": 98,
+    "wickets": 2
+   }
+  },
+  "player-11256": {
+   "matches": 2,
+   "batting": {
+    "innings": 1,
+    "runs": 6,
+    "balls": 5,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 2,
+    "balls": 30,
+    "runs": 70,
+    "wickets": 2
+   }
+  },
+  "player-11326": {
+   "matches": 9,
+   "batting": {
+    "innings": 9,
+    "runs": 283,
+    "balls": 180,
+    "dismissals": 8
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-11458": {
+   "matches": 13,
+   "batting": {
+    "innings": 7,
+    "runs": 31,
+    "balls": 22,
+    "dismissals": 5
+   },
+   "bowling": {
+    "innings": 13,
+    "balls": 306,
+    "runs": 459,
+    "wickets": 12
+   }
+  },
+  "player-11658": {
+   "matches": 13,
+   "batting": {
+    "innings": 4,
+    "runs": 40,
+    "balls": 32,
+    "dismissals": 3
+   },
+   "bowling": {
+    "innings": 13,
+    "balls": 306,
+    "runs": 339,
+    "wickets": 15
+   }
+  },
+  "player-12612": {
+   "matches": 13,
+   "batting": {
+    "innings": 13,
+    "runs": 563,
+    "balls": 345,
+    "dismissals": 13
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-12685": {
+   "matches": 14,
+   "batting": {
+    "innings": 14,
+    "runs": 335,
+    "balls": 248,
+    "dismissals": 13
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-12690": {
+   "matches": 16,
+   "batting": {
+    "innings": 4,
+    "runs": 34,
+    "balls": 26,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 16,
+    "balls": 378,
+    "runs": 501,
+    "wickets": 28
+   }
+  },
+  "player-12693": {
+   "matches": 11,
+   "batting": {
+    "innings": 7,
+    "runs": 65,
+    "balls": 52,
+    "dismissals": 5
+   },
+   "bowling": {
+    "innings": 11,
+    "balls": 230,
+    "runs": 290,
+    "wickets": 17
+   }
+  },
+  "player-13143": {
+   "matches": 13,
+   "batting": {
+    "innings": 11,
+    "runs": 266,
+    "balls": 197,
+    "dismissals": 4
+   },
+   "bowling": {
+    "innings": 12,
+    "balls": 198,
+    "runs": 277,
+    "wickets": 10
+   }
+  },
+  "player-13144": {
+   "matches": 16,
+   "batting": {
+    "innings": 16,
+    "runs": 675,
+    "balls": 407,
+    "dismissals": 12
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-13294": {
+   "matches": 1,
+   "batting": {
+    "innings": 1,
+    "runs": 0,
+    "balls": 3,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 1,
+    "balls": 12,
+    "runs": 18,
+    "wickets": 0
+   }
+  },
+  "player-13575": {
+   "matches": 10,
+   "batting": {
+    "innings": 10,
+    "runs": 211,
+    "balls": 137,
+    "dismissals": 6
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-14153": {
+   "matches": 8,
+   "batting": {
+    "innings": 3,
+    "runs": 30,
+    "balls": 19,
+    "dismissals": 3
+   },
+   "bowling": {
+    "innings": 8,
+    "balls": 192,
+    "runs": 307,
+    "wickets": 8
+   }
+  },
+  "player-14327": {
+   "matches": 13,
+   "batting": {
+    "innings": 1,
+    "runs": 0,
+    "balls": 1,
+    "dismissals": 1
+   },
+   "bowling": {
+    "innings": 13,
+    "balls": 309,
+    "runs": 494,
+    "wickets": 15
+   }
+  },
+  "player-14328": {
+   "matches": 6,
+   "batting": {
+    "innings": 1,
+    "runs": 0,
+    "balls": 2,
+    "dismissals": 1
+   },
+   "bowling": {
+    "innings": 6,
+    "balls": 132,
+    "runs": 224,
+    "wickets": 11
+   }
+  },
+  "player-14330": {
+   "matches": 5,
+   "batting": {
+    "innings": 2,
+    "runs": 8,
+    "balls": 4,
+    "dismissals": 1
+   },
+   "bowling": {
+    "innings": 5,
+    "balls": 97,
+    "runs": 188,
+    "wickets": 2
+   }
+  },
+  "player-14334": {
+   "matches": 4,
+   "batting": {
+    "innings": 2,
+    "runs": 26,
+    "balls": 19,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 4,
+    "balls": 84,
+    "runs": 125,
+    "wickets": 5
+   }
+  },
+  "player-14621": {
+   "matches": 12,
+   "batting": {
+    "innings": 0,
+    "runs": 0,
+    "balls": 0,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 12,
+    "balls": 246,
+    "runs": 385,
+    "wickets": 12
+   }
+  },
+  "player-15271": {
+   "matches": 4,
+   "batting": {
+    "innings": 1,
+    "runs": 4,
+    "balls": 3,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 4,
+    "balls": 77,
+    "runs": 140,
+    "wickets": 4
+   }
+  },
+  "player-15660": {
+   "matches": 6,
+   "batting": {
+    "innings": 0,
+    "runs": 0,
+    "balls": 0,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 6,
+    "balls": 118,
+    "runs": 224,
+    "wickets": 5
+   }
+  },
+  "player-15670": {
+   "matches": 6,
+   "batting": {
+    "innings": 0,
+    "runs": 0,
+    "balls": 0,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 6,
+    "balls": 144,
+    "runs": 263,
+    "wickets": 9
+   }
+  },
+  "player-16093": {
+   "matches": 10,
+   "batting": {
+    "innings": 10,
+    "runs": 206,
+    "balls": 149,
+    "dismissals": 9
+   },
+   "bowling": {
+    "innings": 9,
+    "balls": 136,
+    "runs": 259,
+    "wickets": 4
+   }
+  },
+  "player-16094": {
+   "matches": 6,
+   "batting": {
+    "innings": 5,
+    "runs": 63,
+    "balls": 46,
+    "dismissals": 5
+   },
+   "bowling": {
+    "innings": 3,
+    "balls": 36,
+    "runs": 60,
+    "wickets": 1
+   }
+  },
+  "player-16096": {
+   "matches": 13,
+   "batting": {
+    "innings": 2,
+    "runs": 7,
+    "balls": 7,
+    "dismissals": 1
+   },
+   "bowling": {
+    "innings": 13,
+    "balls": 294,
+    "runs": 410,
+    "wickets": 4
+   }
+  },
+  "player-16261": {
+   "matches": 17,
+   "batting": {
+    "innings": 17,
+    "runs": 526,
+    "balls": 345,
+    "dismissals": 14
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-16790": {
+   "matches": 1,
+   "batting": {
+    "innings": 0,
+    "runs": 0,
+    "balls": 0,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 1,
+    "balls": 18,
+    "runs": 37,
+    "wickets": 0
+   }
+  },
+  "player-16935": {
+   "matches": 2,
+   "batting": {
+    "innings": 2,
+    "runs": 70,
+    "balls": 49,
+    "dismissals": 2
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-16936": {
+   "matches": 2,
+   "batting": {
+    "innings": 2,
+    "runs": 18,
+    "balls": 18,
+    "dismissals": 2
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-17613": {
+   "matches": 14,
+   "batting": {
+    "innings": 14,
+    "runs": 477,
+    "balls": 288,
+    "dismissals": 11
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-17614": {
+   "matches": 3,
+   "batting": {
+    "innings": 3,
+    "runs": 132,
+    "balls": 81,
+    "dismissals": 2
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-17616": {
+   "matches": 14,
+   "batting": {
+    "innings": 11,
+    "runs": 173,
+    "balls": 132,
+    "dismissals": 9
+   },
+   "bowling": {
+    "innings": 13,
+    "balls": 264,
+    "runs": 360,
+    "wickets": 11
+   }
+  },
+  "player-17617": {
+   "matches": 13,
+   "batting": {
+    "innings": 13,
+    "runs": 312,
+    "balls": 226,
+    "dismissals": 11
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-18000": {
+   "matches": 5,
+   "batting": {
+    "innings": 3,
+    "runs": 10,
+    "balls": 9,
+    "dismissals": 3
+   },
+   "bowling": {
+    "innings": 5,
+    "balls": 82,
+    "runs": 148,
+    "wickets": 0
+   }
+  },
+  "player-18052": {
+   "matches": 3,
+   "batting": {
+    "innings": 2,
+    "runs": 7,
+    "balls": 10,
+    "dismissals": 2
+   },
+   "bowling": {
+    "innings": 3,
+    "balls": 60,
+    "runs": 130,
+    "wickets": 2
+   }
+  },
+  "player-19257": {
+   "matches": 8,
+   "batting": {
+    "innings": 4,
+    "runs": 25,
+    "balls": 19,
+    "dismissals": 2
+   },
+   "bowling": {
+    "innings": 8,
+    "balls": 153,
+    "runs": 265,
+    "wickets": 8
+   }
+  },
+  "player-19720": {
+   "matches": 17,
+   "batting": {
+    "innings": 4,
+    "runs": 47,
+    "balls": 38,
+    "dismissals": 2
+   },
+   "bowling": {
+    "innings": 17,
+    "balls": 388,
+    "runs": 626,
+    "wickets": 29
+   }
+  },
+  "player-20007": {
+   "matches": 1,
+   "batting": {
+    "innings": 1,
+    "runs": 2,
+    "balls": 2,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 1,
+    "balls": 20,
+    "runs": 41,
+    "wickets": 0
+   }
+  },
+  "player-20009": {
+   "matches": 3,
+   "batting": {
+    "innings": 3,
+    "runs": 19,
+    "balls": 18,
+    "dismissals": 3
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-20030": {
+   "matches": 12,
+   "batting": {
+    "innings": 4,
+    "runs": 9,
+    "balls": 21,
+    "dismissals": 3
+   },
+   "bowling": {
+    "innings": 11,
+    "balls": 222,
+    "runs": 381,
+    "wickets": 10
+   }
+  },
+  "player-20033": {
+   "matches": 12,
+   "batting": {
+    "innings": 12,
+    "runs": 116,
+    "balls": 95,
+    "dismissals": 9
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-20067": {
+   "matches": 3,
+   "batting": {
+    "innings": 3,
+    "runs": 60,
+    "balls": 51,
+    "dismissals": 3
+   },
+   "bowling": {
+    "innings": 2,
+    "balls": 19,
+    "runs": 39,
+    "wickets": 0
+   }
+  },
+  "player-20183": {
+   "matches": 3,
+   "batting": {
+    "innings": 0,
+    "runs": 0,
+    "balls": 0,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 3,
+    "balls": 66,
+    "runs": 141,
+    "wickets": 1
+   }
+  },
+  "player-20223": {
+   "matches": 7,
+   "batting": {
+    "innings": 3,
+    "runs": 6,
+    "balls": 6,
+    "dismissals": 1
+   },
+   "bowling": {
+    "innings": 7,
+    "balls": 148,
+    "runs": 273,
+    "wickets": 6
+   }
+  },
+  "player-20224": {
+   "matches": 7,
+   "batting": {
+    "innings": 7,
+    "runs": 161,
+    "balls": 95,
+    "dismissals": 7
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-20226": {
+   "matches": 16,
+   "batting": {
+    "innings": 16,
+    "runs": 377,
+    "balls": 251,
+    "dismissals": 10
+   },
+   "bowling": {
+    "innings": 5,
+    "balls": 55,
+    "runs": 84,
+    "wickets": 1
+   }
+  },
+  "player-20227": {
+   "matches": 15,
+   "batting": {
+    "innings": 15,
+    "runs": 602,
+    "balls": 330,
+    "dismissals": 15
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-20451": {
+   "matches": 14,
+   "batting": {
+    "innings": 14,
+    "runs": 593,
+    "balls": 340,
+    "dismissals": 13
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-20456": {
+   "matches": 16,
+   "batting": {
+    "innings": 9,
+    "runs": 226,
+    "balls": 155,
+    "dismissals": 6
+   },
+   "bowling": {
+    "innings": 15,
+    "balls": 303,
+    "runs": 425,
+    "wickets": 14
+   }
+  },
+  "player-20680": {
+   "matches": 3,
+   "batting": {
+    "innings": 3,
+    "runs": 31,
+    "balls": 21,
+    "dismissals": 3
+   },
+   "bowling": {
+    "innings": 3,
+    "balls": 37,
+    "runs": 55,
+    "wickets": 1
+   }
+  },
+  "player-20861": {
+   "matches": 13,
+   "batting": {
+    "innings": 13,
+    "runs": 270,
+    "balls": 183,
+    "dismissals": 13
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-20866": {
+   "matches": 7,
+   "batting": {
+    "innings": 7,
+    "runs": 190,
+    "balls": 141,
+    "dismissals": 5
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-21033": {
+   "matches": 15,
+   "batting": {
+    "innings": 15,
+    "runs": 410,
+    "balls": 241,
+    "dismissals": 15
+   },
+   "bowling": {
+    "innings": 1,
+    "balls": 6,
+    "runs": 7,
+    "wickets": 1
+   }
+  },
+  "player-22014": {
+   "matches": 13,
+   "batting": {
+    "innings": 13,
+    "runs": 498,
+    "balls": 295,
+    "dismissals": 9
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-22181": {
+   "matches": 6,
+   "batting": {
+    "innings": 4,
+    "runs": 50,
+    "balls": 31,
+    "dismissals": 1
+   },
+   "bowling": {
+    "innings": 6,
+    "balls": 121,
+    "runs": 195,
+    "wickets": 12
+   }
+  },
+  "player-23460": {
+   "matches": 9,
+   "batting": {
+    "innings": 9,
+    "runs": 225,
+    "balls": 149,
+    "dismissals": 9
+   },
+   "bowling": {
+    "innings": 1,
+    "balls": 24,
+    "runs": 55,
+    "wickets": 0
+   }
+  },
+  "player-23659": {
+   "matches": 1,
+   "batting": {
+    "innings": 1,
+    "runs": 0,
+    "balls": 1,
+    "dismissals": 1
+   },
+   "bowling": {
+    "innings": 1,
+    "balls": 24,
+    "runs": 39,
+    "wickets": 0
+   }
+  },
+  "player-23673": {
+   "matches": 15,
+   "batting": {
+    "innings": 15,
+    "runs": 624,
+    "balls": 390,
+    "dismissals": 13
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-23713": {
+   "matches": 7,
+   "batting": {
+    "innings": 7,
+    "runs": 78,
+    "balls": 69,
+    "dismissals": 6
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-23875": {
+   "matches": 2,
+   "batting": {
+    "innings": 2,
+    "runs": 15,
+    "balls": 25,
+    "dismissals": 2
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-23906": {
+   "matches": 14,
+   "batting": {
+    "innings": 14,
+    "runs": 234,
+    "balls": 183,
+    "dismissals": 13
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-24868": {
+   "matches": 7,
+   "batting": {
+    "innings": 2,
+    "runs": 5,
+    "balls": 3,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 7,
+    "balls": 148,
+    "runs": 198,
+    "wickets": 8
+   }
+  },
+  "player-25242": {
+   "matches": 17,
+   "batting": {
+    "innings": 6,
+    "runs": 50,
+    "balls": 41,
+    "dismissals": 4
+   },
+   "bowling": {
+    "innings": 17,
+    "balls": 341,
+    "runs": 516,
+    "wickets": 21
+   }
+  },
+  "player-26160": {
+   "matches": 5,
+   "batting": {
+    "innings": 5,
+    "runs": 67,
+    "balls": 54,
+    "dismissals": 4
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-26170": {
+   "matches": 11,
+   "batting": {
+    "innings": 11,
+    "runs": 349,
+    "balls": 163,
+    "dismissals": 10
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-27214": {
+   "matches": 5,
+   "batting": {
+    "innings": 5,
+    "runs": 43,
+    "balls": 33,
+    "dismissals": 4
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-27765": {
+   "matches": 8,
+   "batting": {
+    "innings": 3,
+    "runs": 24,
+    "balls": 30,
+    "dismissals": 2
+   },
+   "bowling": {
+    "innings": 7,
+    "balls": 132,
+    "runs": 270,
+    "wickets": 12
+   }
+  },
+  "player-27774": {
+   "matches": 11,
+   "batting": {
+    "innings": 11,
+    "runs": 231,
+    "balls": 167,
+    "dismissals": 9
+   },
+   "bowling": {
+    "innings": 5,
+    "balls": 36,
+    "runs": 83,
+    "wickets": 0
+   }
+  },
+  "player-28230": {
+   "matches": 11,
+   "batting": {
+    "innings": 3,
+    "runs": 4,
+    "balls": 7,
+    "dismissals": 2
+   },
+   "bowling": {
+    "innings": 11,
+    "balls": 248,
+    "runs": 340,
+    "wickets": 13
+   }
+  },
+  "player-28502": {
+   "matches": 6,
+   "batting": {
+    "innings": 6,
+    "runs": 202,
+    "balls": 120,
+    "dismissals": 6
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-28503": {
+   "matches": 16,
+   "batting": {
+    "innings": 10,
+    "runs": 64,
+    "balls": 47,
+    "dismissals": 6
+   },
+   "bowling": {
+    "innings": 16,
+    "balls": 360,
+    "runs": 559,
+    "wickets": 25
+   }
+  },
+  "player-29333": {
+   "matches": 14,
+   "batting": {
+    "innings": 14,
+    "runs": 501,
+    "balls": 260,
+    "dismissals": 12
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-31742": {
+   "matches": 10,
+   "batting": {
+    "innings": 0,
+    "runs": 0,
+    "balls": 0,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 10,
+    "balls": 188,
+    "runs": 353,
+    "wickets": 6
+   }
+  },
+  "player-33186": {
+   "matches": 2,
+   "batting": {
+    "innings": 1,
+    "runs": 12,
+    "balls": 13,
+    "dismissals": 1
+   },
+   "bowling": {
+    "innings": 2,
+    "balls": 42,
+    "runs": 90,
+    "wickets": 2
+   }
+  },
+  "player-33718": {
+   "matches": 11,
+   "batting": {
+    "innings": 11,
+    "runs": 295,
+    "balls": 198,
+    "dismissals": 5
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-34170": {
+   "matches": 6,
+   "batting": {
+    "innings": 6,
+    "runs": 209,
+    "balls": 112,
+    "dismissals": 4
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-34256": {
+   "matches": 10,
+   "batting": {
+    "innings": 10,
+    "runs": 278,
+    "balls": 175,
+    "dismissals": 10
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-34331": {
+   "matches": 11,
+   "batting": {
+    "innings": 9,
+    "runs": 132,
+    "balls": 70,
+    "dismissals": 6
+   },
+   "bowling": {
+    "innings": 4,
+    "balls": 60,
+    "runs": 88,
+    "wickets": 4
+   }
+  },
+  "player-34672": {
+   "matches": 1,
+   "batting": {
+    "innings": 1,
+    "runs": 15,
+    "balls": 8,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-37001": {
+   "matches": 10,
+   "batting": {
+    "innings": 1,
+    "runs": 1,
+    "balls": 2,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 10,
+    "balls": 191,
+    "runs": 356,
+    "wickets": 5
+   }
+  },
+  "player-37670": {
+   "matches": 12,
+   "batting": {
+    "innings": 12,
+    "runs": 448,
+    "balls": 240,
+    "dismissals": 11
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-37709": {
+   "matches": 5,
+   "batting": {
+    "innings": 5,
+    "runs": 266,
+    "balls": 143,
+    "dismissals": 5
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-43272": {
+   "matches": 5,
+   "batting": {
+    "innings": 0,
+    "runs": 0,
+    "balls": 0,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 5,
+    "balls": 101,
+    "runs": 146,
+    "wickets": 2
+   }
+  },
+  "player-44044": {
+   "matches": 7,
+   "batting": {
+    "innings": 2,
+    "runs": 26,
+    "balls": 14,
+    "dismissals": 2
+   },
+   "bowling": {
+    "innings": 7,
+    "balls": 138,
+    "runs": 275,
+    "wickets": 4
+   }
+  },
+  "player-44904": {
+   "matches": 17,
+   "batting": {
+    "innings": 2,
+    "runs": 5,
+    "balls": 16,
+    "dismissals": 2
+   },
+   "bowling": {
+    "innings": 17,
+    "balls": 372,
+    "runs": 562,
+    "wickets": 19
+   }
+  },
+  "player-46139": {
+   "matches": 1,
+   "batting": {
+    "innings": 0,
+    "runs": 0,
+    "balls": 0,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 1,
+    "balls": 24,
+    "runs": 51,
+    "wickets": 1
+   }
+  },
+  "player-50536": {
+   "matches": 15,
+   "batting": {
+    "innings": 15,
+    "runs": 190,
+    "balls": 132,
+    "dismissals": 7
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-52827": {
+   "matches": 13,
+   "batting": {
+    "innings": 3,
+    "runs": 14,
+    "balls": 9,
+    "dismissals": 1
+   },
+   "bowling": {
+    "innings": 13,
+    "balls": 261,
+    "runs": 440,
+    "wickets": 14
+   }
+  },
+  "player-54303": {
+   "matches": 5,
+   "batting": {
+    "innings": 5,
+    "runs": 92,
+    "balls": 69,
+    "dismissals": 3
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-55170": {
+   "matches": 9,
+   "batting": {
+    "innings": 3,
+    "runs": 29,
+    "balls": 13,
+    "dismissals": 1
+   },
+   "bowling": {
+    "innings": 9,
+    "balls": 201,
+    "runs": 388,
+    "wickets": 5
+   }
+  },
+  "player-58377": {
+   "matches": 14,
+   "batting": {
+    "innings": 7,
+    "runs": 83,
+    "balls": 66,
+    "dismissals": 4
+   },
+   "bowling": {
+    "innings": 13,
+    "balls": 150,
+    "runs": 298,
+    "wickets": 7
+   }
+  },
+  "player-59553": {
+   "matches": 12,
+   "batting": {
+    "innings": 1,
+    "runs": 6,
+    "balls": 7,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 12,
+    "balls": 234,
+    "runs": 407,
+    "wickets": 16
+   }
+  },
+  "player-63511": {
+   "matches": 1,
+   "batting": {
+    "innings": 0,
+    "runs": 0,
+    "balls": 0,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 1,
+    "balls": 24,
+    "runs": 46,
+    "wickets": 0
+   }
+  },
+  "player-63520": {
+   "matches": 12,
+   "batting": {
+    "innings": 12,
+    "runs": 270,
+    "balls": 170,
+    "dismissals": 7
+   },
+   "bowling": {
+    "innings": 4,
+    "balls": 30,
+    "runs": 64,
+    "wickets": 1
+   }
+  },
+  "player-64377": {
+   "matches": 14,
+   "batting": {
+    "innings": 14,
+    "runs": 337,
+    "balls": 273,
+    "dismissals": 12
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-65344": {
+   "matches": 1,
+   "batting": {
+    "innings": 0,
+    "runs": 0,
+    "balls": 0,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 1,
+    "balls": 24,
+    "runs": 55,
+    "wickets": 2
+   }
+  },
+  "player-65345": {
+   "matches": 16,
+   "batting": {
+    "innings": 16,
+    "runs": 732,
+    "balls": 449,
+    "dismissals": 16
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-65346": {
+   "matches": 15,
+   "batting": {
+    "innings": 15,
+    "runs": 563,
+    "balls": 275,
+    "dismissals": 14
+   },
+   "bowling": {
+    "innings": 4,
+    "balls": 29,
+    "runs": 49,
+    "wickets": 0
+   }
+  },
+  "player-65397": {
+   "matches": 14,
+   "batting": {
+    "innings": 14,
+    "runs": 322,
+    "balls": 221,
+    "dismissals": 10
+   },
+   "bowling": {
+    "innings": 10,
+    "balls": 132,
+    "runs": 234,
+    "wickets": 7
+   }
+  },
+  "player-65476": {
+   "matches": 14,
+   "batting": {
+    "innings": 14,
+    "runs": 309,
+    "balls": 196,
+    "dismissals": 13
+   },
+   "bowling": {
+    "innings": 4,
+    "balls": 24,
+    "runs": 38,
+    "wickets": 2
+   }
+  },
+  "player-65478": {
+   "matches": 6,
+   "batting": {
+    "innings": 6,
+    "runs": 82,
+    "balls": 68,
+    "dismissals": 5
+   },
+   "bowling": {
+    "innings": 2,
+    "balls": 16,
+    "runs": 31,
+    "wickets": 1
+   }
+  },
+  "player-65551": {
+   "matches": 7,
+   "batting": {
+    "innings": 7,
+    "runs": 139,
+    "balls": 76,
+    "dismissals": 5
+   },
+   "bowling": {
+    "innings": 6,
+    "balls": 53,
+    "runs": 94,
+    "wickets": 2
+   }
+  },
+  "player-65727": {
+   "matches": 1,
+   "batting": {
+    "innings": 0,
+    "runs": 0,
+    "balls": 0,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 1,
+    "balls": 12,
+    "runs": 31,
+    "wickets": 0
+   }
+  },
+  "player-65783": {
+   "matches": 2,
+   "batting": {
+    "innings": 0,
+    "runs": 0,
+    "balls": 0,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 2,
+    "balls": 24,
+    "runs": 46,
+    "wickets": 1
+   }
+  },
+  "player-65841": {
+   "matches": 13,
+   "batting": {
+    "innings": 7,
+    "runs": 52,
+    "balls": 39,
+    "dismissals": 4
+   },
+   "bowling": {
+    "innings": 12,
+    "balls": 163,
+    "runs": 261,
+    "wickets": 9
+   }
+  },
+  "player-66048": {
+   "matches": 7,
+   "batting": {
+    "innings": 7,
+    "runs": 123,
+    "balls": 75,
+    "dismissals": 5
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-66512": {
+   "matches": 3,
+   "batting": {
+    "innings": 2,
+    "runs": 52,
+    "balls": 27,
+    "dismissals": 2
+   },
+   "bowling": {
+    "innings": 3,
+    "balls": 66,
+    "runs": 103,
+    "wickets": 3
+   }
+  },
+  "player-66728": {
+   "matches": 3,
+   "batting": {
+    "innings": 1,
+    "runs": 0,
+    "balls": 1,
+    "dismissals": 1
+   },
+   "bowling": {
+    "innings": 3,
+    "balls": 66,
+    "runs": 112,
+    "wickets": 2
+   }
+  },
+  "player-66831": {
+   "matches": 13,
+   "batting": {
+    "innings": 3,
+    "runs": 11,
+    "balls": 10,
+    "dismissals": 3
+   },
+   "bowling": {
+    "innings": 13,
+    "balls": 306,
+    "runs": 498,
+    "wickets": 18
+   }
+  },
+  "player-66839": {
+   "matches": 2,
+   "batting": {
+    "innings": 0,
+    "runs": 0,
+    "balls": 0,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 2,
+    "balls": 42,
+    "runs": 75,
+    "wickets": 4
+   }
+  },
+  "player-66897": {
+   "matches": 5,
+   "batting": {
+    "innings": 0,
+    "runs": 0,
+    "balls": 0,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 5,
+    "balls": 90,
+    "runs": 130,
+    "wickets": 1
+   }
+  },
+  "player-67190": {
+   "matches": 14,
+   "batting": {
+    "innings": 1,
+    "runs": 1,
+    "balls": 1,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 14,
+    "balls": 318,
+    "runs": 541,
+    "wickets": 14
+   }
+  },
+  "player-67369": {
+   "matches": 15,
+   "batting": {
+    "innings": 15,
+    "runs": 305,
+    "balls": 162,
+    "dismissals": 9
+   },
+   "bowling": {
+    "innings": 1,
+    "balls": 6,
+    "runs": 18,
+    "wickets": 0
+   }
+  },
+  "player-67543": {
+   "matches": 7,
+   "batting": {
+    "innings": 7,
+    "runs": 129,
+    "balls": 64,
+    "dismissals": 7
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-67617": {
+   "matches": 7,
+   "batting": {
+    "innings": 2,
+    "runs": 0,
+    "balls": 4,
+    "dismissals": 2
+   },
+   "bowling": {
+    "innings": 7,
+    "balls": 168,
+    "runs": 228,
+    "wickets": 11
+   }
+  },
+  "player-67627": {
+   "matches": 8,
+   "batting": {
+    "innings": 8,
+    "runs": 171,
+    "balls": 94,
+    "dismissals": 5
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-67641": {
+   "matches": 3,
+   "batting": {
+    "innings": 0,
+    "runs": 0,
+    "balls": 0,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 3,
+    "balls": 30,
+    "runs": 76,
+    "wickets": 0
+   }
+  },
+  "player-68021": {
+   "matches": 12,
+   "batting": {
+    "innings": 5,
+    "runs": 51,
+    "balls": 45,
+    "dismissals": 4
+   },
+   "bowling": {
+    "innings": 12,
+    "balls": 284,
+    "runs": 483,
+    "wickets": 9
+   }
+  },
+  "player-68286": {
+   "matches": 1,
+   "batting": {
+    "innings": 1,
+    "runs": 5,
+    "balls": 5,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 1,
+    "balls": 24,
+    "runs": 36,
+    "wickets": 1
+   }
+  },
+  "player-68289": {
+   "matches": 6,
+   "batting": {
+    "innings": 6,
+    "runs": 65,
+    "balls": 57,
+    "dismissals": 6
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-68292": {
+   "matches": 15,
+   "batting": {
+    "innings": 15,
+    "runs": 464,
+    "balls": 275,
+    "dismissals": 14
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-68296": {
+   "matches": 10,
+   "batting": {
+    "innings": 10,
+    "runs": 215,
+    "balls": 141,
+    "dismissals": 10
+   },
+   "bowling": {
+    "innings": 1,
+    "balls": 6,
+    "runs": 14,
+    "wickets": 0
+   }
+  },
+  "player-68314": {
+   "matches": 16,
+   "batting": {
+    "innings": 16,
+    "runs": 427,
+    "balls": 280,
+    "dismissals": 14
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-68473": {
+   "matches": 13,
+   "batting": {
+    "innings": 13,
+    "runs": 317,
+    "balls": 177,
+    "dismissals": 9
+   },
+   "bowling": {
+    "innings": 3,
+    "balls": 18,
+    "runs": 41,
+    "wickets": 1
+   }
+  },
+  "player-68649": {
+   "matches": 11,
+   "batting": {
+    "innings": 2,
+    "runs": 5,
+    "balls": 6,
+    "dismissals": 2
+   },
+   "bowling": {
+    "innings": 11,
+    "balls": 246,
+    "runs": 360,
+    "wickets": 11
+   }
+  },
+  "player-68788": {
+   "matches": 5,
+   "batting": {
+    "innings": 2,
+    "runs": 14,
+    "balls": 4,
+    "dismissals": 1
+   },
+   "bowling": {
+    "innings": 5,
+    "balls": 78,
+    "runs": 149,
+    "wickets": 0
+   }
+  },
+  "player-68831": {
+   "matches": 13,
+   "batting": {
+    "innings": 13,
+    "runs": 510,
+    "balls": 302,
+    "dismissals": 12
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-68859": {
+   "matches": 12,
+   "batting": {
+    "innings": 1,
+    "runs": 3,
+    "balls": 2,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 12,
+    "balls": 257,
+    "runs": 405,
+    "wickets": 19
+   }
+  },
+  "player-69004": {
+   "matches": 2,
+   "batting": {
+    "innings": 0,
+    "runs": 0,
+    "balls": 0,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 2,
+    "balls": 42,
+    "runs": 80,
+    "wickets": 4
+   }
+  },
+  "player-69572": {
+   "matches": 4,
+   "batting": {
+    "innings": 0,
+    "runs": 0,
+    "balls": 0,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 4,
+    "balls": 90,
+    "runs": 145,
+    "wickets": 6
+   }
+  },
+  "player-69782": {
+   "matches": 2,
+   "batting": {
+    "innings": 1,
+    "runs": 5,
+    "balls": 3,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 2,
+    "balls": 48,
+    "runs": 60,
+    "wickets": 2
+   }
+  },
+  "player-69841": {
+   "matches": 1,
+   "batting": {
+    "innings": 0,
+    "runs": 0,
+    "balls": 0,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 1,
+    "balls": 24,
+    "runs": 36,
+    "wickets": 1
+   }
+  },
+  "player-69845": {
+   "matches": 14,
+   "batting": {
+    "innings": 14,
+    "runs": 359,
+    "balls": 246,
+    "dismissals": 12
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-70430": {
+   "matches": 9,
+   "batting": {
+    "innings": 2,
+    "runs": 0,
+    "balls": 3,
+    "dismissals": 2
+   },
+   "bowling": {
+    "innings": 9,
+    "balls": 156,
+    "runs": 257,
+    "wickets": 11
+   }
+  },
+  "player-70433": {
+   "matches": 7,
+   "batting": {
+    "innings": 7,
+    "runs": 116,
+    "balls": 88,
+    "dismissals": 6
+   },
+   "bowling": {
+    "innings": 1,
+    "balls": 1,
+    "runs": 6,
+    "wickets": 0
+   }
+  },
+  "player-70442": {
+   "matches": 14,
+   "batting": {
+    "innings": 4,
+    "runs": 58,
+    "balls": 38,
+    "dismissals": 1
+   },
+   "bowling": {
+    "innings": 14,
+    "balls": 302,
+    "runs": 530,
+    "wickets": 21
+   }
+  },
+  "player-70453": {
+   "matches": 3,
+   "batting": {
+    "innings": 0,
+    "runs": 0,
+    "balls": 0,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 3,
+    "balls": 36,
+    "runs": 68,
+    "wickets": 2
+   }
+  },
+  "player-70580": {
+   "matches": 8,
+   "batting": {
+    "innings": 1,
+    "runs": 2,
+    "balls": 2,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 8,
+    "balls": 168,
+    "runs": 249,
+    "wickets": 8
+   }
+  },
+  "player-70625": {
+   "matches": 5,
+   "batting": {
+    "innings": 2,
+    "runs": 58,
+    "balls": 41,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 5,
+    "balls": 67,
+    "runs": 130,
+    "wickets": 5
+   }
+  },
+  "player-71151": {
+   "matches": 14,
+   "batting": {
+    "innings": 4,
+    "runs": 11,
+    "balls": 23,
+    "dismissals": 3
+   },
+   "bowling": {
+    "innings": 14,
+    "balls": 306,
+    "runs": 428,
+    "wickets": 13
+   }
+  },
+  "player-71449": {
+   "matches": 9,
+   "batting": {
+    "innings": 9,
+    "runs": 252,
+    "balls": 171,
+    "dismissals": 7
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-71452": {
+   "matches": 2,
+   "batting": {
+    "innings": 1,
+    "runs": 1,
+    "balls": 3,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 2,
+    "balls": 38,
+    "runs": 67,
+    "wickets": 2
+   }
+  },
+  "player-71456": {
+   "matches": 16,
+   "batting": {
+    "innings": 16,
+    "runs": 515,
+    "balls": 333,
+    "dismissals": 14
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-72140": {
+   "matches": 1,
+   "batting": {
+    "innings": 1,
+    "runs": 35,
+    "balls": 21,
+    "dismissals": 1
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-72580": {
+   "matches": 1,
+   "batting": {
+    "innings": 0,
+    "runs": 0,
+    "balls": 0,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 1,
+    "balls": 8,
+    "runs": 9,
+    "wickets": 0
+   }
+  },
+  "player-72721": {
+   "matches": 4,
+   "batting": {
+    "innings": 1,
+    "runs": 4,
+    "balls": 2,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 4,
+    "balls": 77,
+    "runs": 106,
+    "wickets": 5
+   }
+  },
+  "player-72805": {
+   "matches": 1,
+   "batting": {
+    "innings": 1,
+    "runs": 18,
+    "balls": 14,
+    "dismissals": 1
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-72965": {
+   "matches": 10,
+   "batting": {
+    "innings": 2,
+    "runs": 1,
+    "balls": 3,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 10,
+    "balls": 228,
+    "runs": 390,
+    "wickets": 11
+   }
+  },
+  "player-72996": {
+   "matches": 3,
+   "batting": {
+    "innings": 1,
+    "runs": 1,
+    "balls": 6,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 3,
+    "balls": 60,
+    "runs": 102,
+    "wickets": 6
+   }
+  },
+  "player-73364": {
+   "matches": 13,
+   "batting": {
+    "innings": 13,
+    "runs": 275,
+    "balls": 216,
+    "dismissals": 8
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-73472": {
+   "matches": 13,
+   "batting": {
+    "innings": 13,
+    "runs": 491,
+    "balls": 301,
+    "dismissals": 11
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-73907": {
+   "matches": 7,
+   "batting": {
+    "innings": 7,
+    "runs": 96,
+    "balls": 77,
+    "dismissals": 7
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-74025": {
+   "matches": 8,
+   "batting": {
+    "innings": 4,
+    "runs": 13,
+    "balls": 9,
+    "dismissals": 2
+   },
+   "bowling": {
+    "innings": 8,
+    "balls": 132,
+    "runs": 228,
+    "wickets": 8
+   }
+  },
+  "player-74028": {
+   "matches": 14,
+   "batting": {
+    "innings": 13,
+    "runs": 302,
+    "balls": 176,
+    "dismissals": 10
+   },
+   "bowling": {
+    "innings": 14,
+    "balls": 186,
+    "runs": 323,
+    "wickets": 8
+   }
+  },
+  "player-74047": {
+   "matches": 6,
+   "batting": {
+    "innings": 6,
+    "runs": 81,
+    "balls": 58,
+    "dismissals": 4
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-74053": {
+   "matches": 9,
+   "batting": {
+    "innings": 2,
+    "runs": 2,
+    "balls": 4,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 9,
+    "balls": 186,
+    "runs": 330,
+    "wickets": 9
+   }
+  },
+  "player-74055": {
+   "matches": 6,
+   "batting": {
+    "innings": 2,
+    "runs": 23,
+    "balls": 11,
+    "dismissals": 1
+   },
+   "bowling": {
+    "innings": 6,
+    "balls": 104,
+    "runs": 172,
+    "wickets": 6
+   }
+  },
+  "player-74538": {
+   "matches": 17,
+   "batting": {
+    "innings": 17,
+    "runs": 722,
+    "balls": 457,
+    "dismissals": 16
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-74631": {
+   "matches": 8,
+   "batting": {
+    "innings": 0,
+    "runs": 0,
+    "balls": 0,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 8,
+    "balls": 151,
+    "runs": 233,
+    "wickets": 4
+   }
+  },
+  "player-75144": {
+   "matches": 8,
+   "batting": {
+    "innings": 8,
+    "runs": 151,
+    "balls": 118,
+    "dismissals": 8
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-75656": {
+   "matches": 13,
+   "batting": {
+    "innings": 13,
+    "runs": 364,
+    "balls": 172,
+    "dismissals": 13
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-76128": {
+   "matches": 1,
+   "batting": {
+    "innings": 0,
+    "runs": 0,
+    "balls": 0,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 1,
+    "balls": 12,
+    "runs": 29,
+    "wickets": 0
+   }
+  },
+  "player-76160": {
+   "matches": 4,
+   "batting": {
+    "innings": 1,
+    "runs": 5,
+    "balls": 5,
+    "dismissals": 1
+   },
+   "bowling": {
+    "innings": 4,
+    "balls": 96,
+    "runs": 182,
+    "wickets": 0
+   }
+  },
+  "player-76204": {
+   "matches": 12,
+   "batting": {
+    "innings": 12,
+    "runs": 422,
+    "balls": 288,
+    "dismissals": 10
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-76211": {
+   "matches": 2,
+   "batting": {
+    "innings": 1,
+    "runs": 16,
+    "balls": 14,
+    "dismissals": 1
+   },
+   "bowling": {
+    "innings": 2,
+    "balls": 24,
+    "runs": 50,
+    "wickets": 2
+   }
+  },
+  "player-76212": {
+   "matches": 5,
+   "batting": {
+    "innings": 5,
+    "runs": 63,
+    "balls": 50,
+    "dismissals": 5
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-76540": {
+   "matches": 6,
+   "batting": {
+    "innings": 2,
+    "runs": 1,
+    "balls": 4,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 6,
+    "balls": 126,
+    "runs": 228,
+    "wickets": 6
+   }
+  },
+  "player-76558": {
+   "matches": 4,
+   "batting": {
+    "innings": 4,
+    "runs": 108,
+    "balls": 88,
+    "dismissals": 4
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-76593": {
+   "matches": 2,
+   "batting": {
+    "innings": 2,
+    "runs": 29,
+    "balls": 25,
+    "dismissals": 2
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-77440": {
+   "matches": 15,
+   "batting": {
+    "innings": 3,
+    "runs": 7,
+    "balls": 17,
+    "dismissals": 1
+   },
+   "bowling": {
+    "innings": 15,
+    "balls": 326,
+    "runs": 507,
+    "wickets": 20
+   }
+  },
+  "player-78206": {
+   "matches": 11,
+   "batting": {
+    "innings": 1,
+    "runs": 2,
+    "balls": 3,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 11,
+    "balls": 233,
+    "runs": 389,
+    "wickets": 15
+   }
+  },
+  "player-78758": {
+   "matches": 1,
+   "batting": {
+    "innings": 0,
+    "runs": 0,
+    "balls": 0,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 1,
+    "balls": 18,
+    "runs": 24,
+    "wickets": 1
+   }
+  },
+  "player-78777": {
+   "matches": 7,
+   "batting": {
+    "innings": 7,
+    "runs": 158,
+    "balls": 90,
+    "dismissals": 4
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-78832": {
+   "matches": 11,
+   "batting": {
+    "innings": 1,
+    "runs": 5,
+    "balls": 7,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 11,
+    "balls": 252,
+    "runs": 397,
+    "wickets": 15
+   }
+  },
+  "player-79429": {
+   "matches": 14,
+   "batting": {
+    "innings": 14,
+    "runs": 318,
+    "balls": 216,
+    "dismissals": 12
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-79805": {
+   "matches": 10,
+   "batting": {
+    "innings": 10,
+    "runs": 170,
+    "balls": 120,
+    "dismissals": 6
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-80525": {
+   "matches": 12,
+   "batting": {
+    "innings": 0,
+    "runs": 0,
+    "balls": 0,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 12,
+    "balls": 245,
+    "runs": 376,
+    "wickets": 9
+   }
+  },
+  "player-81719": {
+   "matches": 2,
+   "batting": {
+    "innings": 2,
+    "runs": 7,
+    "balls": 8,
+    "dismissals": 2
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-82907": {
+   "matches": 6,
+   "batting": {
+    "innings": 5,
+    "runs": 90,
+    "balls": 67,
+    "dismissals": 2
+   },
+   "bowling": {
+    "innings": 1,
+    "balls": 12,
+    "runs": 25,
+    "wickets": 0
+   }
+  },
+  "player-82909": {
+   "matches": 2,
+   "batting": {
+    "innings": 2,
+    "runs": 17,
+    "balls": 25,
+    "dismissals": 2
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-83039": {
+   "matches": 4,
+   "batting": {
+    "innings": 4,
+    "runs": 19,
+    "balls": 25,
+    "dismissals": 3
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-83313": {
+   "matches": 16,
+   "batting": {
+    "innings": 16,
+    "runs": 776,
+    "balls": 327,
+    "dismissals": 16
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-84159": {
+   "matches": 2,
+   "batting": {
+    "innings": 2,
+    "runs": 6,
+    "balls": 4,
+    "dismissals": 1
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-84374": {
+   "matches": 14,
+   "batting": {
+    "innings": 1,
+    "runs": 0,
+    "balls": 1,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 14,
+    "balls": 312,
+    "runs": 459,
+    "wickets": 16
+   }
+  },
+  "player-86350": {
+   "matches": 4,
+   "batting": {
+    "innings": 4,
+    "runs": 46,
+    "balls": 33,
+    "dismissals": 4
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-86445": {
+   "matches": 6,
+   "batting": {
+    "innings": 6,
+    "runs": 201,
+    "balls": 113,
+    "dismissals": 6
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-86608": {
+   "matches": 1,
+   "batting": {
+    "innings": 1,
+    "runs": 4,
+    "balls": 2,
+    "dismissals": 1
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-86769": {
+   "matches": 2,
+   "batting": {
+    "innings": 2,
+    "runs": 12,
+    "balls": 15,
+    "dismissals": 2
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-86771": {
+   "matches": 10,
+   "batting": {
+    "innings": 2,
+    "runs": 2,
+    "balls": 5,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 10,
+    "balls": 234,
+    "runs": 397,
+    "wickets": 5
+   }
+  },
+  "player-86874": {
+   "matches": 5,
+   "batting": {
+    "innings": 2,
+    "runs": 15,
+    "balls": 10,
+    "dismissals": 1
+   },
+   "bowling": {
+    "innings": 5,
+    "balls": 54,
+    "runs": 113,
+    "wickets": 2
+   }
+  },
+  "player-86886": {
+   "matches": 3,
+   "batting": {
+    "innings": 0,
+    "runs": 0,
+    "balls": 0,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 3,
+    "balls": 58,
+    "runs": 122,
+    "wickets": 3
+   }
+  },
+  "player-87066": {
+   "matches": 3,
+   "batting": {
+    "innings": 2,
+    "runs": 10,
+    "balls": 21,
+    "dismissals": 1
+   },
+   "bowling": {
+    "innings": 3,
+    "balls": 36,
+    "runs": 63,
+    "wickets": 0
+   }
+  },
+  "player-87338": {
+   "matches": 11,
+   "batting": {
+    "innings": 11,
+    "runs": 295,
+    "balls": 216,
+    "dismissals": 9
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-87528": {
+   "matches": 2,
+   "batting": {
+    "innings": 2,
+    "runs": 2,
+    "balls": 5,
+    "dismissals": 2
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-87731": {
+   "matches": 7,
+   "batting": {
+    "innings": 2,
+    "runs": 3,
+    "balls": 9,
+    "dismissals": 1
+   },
+   "bowling": {
+    "innings": 7,
+    "balls": 156,
+    "runs": 305,
+    "wickets": 14
+   }
+  },
+  "player-87977": {
+   "matches": 8,
+   "batting": {
+    "innings": 8,
+    "runs": 79,
+    "balls": 54,
+    "dismissals": 6
+   },
+   "bowling": {
+    "innings": 0,
+    "balls": 0,
+    "runs": 0,
+    "wickets": 0
+   }
+  },
+  "player-87978": {
+   "matches": 3,
+   "batting": {
+    "innings": 1,
+    "runs": 18,
+    "balls": 8,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 3,
+    "balls": 60,
+    "runs": 87,
+    "wickets": 4
+   }
+  },
+  "player-90837": {
+   "matches": 13,
+   "batting": {
+    "innings": 6,
+    "runs": 53,
+    "balls": 46,
+    "dismissals": 6
+   },
+   "bowling": {
+    "innings": 13,
+    "balls": 234,
+    "runs": 375,
+    "wickets": 9
+   }
+  },
+  "player-90896": {
+   "matches": 13,
+   "batting": {
+    "innings": 2,
+    "runs": 2,
+    "balls": 4,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 13,
+    "balls": 273,
+    "runs": 450,
+    "wickets": 14
+   }
+  },
+  "player-92045": {
+   "matches": 8,
+   "batting": {
+    "innings": 0,
+    "runs": 0,
+    "balls": 0,
+    "dismissals": 0
+   },
+   "bowling": {
+    "innings": 8,
+    "balls": 180,
+    "runs": 279,
+    "wickets": 9
+   }
+  }
+ }
+}

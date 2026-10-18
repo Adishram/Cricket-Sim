@@ -1,0 +1,6 @@
+import Link from 'next/link';
+import {ArrowUpRight,Gavel,Shield,Trophy} from 'lucide-react';
+import {Header,AuctionPlayerCard} from '@/components/auction-room';
+import {players} from '../../../packages/cricket-data/src/players';
+const marquee=[...players].sort((a,b)=>b.rating.value-a.rating.value)[0];
+export default function Home(){return <><Header active="Home"/><main className="landing"><div className="landing-copy"><span className="eyebrow gold">CRICKET. CONVICTION. GLORY.</span><h1>Great teams<br/>aren’t born.<br/><em>They’re built.</em></h1><p>Claim an IPL franchise. Outsmart nine bot managers, build your own squad, and take every decision from the auction floor to the final over.</p><Link className="button button-gold" href="/play">Play solo or build a squad <ArrowUpRight size={19}/></Link><Link className="text-link" href="/data-sources">How OVR ratings work →</Link><div className="landing-facts"><span><Gavel/>Bid with conviction</span><span><Shield/>Build your squad</span><span><Trophy/>Chase your legacy</span></div><small className="muted">Real IPL players &amp; career statistics · OVR is a game estimate</small></div><div className="landing-card"><AuctionPlayerCard player={marquee} status="live"/><span className="landing-card-caption">HIGHEST-RATED PLAYER IN THE POOL</span></div></main></>}
