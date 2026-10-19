@@ -5,7 +5,7 @@ import {useRouter} from 'next/navigation';
 import {AnimatePresence,motion,MotionConfig} from 'motion/react';
 import {ArrowRight,Check,ChevronRight,ChevronLeft,Copy,Crown,Gavel,Globe,LayoutDashboard,Play,Radio,Shield,Sparkles,Timer,Users,X} from 'lucide-react';
 import {Button} from './ui/button';
-import {players,playerById,dataset,setLabel,type Player} from '../../../packages/cricket-data/src/players';
+import {activePlayers as players,playerById,dataset,setLabel,type Player} from '../../../packages/cricket-data/src/players';
 import {money,currentPlayer,nextBidAmount,eligibility,overseasCount,activeTeams,BID_TIMERS,BID_INCREMENT,SQUAD_MAX,OVERSEAS_MAX,STARTING_PURSE,type Auction,type Franchise,type BidTimer} from '../../../packages/auction-engine/src';
 
 export type Viewer={team:string|null;host:boolean};
@@ -37,14 +37,14 @@ export function PlayerStatsPanel({player:p}:{player:Player}){
  const c=p.career,f=p.form,allRounder=p.role.toLowerCase().includes('all'),bowler=p.role.toLowerCase()==='bowler';
  const metric=(label:string,value:number|null|undefined,rate=false)=><div key={label}><strong>{fmt(value,rate)}</strong><span>{label}</span></div>;
  return <section className="stats-panel" aria-label={`${p.name} career statistics`}>
- <div className="ovr-breakdown"><OvrBadge player={p}/><div><strong>Estimated OVR</strong><p className="data-note">{p.rating.note} Confidence {p.rating.confidence}%. Cutoff {p.rating.cutoff}. No career weighting.</p></div></div>
+ <div className="ovr-breakdown"><OvrBadge player={p}/><div><strong>Estimated OVR</strong><p className="data-note">{p.rating.note} Confidence {p.rating.confidence}%. Cutoff {p.rating.cutoff}. Career context model; no reputation bonus.</p></div></div>
  <div className="form-heading"><strong>{c?.competition??'Career stats unavailable'}</strong><span className="eyebrow muted">CAREER RECORD · OBSERVED</span></div>
  {c?<><p className="data-note">{c.fallback?'T20 career fallback · IPL career statistics unavailable.':'IPL career totals across seasons.'} {c.matches} matches.</p>
  {(!bowler||allRounder)&&<div className="career-discipline"><h4>Batting</h4><div className="season-stats">{metric('RUNS',c.batting?.runs)}{metric('AVERAGE',c.batting?.average,true)}{metric('STRIKE RATE',c.batting?.strikeRate,true)}</div></div>}
  {(bowler||allRounder)&&<div className="career-discipline"><h4>Bowling</h4><div className="season-stats bowling-stats">{metric('WICKETS',c.bowling?.wickets)}{metric('ECONOMY',c.bowling?.economy,true)}{metric('AVERAGE',c.bowling?.average,true)}{metric('STRIKE RATE',c.bowling?.strikeRate,true)}</div></div>}
  <p className="data-note">Source: <a href={c.source} target="_blank" rel="noreferrer">{c.provider} ↗</a> · Retrieved {c.asOf}.</p>
  </>:<p className="data-note">Neither IPL nor T20 career statistics could be verified in this snapshot. No values have been estimated.</p>}
- {f&&p.rating.basis==='ipl'&&<div className="career-discipline recent-season"><h4>IPL 2026 season · observed</h4><div className="season-stats">{metric('MATCHES',f.matches)}{f.batting.innings>0&&metric('RUNS',f.batting.runs)}{f.batting.balls>0&&metric('BAT SR',f.batting.runs/f.batting.balls*100,true)}{f.bowling.innings>0&&metric('WICKETS',f.bowling.wickets)}{f.bowling.balls>0&&metric('ECONOMY',f.bowling.runs/(f.bowling.balls/6),true)}</div><p className="data-note">Aggregated from OpenIPL scorecards (Cricsheet, CC BY 4.0).</p></div>}
+ {f&&p.rating.basis==='ipl'&&<div className="career-discipline recent-season"><h4>{p.formCompetition} {p.formSeason} season · observed</h4><div className="season-stats">{metric('MATCHES',f.matches)}{f.batting.innings>0&&metric('RUNS',f.batting.runs)}{f.batting.balls>0&&metric('BAT SR',f.batting.runs/f.batting.balls*100,true)}{f.bowling.innings>0&&metric('WICKETS',f.bowling.wickets)}{f.bowling.balls>0&&metric('ECONOMY',f.bowling.runs/(f.bowling.balls/6),true)}</div><p className="data-note">Aggregated from covered Cricsheet deliveries (ODC Attribution 1.0). Season form is separate from career-based OVR.</p></div>}
  <Link className="text-link" href="/play?tab=compare">Compare players &amp; rating explanation ↗</Link><p className="data-note">— means unavailable, not zero. <a href={p.squadSource} target="_blank" rel="noreferrer">2026 registration: {p.seasonTeam} ↗</a></p>
  </section>;
 }

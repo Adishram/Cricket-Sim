@@ -1,7 +1,7 @@
 # Auction to Glory implementation
 
 - [x] Audit: Next app + pure packages; shared memory rooms, no database/auth integration.
-- [x] Replace career-derived ratings with versioned recent-season estimator, 50/30/20 weights, shrinkage, competition assumptions, conservative cap and evidence confidence.
+- [x] Career context rating v4 supersedes the earlier three-year model: all covered IPL/T20I years, season/phase benchmarks, opposition adjustment, 900-ball priors, reliability-aware competition weights and bounded sustained-performance credit. BBL/PSL excluded.
 - [x] Wire 577 official 2025 mega-auction entries, 79 sets, reserve prices and ten real franchise names; disambiguate same-name players.
 - [x] Solo nine-bot auctions, pause/save/restore, seeded pending actions, fast-forward, role/budget reservation and accelerated nominations.
 - [x] One-human shared-room start and optional bot fill, with server-resolved ownership in process-local demo rooms.
@@ -17,7 +17,7 @@
 
 ## Remaining, explicitly not implemented
 
-- Verified complete 2024/2025 recent-season inputs, international capped-status/history and non-IPL recent-season evidence. Currently only 2026 IPL evidence is imported; gaps are disclosed, career totals never fill them.
+- Complete source coverage remains unavailable. The cached IPL/T20I career archive provides evidence for 357 matched identities; unmatched players and withheld matches remain gaps. Other domestic leagues are excluded by the current specification.
 - Granular observed phase/style/head-to-head and fielding/keeping evidence. These attributes use labeled provisional estimates; historical matchups are unavailable.
 - Authenticated PostgreSQL persistence, connected multiplayer match commands/deadlines, server-restart recovery and host migration. Shared auctions remain process-local demos; solo games persist on the device.
 - Historical auction replay (retentions/RTM/year-specific purses); current mode is explicitly a fresh fantasy auction.
@@ -31,3 +31,14 @@ No LLM calls occur in auction bidding, ratings, allocation or ball simulation. S
 47 unit tests passed, including seeded live/quick equivalence, replay, score conservation, free hits, Super Overs, bot squad completion, auction legality, rating rules and exactly-once league results. Twelve Playwright tests passed across auction, solo persistence, builder/campaign flow and responsive Match Centre. `pnpm typecheck` and `pnpm build` passed. Screenshots inspected at 1440, 1024 and 390 pixels; no page-level horizontal overflow.
 
 Campaign snapshots use IndexedDB to avoid localStorage's small capacity during long seasons. The current match and solo auction use separate device-local saves. Attempts to fetch the missing Cricsheet archive timed out; missing historical evidence remains disclosed.
+
+## Rating revision — 19 October 2026
+
+- `career-context-v4` uses the same formula for every player, with no name overrides.
+- The importer derives expected runs/dismissals/wickets for each competition, year and innings phase. T20I reference rates use games between the disclosed reference opponents.
+- Batting impact combines 40% log scoring-rate ratio and 60% log average ratio. Bowling combines 60% log run-prevention ratio and 40% log wicket-rate ratio. Game-score sensitivities are 48 and 80 respectively, around a 76 reference score; these are design coefficients, not fitted official rankings.
+- Each competition uses 900-ball smoothing. Nominal IPL/T20I weights are 75/25, scaled by sample reliability. Limited IPL evidence has a bounded four-point transfer deduction.
+- Sustained credit is quality-gated and capped at nine points. Exposure thresholds differ for batting and bowling; merely accumulating poor seasons cannot earn the full credit.
+- Reproduce the pool audit with `node packages/cricket-data/scripts/audit-ratings.cjs --write`. The checked-in audit records unrounded scores, components, confidence and source-ball counts. Career observations remain distinct from these estimates.
+- Latest validation: 57 unit tests, typecheck and production build passed. Browser/screenshot checks were not repeated, following the user's request. The older verification paragraph above describes an earlier build.
+- Frozen match snapshots retain their original abilities for replay; new matches use the revised ratings.

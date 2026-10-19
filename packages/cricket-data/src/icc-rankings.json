@@ -1,0 +1,5225 @@
+{
+  "source": "https://www.icc-cricket.com/rankings/mens-player-rankings",
+  "retrievedAt": "2026-10-19",
+  "htmlSha256": "8646bcaa50aa08a2f7808ca6196054394f338810a88a52ea291293eacd3085d8",
+  "players": {
+    "auction-13": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 1,
+        "points": 861,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "66374",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 12,
+        "points": 650,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "66374",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 5,
+        "points": 793,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "66374",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-237": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 2,
+        "points": 822,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "4308",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 60,
+        "points": 64,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "4308",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-21033": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 4,
+        "points": 778,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "62023",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 17,
+        "points": 618,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "62023",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 14,
+        "points": 679,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "62023",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 40,
+        "points": 98,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "62023",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 54,
+        "points": 116,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "62023",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-26162": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 5,
+        "points": 740,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "66053",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 28,
+        "points": 573,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "66053",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 97,
+        "points": 430,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "66053",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 53,
+        "points": 76,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "66053",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 30,
+        "points": 145,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "66053",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 32,
+        "points": 129,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "66053",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-17617": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 7,
+        "points": 713,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "65756",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-93": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 8,
+        "points": 710,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "57444",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 2,
+        "points": 794,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "57444",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 70,
+        "points": 488,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "57444",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 93,
+        "points": 22,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "57444",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 74,
+        "points": 104,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "57444",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-65345": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 9,
+        "points": 709,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "66818",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 1,
+        "points": 841,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "66818",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-27774": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 10,
+        "points": 706,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "64219",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 38,
+        "points": 549,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "64219",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 29,
+        "points": 598,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "64219",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 68,
+        "points": 50,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "64219",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 32,
+        "points": 142,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "64219",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 36,
+        "points": 116,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "64219",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-26488": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 10,
+        "points": 706,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "65034",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 54,
+        "points": 522,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "65034",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 54,
+        "points": 76,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "65034",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-68314": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 12,
+        "points": 697,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "69238",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 86,
+        "points": 407,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "69238",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-14": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 16,
+        "points": 681,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "13177",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 47,
+        "points": 514,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "13177",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 79,
+        "points": 475,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "13177",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-99": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 20,
+        "points": 654,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "63706",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 51,
+        "points": 499,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "63706",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-65397": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 22,
+        "points": 645,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "66870",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 66,
+        "points": 463,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "66870",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 35,
+        "points": 572,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "66870",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 75,
+        "points": 271,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "66870",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 20,
+        "points": 174,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "66870",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 68,
+        "points": 106,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "66870",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 33,
+        "points": 126,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "66870",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-441": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 23,
+        "points": 644,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "65525",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 53,
+        "points": 423,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "65525",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 4,
+        "points": 272,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "65525",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-17314": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 25,
+        "points": 630,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "63082",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 15,
+        "points": 626,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "63082",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 81,
+        "points": 473,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "63082",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-34256": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 27,
+        "points": 624,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "66368",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 19,
+        "points": 612,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "66368",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 10,
+        "points": 720,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "66368",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-13143": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 28,
+        "points": 620,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "3850",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 19,
+        "points": 682,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "3850",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 39,
+        "points": 507,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "3850",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 1,
+        "points": 422,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "3850",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 21,
+        "points": 164,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "3850",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-20451": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 29,
+        "points": 610,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "60122",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 10,
+        "points": 653,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "60122",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-247": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 29,
+        "points": 610,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "63206",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 68,
+        "points": 451,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "63206",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 71,
+        "points": 486,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "63206",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-249": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 31,
+        "points": 608,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "10167",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 49,
+        "points": 510,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "10167",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-26160": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 31,
+        "points": 608,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "65295",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 33,
+        "points": 555,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "65295",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 58,
+        "points": 513,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "65295",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 70,
+        "points": 310,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "65295",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 16,
+        "points": 188,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "65295",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 40,
+        "points": 133,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "65295",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 47,
+        "points": 86,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "65295",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-101": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 38,
+        "points": 566,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "63797",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 6,
+        "points": 710,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "63797",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 11,
+        "points": 718,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "63797",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-174": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 39,
+        "points": 564,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "63882",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 8,
+        "points": 674,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "63882",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 23,
+        "points": 624,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "63882",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-251": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 41,
+        "points": 559,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "65279",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-250": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 44,
+        "points": 557,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "66403",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-302": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 46,
+        "points": 554,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "61910",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 43,
+        "points": 541,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "61910",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-20226": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 46,
+        "points": 554,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "65859",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 52,
+        "points": 424,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "65859",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 74,
+        "points": 425,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "65859",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 7,
+        "points": 234,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "65859",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 74,
+        "points": 104,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "65859",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 74,
+        "points": 62,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "65859",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-37670": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 49,
+        "points": 544,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "64941",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 95,
+        "points": 385,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "64941",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 26,
+        "points": 610,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "64941",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-73364": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 53,
+        "points": 542,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "74761",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 74,
+        "points": 481,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "74761",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-68292": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 54,
+        "points": 538,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "67589",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-304": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 59,
+        "points": 499,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "67519",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 5,
+        "points": 719,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "67519",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 16,
+        "points": 663,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "67519",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-440": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 61,
+        "points": 480,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "63875",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 76,
+        "points": 432,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "63875",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 22,
+        "points": 665,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "63875",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 9,
+        "points": 602,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "63875",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 3,
+        "points": 319,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "63875",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 3,
+        "points": 260,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "63875",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-73907": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 64,
+        "points": 476,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "85736",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 70,
+        "points": 446,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "85736",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 17,
+        "points": 658,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "85736",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 91,
+        "points": 179,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "85736",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 47,
+        "points": 85,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "85736",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 52,
+        "points": 80,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "85736",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-71456": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 66,
+        "points": 467,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "71370",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-68021": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 69,
+        "points": 442,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "69409",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 90,
+        "points": 395,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "69409",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 6,
+        "points": 831,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "69409",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 53,
+        "points": 470,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "69409",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 50,
+        "points": 545,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "69409",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 2,
+        "points": 367,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "69409",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 15,
+        "points": 185,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "69409",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 36,
+        "points": 116,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "69409",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-17616": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 70,
+        "points": 441,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "62576",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 91,
+        "points": 392,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "62576",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 49,
+        "points": 431,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "62576",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 40,
+        "points": 506,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "62576",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 9,
+        "points": 649,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "62576",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 14,
+        "points": 190,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "62576",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 9,
+        "points": 198,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "62576",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 23,
+        "points": 147,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "62576",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-233": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 71,
+        "points": 439,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "64543",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 54,
+        "points": 522,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "64543",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-22181": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 73,
+        "points": 434,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "63605",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 88,
+        "points": 397,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "63605",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 63,
+        "points": 356,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "63605",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 92,
+        "points": 375,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "63605",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 11,
+        "points": 637,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "63605",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 23,
+        "points": 154,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "63605",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 29,
+        "points": 148,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "63605",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 69,
+        "points": 66,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "63605",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-69894": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 74,
+        "points": 427,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "70925",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-507": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 78,
+        "points": 411,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "66918",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-473": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 79,
+        "points": 406,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "58071",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 95,
+        "points": 433,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "58071",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 69,
+        "points": 314,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "58071",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 64,
+        "points": 441,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "58071",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 23,
+        "points": 618,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "58071",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 31,
+        "points": 127,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "58071",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 25,
+        "points": 156,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "58071",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 3,
+        "points": 267,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "58071",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-477": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 85,
+        "points": 387,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "65548",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 81,
+        "points": 36,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "65548",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-14334": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 90,
+        "points": 370,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "57903",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 97,
+        "points": 384,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "57903",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 40,
+        "points": 493,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "57903",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 4,
+        "points": 644,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "57903",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 16,
+        "points": 631,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "57903",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 17,
+        "points": 182,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "57903",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 5,
+        "points": 247,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "57903",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 11,
+        "points": 195,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "57903",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-230": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 91,
+        "points": 363,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "70227",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 32,
+        "points": 556,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "70227",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 73,
+        "points": 484,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "70227",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-238": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 97,
+        "points": 344,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "69416",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 28,
+        "points": 637,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "69416",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 77,
+        "points": 419,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "69416",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 9,
+        "points": 219,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "69416",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-300": [
+      {
+        "format": "test",
+        "discipline": "batting",
+        "rank": 98,
+        "points": 339,
+        "leaderPoints": 861,
+        "date": "2026-10-13",
+        "iccId": "66085",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 10,
+        "points": 653,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "66085",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 81,
+        "points": 473,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "66085",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 59,
+        "points": 115,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "66085",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 42,
+        "points": 104,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "66085",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-13144": [
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 3,
+        "points": 781,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "3993",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-11326": [
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 4,
+        "points": 770,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "3852",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-29": [
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 14,
+        "points": 629,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "68027",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 21,
+        "points": 625,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "68027",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-359": [
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 15,
+        "points": 626,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "65038",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 97,
+        "points": 430,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "65038",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 16,
+        "points": 175,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "65038",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 54,
+        "points": 76,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "65038",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-22014": [
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 18,
+        "points": 614,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "63961",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 4,
+        "points": 798,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "63961",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-17614": [
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 20,
+        "points": 601,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "28035",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 43,
+        "points": 545,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "28035",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-32332": [
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 20,
+        "points": 601,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "65618",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-66512": [
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 22,
+        "points": 600,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "67516",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 92,
+        "points": 446,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "67516",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 20,
+        "points": 562,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "67516",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 51,
+        "points": 541,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "67516",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 1,
+        "points": 337,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "67516",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 6,
+        "points": 241,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "67516",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-298": [
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 22,
+        "points": 600,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "67719",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 32,
+        "points": 586,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "67719",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-243": [
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 24,
+        "points": 588,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "25422",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 53,
+        "points": 524,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "25422",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 52,
+        "points": 471,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "25422",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 27,
+        "points": 613,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "25422",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 98,
+        "points": 19,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "25422",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 2,
+        "points": 276,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "25422",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 1,
+        "points": 321,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "25422",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-16261": [
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 36,
+        "points": 552,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "9782",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 6,
+        "points": 789,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "9782",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-37709": [
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 40,
+        "points": 545,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "65893",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 34,
+        "points": 573,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "65893",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-12612": [
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 42,
+        "points": 543,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "10094",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 12,
+        "points": 706,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "10094",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 96,
+        "points": 91,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "10094",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 51,
+        "points": 81,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "10094",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-13575": [
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 44,
+        "points": 540,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "5313",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 94,
+        "points": 435,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "5313",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-458": [
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 51,
+        "points": 499,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "97960",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 48,
+        "points": 528,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "97960",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 49,
+        "points": 477,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "97960",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 6,
+        "points": 238,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "97960",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 34,
+        "points": 119,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "97960",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-66048": [
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 53,
+        "points": 498,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "67285",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 24,
+        "points": 620,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "67285",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-20227": [
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 59,
+        "points": 482,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "64712",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 1,
+        "points": 904,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "64712",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-360": [
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 59,
+        "points": 482,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "62325",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 87,
+        "points": 215,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "62325",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 32,
+        "points": 520,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "62325",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 72,
+        "points": 45,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "62325",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 4,
+        "points": 250,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "62325",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 47,
+        "points": 86,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "62325",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-241": [
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 63,
+        "points": 472,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "7797",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 89,
+        "points": 452,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "7797",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 41,
+        "points": 505,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "7797",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 94,
+        "points": 436,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "7797",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 6,
+        "points": 238,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "7797",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 9,
+        "points": 197,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "7797",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-232": [
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 63,
+        "points": 472,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "60536",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 77,
+        "points": 479,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "60536",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-65551": [
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 72,
+        "points": 444,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "66927",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 67,
+        "points": 492,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "66927",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 91,
+        "points": 179,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "66927",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 57,
+        "points": 523,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "66927",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 76,
+        "points": 39,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "66927",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 28,
+        "points": 150,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "66927",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 4,
+        "points": 257,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "66927",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-73472": [
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 77,
+        "points": 430,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "74410",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 77,
+        "points": 103,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "74410",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-65546": [
+      {
+        "format": "odi",
+        "discipline": "batting",
+        "rank": 83,
+        "points": 410,
+        "leaderPoints": 841,
+        "date": "2026-10-13",
+        "iccId": "66923",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 59,
+        "points": 506,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "66923",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-65346": [
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 2,
+        "points": 891,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "66799",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 15,
+        "points": 179,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "66799",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-75144": [
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 6,
+        "points": 789,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "84562",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-28502": [
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 8,
+        "points": 775,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "65632",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-69845": [
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 9,
+        "points": 731,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "70761",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 93,
+        "points": 52,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "70761",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-20009": [
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 13,
+        "points": 698,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "63867",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-67369": [
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 19,
+        "points": 628,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "67402",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-77032": [
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 20,
+        "points": 627,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "92850",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-17613": [
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 27,
+        "points": 605,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "61837",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-26170": [
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 27,
+        "points": 605,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "66046",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-20861": [
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 30,
+        "points": 596,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "11803",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-20866": [
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 37,
+        "points": 557,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "65291",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 85,
+        "points": 56,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "65291",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-23713": [
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 37,
+        "points": 557,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "64861",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-81719": [
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 39,
+        "points": 555,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "109249",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-63520": [
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 44,
+        "points": 542,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "66044",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 21,
+        "points": 155,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "66044",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-83313": [
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 46,
+        "points": 531,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "114349",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-175": [
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 51,
+        "points": 526,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "11757",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-23": [
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 64,
+        "points": 499,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "10085",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 30,
+        "points": 134,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "10085",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-16094": [
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 66,
+        "points": 493,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "59067",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 14,
+        "points": 182,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "59067",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-10925": [
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 84,
+        "points": 464,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "4311",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 19,
+        "points": 165,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "4311",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-16093": [
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 93,
+        "points": 441,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "63751",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 81,
+        "points": 463,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "63751",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 8,
+        "points": 204,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "63751",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-58377": [
+      {
+        "format": "t20",
+        "discipline": "batting",
+        "rank": 96,
+        "points": 431,
+        "leaderPoints": 904,
+        "date": "2026-10-13",
+        "iccId": "66243",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 97,
+        "points": 359,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "66243",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 100,
+        "points": 86,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "66243",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 16,
+        "points": 178,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "66243",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-14328": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 1,
+        "points": 865,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "10053",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 46,
+        "points": 485,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "10053",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 5,
+        "points": 269,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "10053",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 100,
+        "points": 86,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "10053",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-18052": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 2,
+        "points": 861,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "60544",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 23,
+        "points": 553,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "60544",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 41,
+        "points": 571,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "60544",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 21,
+        "points": 166,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "60544",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 98,
+        "points": 89,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "60544",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-16096": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 4,
+        "points": 853,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "63755",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 27,
+        "points": 532,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "63755",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 11,
+        "points": 637,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "63755",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 48,
+        "points": 84,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "63755",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 89,
+        "points": 94,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "63755",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-14153": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 5,
+        "points": 846,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "56964",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 68,
+        "points": 432,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "56964",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 6,
+        "points": 268,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "56964",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-14327": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 7,
+        "points": 818,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "4255",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 12,
+        "points": 585,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "4255",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 37,
+        "points": 584,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "4255",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 34,
+        "points": 120,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "4255",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 18,
+        "points": 167,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "4255",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-19720": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 8,
+        "points": 799,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "63611",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 73,
+        "points": 487,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "63611",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 12,
+        "points": 194,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "63611",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-44904": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 16,
+        "points": 696,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "65799",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 26,
+        "points": 539,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "65799",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 71,
+        "points": 46,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "65799",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 51,
+        "points": 120,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "65799",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-66839": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 17,
+        "points": 687,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "67784",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 33,
+        "points": 519,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "67784",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 30,
+        "points": 604,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "67784",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 41,
+        "points": 96,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "67784",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-316": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 20,
+        "points": 679,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "101907",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 44,
+        "points": 566,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "101907",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 11,
+        "points": 197,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "101907",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-20030": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 24,
+        "points": 650,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "63187",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 6,
+        "points": 620,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "63187",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 66,
+        "points": 501,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "63187",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 43,
+        "points": 91,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "63187",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 27,
+        "points": 152,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "63187",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-16664": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 25,
+        "points": 648,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "48607",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 3,
+        "points": 660,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "48607",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 56,
+        "points": 525,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "48607",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 17,
+        "points": 182,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "48607",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 36,
+        "points": 137,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "48607",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-33186": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 26,
+        "points": 643,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "63865",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 82,
+        "points": 412,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "63865",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 84,
+        "points": 452,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "63865",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 15,
+        "points": 189,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "63865",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 91,
+        "points": 93,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "63865",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-370": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 29,
+        "points": 619,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "74400",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 60,
+        "points": 451,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "74400",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 98,
+        "points": 19,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "74400",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-16178": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 33,
+        "points": 586,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "65090",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 89,
+        "points": 392,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "65090",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 28,
+        "points": 139,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "65090",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-23659": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 34,
+        "points": 579,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "63641",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 91,
+        "points": 440,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "63641",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 63,
+        "points": 59,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "63641",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-255": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 35,
+        "points": 551,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "64264",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 34,
+        "points": 517,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "64264",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 35,
+        "points": 118,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "64264",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 39,
+        "points": 135,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "64264",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-28503": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 37,
+        "points": 530,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "64254",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 7,
+        "points": 617,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "64254",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 11,
+        "points": 637,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "64254",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 37,
+        "points": 105,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "64254",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 32,
+        "points": 142,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "64254",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-482": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 38,
+        "points": 510,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "67672",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 57,
+        "points": 68,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "67672",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-478": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 39,
+        "points": 509,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "66056",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 36,
+        "points": 111,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "66056",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-15670": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 41,
+        "points": 492,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "57672",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 48,
+        "points": 482,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "57672",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 35,
+        "points": 591,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "57672",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 65,
+        "points": 53,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "57672",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 64,
+        "points": 111,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "57672",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-513": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 42,
+        "points": 491,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "65033",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 83,
+        "points": 33,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "65033",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-70453": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 43,
+        "points": 485,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "71149",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 61,
+        "points": 63,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "71149",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-59553": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 45,
+        "points": 470,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "65702",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 43,
+        "points": 497,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "65702",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 83,
+        "points": 99,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "65702",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-514": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 48,
+        "points": 435,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "39447",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 45,
+        "points": 89,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "39447",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-409": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 51,
+        "points": 425,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "58314",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 21,
+        "points": 558,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "58314",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 68,
+        "points": 496,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "58314",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 62,
+        "points": 62,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "58314",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-444": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 57,
+        "points": 399,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "66332",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 13,
+        "points": 584,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "66332",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 71,
+        "points": 491,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "66332",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 68,
+        "points": 50,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "66332",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 85,
+        "points": 98,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "66332",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-485": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 61,
+        "points": 362,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "89235",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 11,
+        "points": 590,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "89235",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 54,
+        "points": 116,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "89235",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-446": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 66,
+        "points": 328,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "67418",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 86,
+        "points": 27,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "67418",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-515": [
+      {
+        "format": "test",
+        "discipline": "bowling",
+        "rank": 71,
+        "points": 309,
+        "leaderPoints": 865,
+        "date": "2026-10-13",
+        "iccId": "65649",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 27,
+        "points": 532,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "65649",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 52,
+        "points": 536,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "65649",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 86,
+        "points": 27,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "65649",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 34,
+        "points": 138,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "65649",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-25242": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 1,
+        "points": 714,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "65748",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 1,
+        "points": 720,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "65748",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 8,
+        "points": 232,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "65748",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 17,
+        "points": 177,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "65748",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-44": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 5,
+        "points": 622,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "69274",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 28,
+        "points": 608,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "69274",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 26,
+        "points": 154,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "69274",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-115": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 14,
+        "points": 581,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "4661",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 3,
+        "points": 695,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "4661",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 22,
+        "points": 163,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "4661",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-68917": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 16,
+        "points": 577,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "70324",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 5,
+        "points": 675,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "70324",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 62,
+        "points": 112,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "70324",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-361": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 17,
+        "points": 574,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "64262",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 36,
+        "points": 589,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "64262",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 12,
+        "points": 195,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "64262",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 71,
+        "points": 63,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "64262",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-26489": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 18,
+        "points": 571,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "65027",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 19,
+        "points": 624,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "65027",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 13,
+        "points": 193,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "65027",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 22,
+        "points": 153,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "65027",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-45": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 24,
+        "points": 544,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "58913",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 2,
+        "points": 700,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "58913",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 61,
+        "points": 113,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "58913",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-364": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 25,
+        "points": 542,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "69651",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 31,
+        "points": 599,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "69651",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 17,
+        "points": 172,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "69651",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 39,
+        "points": 108,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "69651",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-576": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 27,
+        "points": 532,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "63509",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 91,
+        "points": 93,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "63509",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-19402": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 34,
+        "points": 517,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "63881",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 29,
+        "points": 606,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "63881",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 54,
+        "points": 116,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "63881",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-67190": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 37,
+        "points": 510,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "67905",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 21,
+        "points": 623,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "67905",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-78206": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 38,
+        "points": 509,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "96648",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 79,
+        "points": 102,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "96648",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-28230": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 45,
+        "points": 488,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "64225",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 42,
+        "points": 569,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "64225",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 51,
+        "points": 120,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "64225",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-511": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 55,
+        "points": 468,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "74165",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 25,
+        "points": 615,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "74165",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 74,
+        "points": 104,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "74165",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 41,
+        "points": 105,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "74165",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-69841": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 57,
+        "points": 457,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "70764",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 68,
+        "points": 106,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "70764",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-252": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 58,
+        "points": 456,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "67927",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 59,
+        "points": 521,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "67927",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 53,
+        "points": 119,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "67927",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-52827": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 66,
+        "points": 436,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "66195",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-77153": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 67,
+        "points": 434,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "93526",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 88,
+        "points": 95,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "93526",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-55170": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 72,
+        "points": 426,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "66516",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 44,
+        "points": 566,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "66516",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 99,
+        "points": 87,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "66516",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-187": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 78,
+        "points": 418,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "70203",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 26,
+        "points": 614,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "70203",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 65,
+        "points": 110,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "70203",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 56,
+        "points": 72,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "70203",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-24868": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 80,
+        "points": 415,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "57239",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 24,
+        "points": 617,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "57239",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 57,
+        "points": 71,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "57239",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-21837": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 82,
+        "points": 412,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "65584",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 57,
+        "points": 523,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "65584",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 44,
+        "points": 129,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "65584",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 12,
+        "points": 190,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "65584",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-13294": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 93,
+        "points": 372,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "58065",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 61,
+        "points": 520,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "58065",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-10301": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 94,
+        "points": 370,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "58482",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 6,
+        "points": 674,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "58482",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "odi",
+        "discipline": "allrounder",
+        "rank": 37,
+        "points": 136,
+        "leaderPoints": 337,
+        "date": "2026-10-13",
+        "iccId": "58482",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 86,
+        "points": 55,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "58482",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-447": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 95,
+        "points": 363,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "70921",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 65,
+        "points": 503,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "70921",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 98,
+        "points": 50,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "70921",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-66452": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 96,
+        "points": 362,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "67443",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 64,
+        "points": 508,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "67443",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 81,
+        "points": 58,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "67443",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-76164": [
+      {
+        "format": "odi",
+        "discipline": "bowling",
+        "rank": 99,
+        "points": 351,
+        "leaderPoints": 714,
+        "date": "2026-10-13",
+        "iccId": "90572",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-475": [
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 8,
+        "points": 654,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "65473",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 38,
+        "points": 109,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "65473",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-68649": [
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 15,
+        "points": 632,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "67469",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-114": [
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 17,
+        "points": 628,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "67540",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-12693": [
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 33,
+        "points": 592,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "10232",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 9,
+        "points": 197,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "10232",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-76217": [
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 38,
+        "points": 581,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "90908",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-20183": [
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 46,
+        "points": 563,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "63719",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-51461": [
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 48,
+        "points": 557,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "66158",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-70430": [
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 55,
+        "points": 526,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "71288",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-72580": [
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 62,
+        "points": 514,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "73830",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-365": [
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 68,
+        "points": 496,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "65089",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-305": [
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 70,
+        "points": 495,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "57028",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-20680": [
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 74,
+        "points": 486,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "57533",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 28,
+        "points": 141,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "57533",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-71151": [
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 77,
+        "points": 479,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "71411",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-46139": [
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 78,
+        "points": 470,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "64473",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-76160": [
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 83,
+        "points": 454,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "90501",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-66728": [
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 89,
+        "points": 445,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "67778",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-317": [
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 90,
+        "points": 442,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "66081",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-41054": [
+      {
+        "format": "t20",
+        "discipline": "bowling",
+        "rank": 95,
+        "points": 432,
+        "leaderPoints": 720,
+        "date": "2026-10-13",
+        "iccId": "64498",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "player-74028": [
+      {
+        "format": "test",
+        "discipline": "allrounder",
+        "rank": 79,
+        "points": 38,
+        "leaderPoints": 422,
+        "date": "2026-10-13",
+        "iccId": "74837",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      },
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 91,
+        "points": 53,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "74837",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-406": [
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 44,
+        "points": 90,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "10172",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-308": [
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 65,
+        "points": 68,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "68072",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-242": [
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 82,
+        "points": 57,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "56961",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ],
+    "auction-312": [
+      {
+        "format": "t20",
+        "discipline": "allrounder",
+        "rank": 100,
+        "points": 47,
+        "leaderPoints": 321,
+        "date": "2026-10-13",
+        "iccId": "63846",
+        "source": "https://www.icc-cricket.com/rankings/mens-player-rankings"
+      }
+    ]
+  }
+}

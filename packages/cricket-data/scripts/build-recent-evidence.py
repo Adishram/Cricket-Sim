@@ -1,11 +1,11 @@
-"""Build cached, attributed season evidence and IPL matchup aggregates. No fuzzy matches.
-Inputs: raw IPL/T20I/BBL/PSL Cricsheet archives + people/names register CSVs.
+"""Build cached, attributed full-career IPL/T20I evidence and IPL matchup aggregates. No fuzzy matches.
+Inputs: raw IPL/T20I Cricsheet archives + people/names register CSVs.
 Re-run explicitly after refreshing source archives; never runs during a match.
 """
 import csv,hashlib,json,re,zipfile
 from pathlib import Path
 from collections import defaultdict
-root=Path(__file__).resolve().parents[1];raw=root/'raw';cutoff='2026-10-18';window=[2026,2025,2024]
+root=Path(__file__).resolve().parents[1];raw=root/'raw';cutoff='2026-10-18';window=list(range(2005,2027))
 players=json.loads((root/'src/snapshot.json').read_text())['players']+json.loads((root/'src/auction-register.json').read_text())['extra']
 by_id={p['id']:p for p in players};norm=lambda s:re.sub(r'[^a-z0-9]','',s.lower())
 people=list(csv.DictReader((raw/'people.csv').open()));aliases=list(csv.DictReader((raw/'names.csv').open()));name_ids=defaultdict(set);pool_names=defaultdict(list)
@@ -22,13 +22,34 @@ for p in players:
  if p['id'] not in known.values() and len(ids)==1 and len(pool_names[norm(p['name'])])==1:
   cid=next(iter(ids))
   if cid not in known:known[cid]=p['id'];mapping.append({'player':p['id'],'cricsheet':cid,'method':'unique exact normalized register alias'})
-def blank():return {'matches':0,'batting':{'innings':0,'runs':0,'balls':0,'dismissals':0},'bowling':{'innings':0,'balls':0,'runs':0,'wickets':0}}
+def blank():return {'matches':0,'batting':{'innings':0,'runs':0,'balls':0,'dismissals':0,'oppositionBalls':0,'expectedRuns':0,'expectedDismissals':0},'bowling':{'innings':0,'balls':0,'runs':0,'wickets':0,'oppositionBalls':0,'expectedRuns':0,'expectedWickets':0}}
 def season(info):
  s=str(info['season']);parts=s.split('/');last=int(parts[-1]);return last+2000 if last<100 else last
 stats=defaultdict(blank);capped=set();splits=defaultdict(dict);phases=defaultdict(lambda:{'batting':{},'bowling':{}});h2h=defaultdict(dict);coverage={};sources=[];seen=set();completed=set()
-files=[('ipl_json.zip','IPL'),('t20s_male_json.zip','T20I'),('bbl_male_json.zip','BBL'),('psl_male_json.zip','PSL')]
+files=[('ipl_json.zip','IPL'),('t20s_male_json.zip','T20I')]
+# Versioned model reference group, not an official ranking. Raw career totals are preserved.
+reference_opposition={'India','Australia','England','South Africa','New Zealand','Pakistan','Sri Lanka','West Indies','Afghanistan','Bangladesh'}
 credit_excluded={'run out','retired hurt','retired out','obstructing the field'}
 def splitrow(target,key,date):return target.setdefault(key,{'balls':0,'runs':0,'dismissals':0,'source':'https://cricsheet.org/','from':date,'to':date})
+# First pass: same-season / same-phase reference rates. T20I benchmarks use games
+# between reference opponents so weaker schedules do not define elite benchmarks.
+baselines=defaultdict(lambda:{'batRuns':0,'faced':0,'outs':0,'runs':0,'legal':0,'wickets':0})
+for filename,competition in files:
+ z=zipfile.ZipFile(raw/filename)
+ for file in z.namelist():
+  if not file.endswith('.json'):continue
+  data=json.loads(z.read(file));info=data['info'];dates=[str(d) for d in info['dates']]
+  if dates[-1]>cutoff or info.get('gender')!='male' or info.get('match_type')!='T20':continue
+  if competition=='T20I' and not all(t in reference_opposition for t in info['teams']):continue
+  year=int(dates[0][:4])
+  for inn in data.get('innings',[]):
+   if inn.get('super_over'):continue
+   for over in inn.get('overs',[]):
+    phase='powerplay' if over['over']<6 else 'middle' if over['over']<15 else 'death'
+    for d in over['deliveries']:
+     extras=d.get('extras',{});b=baselines[(competition,year,phase)]
+     b['batRuns']+=d['runs']['batter'];b['faced']+=not extras.get('wides');b['outs']+=sum(w['kind']!='retired hurt' for w in d.get('wickets',[]))
+     b['runs']+=d['runs']['total']-extras.get('byes',0)-extras.get('legbyes',0);b['legal']+=not extras.get('wides') and not extras.get('noballs');b['wickets']+=sum(w['kind'] not in credit_excluded for w in d.get('wickets',[]))
 for filename,competition in files:
  path=raw/filename;z=zipfile.ZipFile(path);sources.append({'file':filename,'url':'https://cricsheet.org/downloads/'+filename,'sha256':hashlib.sha256(path.read_bytes()).hexdigest()})
  for file in sorted(z.namelist()):
@@ -37,30 +58,39 @@ for filename,competition in files:
   if dates[-1]>cutoff or info.get('gender')!='male' or info.get('match_type')!='T20':continue
   key=(competition,file)
   if key in seen:continue
-  seen.add(key);ids=info['registry']['people'];pid=lambda name:known.get(ids.get(name));year=int(dates[0][:4]) if competition=='T20I' else season(info)
+  seen.add(key);ids=info['registry']['people'];pid=lambda name:known.get(ids.get(name));year=int(dates[0][:4]) # IPL and T20I use calendar years; 2020/21 IPL was played in 2020
   participants={pid(n) for team in info.get('players',{}).values() for n in team};participants.discard(None)
   if competition=='T20I':capped.update(participants)
   if year not in window:continue
+  completed.add((competition,year))
   coverage[f'{competition} {year}']=coverage.get(f'{competition} {year}',0)+1
   if (competition=='T20I' and year<int(cutoff[:4])) or (competition!='T20I' and 'final'==str(info.get('event',{}).get('stage','')).lower()):completed.add((competition,year))
   for p in participants:stats[(p,competition,year)]['matches']+=1
   for inn in data.get('innings',[]):
    if inn.get('super_over'):continue
    batted=set();bowled=set()
+   fielding_team=next((t for t in info['teams'] if t!=inn['team']),'')
+   bat_strength=1 if competition=='IPL' or fielding_team in reference_opposition else .65
+   bowl_strength=1 if competition=='IPL' or inn['team'] in reference_opposition else .65
    for over in inn.get('overs',[]):
     phase='powerplay' if over['over']<6 else 'middle' if over['over']<15 else 'death'
     for d in over['deliveries']:
      bat=pid(d['batter']);non=pid(d['non_striker']);bow=pid(d['bowler']);extras=d.get('extras',{});legal=not extras.get('wides') and not extras.get('noballs');faced=not extras.get('wides');dismissals=d.get('wickets',[]);conceded=d['runs']['total']-extras.get('byes',0)-extras.get('legbyes',0)
+     reference=baselines[(competition,year,phase)]
+     bat_rate=reference['batRuns']/reference['faced'] if reference['faced'] else 1.3
+     out_rate=reference['outs']/reference['faced'] if reference['faced'] else .045
+     bowl_rate=reference['runs']/reference['legal'] if reference['legal'] else 8/6
+     wicket_rate=reference['wickets']/reference['legal'] if reference['legal'] else 1/24
      for p in [bat,non]:
       if p:batted.add(p)
      if bat:
-      b=stats[(bat,competition,year)]['batting'];b['runs']+=d['runs']['batter'];b['balls']+=int(faced)
+      b=stats[(bat,competition,year)]['batting'];b['runs']+=d['runs']['batter'];b['balls']+=int(faced);b['oppositionBalls']+=int(faced)*bat_strength;b['expectedRuns']+=int(faced)*bat_rate;b['expectedDismissals']+=int(faced)*out_rate
      for w in dismissals:
       dismissed=pid(w['player_out'])
       if dismissed and w['kind']!='retired hurt':stats[(dismissed,competition,year)]['batting']['dismissals']+=1
      wickets=sum(w['kind'] not in credit_excluded for w in dismissals)
      if bow:
-      bowled.add(bow);b=stats[(bow,competition,year)]['bowling'];b['runs']+=conceded;b['balls']+=int(legal);b['wickets']+=wickets
+      bowled.add(bow);b=stats[(bow,competition,year)]['bowling'];b['runs']+=conceded;b['balls']+=int(legal);b['wickets']+=wickets;b['oppositionBalls']+=int(legal)*bowl_strength;b['expectedRuns']+=int(legal)*bowl_rate;b['expectedWickets']+=int(legal)*wicket_rate
      if competition=='IPL':
       if bat and faced:
        style=by_id[bow]['bowl'] if bow else '';kind='spin' if re.search('spin|break|slow|orthodox|chinaman',style,re.I) else 'pace' if re.search('fast|medium|pace|seam',style,re.I) else None
@@ -77,9 +107,9 @@ output=defaultdict(list)
 for (p,c,y),form in sorted(stats.items()):
  if (c,y) not in completed:continue
  output[p].append({'season':y,'competition':c if c in ['IPL','T20I'] else 'domestic','competitionId':c,'source':'https://cricsheet.org/downloads/','complete':True,'form':form})
-meta={'cutoff':cutoff,'window':window,'source':'https://cricsheet.org/','license':'Open Data Commons Attribution 1.0','coverage':coverage,'completed':sorted(f'{c} {y}' for c,y in completed),'identityMatches':len(known)}
+meta={'cutoff':cutoff,'window':window,'source':'https://cricsheet.org/','license':'Open Data Commons Attribution 1.0','coverage':coverage,'completed':sorted(f'{c} {y}' for c,y in completed),'contextModel':'Competition, calendar year and innings phase benchmarks; T20I benchmark games involve two reference opponents. Raw career totals remain unchanged.','identityMatches':len(known),'oppositionModel':{'referenceGroup':sorted(reference_opposition),'referenceFactor':1,'otherFactor':.65,'note':'Game-model assumption only; raw observed totals are unchanged.'}}
 (root/'src/recent-evidence.json').write_text(json.dumps({**meta,'players':output,'verifiedT20ICapped':sorted(capped)},indent=2)+'\n')
 (root/'src/style-splits.json').write_text(json.dumps({**meta,'status':'Observed IPL ball-by-ball aggregates; only identity- and style-matched deliveries.','players':splits},indent=2)+'\n')
 (root/'src/matchup-evidence.json').write_text(json.dumps({**meta,'phases':phases,'headToHead':h2h},separators=(',',':'))+'\n')
-(root/'sources/recent-evidence-manifest.json').write_text(json.dumps({**meta,'archives':sources,'identityMapping':mapping,'excluded':'Partial competition seasons; 2026 T20I calendar year; Super Overs. Unmatched or ambiguous players are not guessed. Afghanistan matches may be withheld upstream.'},indent=2)+'\n')
+(root/'sources/recent-evidence-manifest.json').write_text(json.dumps({**meta,'archives':sources,'identityMapping':mapping,'excluded':'BBL, PSL and other domestic leagues; Super Overs; matches after cutoff. Includes all covered IPL/T20I career years, including played matches in the current year. Unmatched identities are not guessed. Archive coverage may be incomplete, including withheld Afghanistan matches.'},indent=2)+'\n')
 print(json.dumps({'playersWithEvidence':len(output),'verifiedT20ICapped':len(capped),'mappedIdentities':len(known),'paceSpinPlayers':len(splits),'headToHeadBatters':len(h2h),'coverage':coverage,'completed':meta['completed']}))

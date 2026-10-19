@@ -1,3 +1,4 @@
+import {isIplEligible} from '../../cricket-data/src/ipl-eligibility';
 import {auctionOrder,playerById} from '../../cricket-data/src/players';
 export const SQUAD_MAX=15;
 export const OVERSEAS_MAX=5;
@@ -43,6 +44,7 @@ export function createAuction(code:string,timer:BidTimer,now:number):Auction{
 }
 export const activeTeams=(s:Auction)=>s.teams.filter(t=>t.manager);
 export function eligibility(s:Auction,t:Franchise,amount=nextBidAmount(s)){
+ if(!isIplEligible(currentPlayer(s).id))return 'This player has retired from the IPL.';
  if(t.squad.length>=(s.squadMax??SQUAD_MAX))return `Squad is full (${s.squadMax??SQUAD_MAX} players).`;
  if(currentPlayer(s).overseas&&overseasCount(t)>=(s.overseasMax??OVERSEAS_MAX))return `Overseas player limit reached (${s.overseasMax??OVERSEAS_MAX}).`;
  if(t.purse<amount)return 'Insufficient purse.';
@@ -79,6 +81,7 @@ const allFull=(s:Auction)=>activeTeams(s).every(t=>t.squad.length>=(s.squadMax??
 export function settle(s:Auction,now:number){
  if(s.status!=='live'||now<s.deadline)return;
  const p=currentPlayer(s);
+ if(!isIplEligible(p.id)){s.leader=null;s.bid=0;}
  if(s.leader){const team=s.teams.find(t=>t.id===s.leader)!;team.purse-=s.bid;team.squad.push({playerId:p.id,price:s.bid,overseas:p.overseas});s.status='sold';}
  else s.status='unsold';
  s.closedAt=s.deadline;s.version++;
