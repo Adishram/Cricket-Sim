@@ -1,23 +1,27 @@
 import {isIplEligible} from '../../cricket-data/src/ipl-eligibility';
 import {createAuction,claim,start,bid,next,settle,eligibility,currentPlayer,nextBidAmount,type Auction} from './index';
 import {playerById} from '../../cricket-data/src/players';
+import {rosterValue,signingValue} from './squad-planner';
 import {random} from '../../shared/src/random';
 export const PERSONALITIES=['Marquee hunter','Value buyer','Balanced architect','Development buyer','Specialist buyer'] as const;
 export type Solo={version:1;seed:number;initialSeed:number;human:string;clock:number;paused:boolean;auction:Auction;pending:{at:number;team:string;amount:number;key:string}|null;decisions:number;round:number};
 export function createSolo(human:string,seed:number):Solo{const auction=createAuction('SOLO',10,0);auction.squadMax=25;auction.overseasMax=8;for(const [index,t] of auction.teams.entries())claim(auction,t.id,t.id===human?'You':`Bot · ${PERSONALITIES[index%5]}`);if(!auction.teams.some(t=>t.id===human))throw Error('Unknown franchise');start(auction,0);return {version:1,seed:seed||1,initialSeed:seed||1,human,clock:0,paused:true,auction,pending:null,decisions:0,round:1};}
-/** A franchise buys its next role slot, with diminishing value for duplicate cover. */
+// Cache just the expensive fit calculation; purse and legal limits are always live.
+const fitCache=new WeakMap<object,{key:string;pool:NonNullable<ReturnType<typeof playerById.get>>[];value:number;lots:Map<string,number>}>();
 export function willingness(s:Solo,teamId:string){
- const t=s.auction.teams.find(t=>t.id===teamId)!,p=currentPlayer(s.auction);
- const role=(name:string)=>/keep/i.test(name)?'keeper':/all/i.test(name)?'allrounder':/bowl/i.test(name)?'bowler':'batter';
- const group=role(p.role),owned=t.squad.flatMap(x=>playerById.get(x.playerId)??[]);
- const depth=owned.filter(x=>role(x.role)===group).length;
- const target={keeper:1,batter:4,allrounder:2,bowler:4}[group];
- const need=depth<target?1+.8*(target-depth)/target:1/(1+1.15*(depth-target));
- const bowlers=owned.filter(x=>/bowl|all/i.test(x.role)).length;
- const premium=[p.auction?.setCode.startsWith('M')?1.6:1.1,.8,1,p.auction?.eligibility==='uncapped'?1.2:.85,/bowl|all/i.test(p.role)&&bowlers<5?1.35:.95][s.auction.teams.indexOf(t)%5];
- const reserve=Math.max(0,(s.auction.squadMax??25)-1-t.squad.length)*30;
- const estimate=(p.base+(p.rating.value-40)*12)*premium*(.85+p.rating.confidence/500)*need;
- return Math.max(0,Math.min(t.purse-reserve,Math.round(estimate)));
+ const t=s.auction.teams.find(t=>t.id===teamId)!,p=currentPlayer(s.auction),key=t.squad.map(x=>x.playerId).join('|');
+ let fit=fitCache.get(t);
+ if(!fit||fit.key!==key){const pool=t.squad.flatMap(x=>playerById.get(x.playerId)??[]);fit={key,pool,value:rosterValue(pool),lots:new Map()};fitCache.set(t,fit);}
+ let value=fit.lots.get(p.id);
+ if(value==null){value=signingValue(fit.pool,p,fit.value);fit.lots.set(p.id,value);}
+ const slots=(s.auction.squadMax??25)-t.squad.length;
+ if(slots<=0)return 0;
+ const reserve=(slots-1)*30,available=Math.max(0,t.purse-reserve);
+ const personality=[p.auction?.setCode.startsWith('M')?1.12:1,.88,1,p.auction?.eligibility==='uncapped'?1.08:.94,1.04][s.auction.teams.indexOf(t)%5];
+ // Scale ambition to remaining discretionary money per vacancy. Keep some
+ // bidding power for the rest of the team instead of exhausting it on early lots.
+ const budget=Math.max(.38,Math.min(1.22,(t.purse/slots)/480));
+ return Math.max(0,Math.min(available,Math.round(value*budget*personality)));
 }
 function schedule(s:Solo){const a=s.auction,amount=nextBidAmount(a);const eligible=a.teams.filter(t=>t.manager?.startsWith('Bot')&&t.id!==s.human&&t.id!==a.leader&&!eligibility(a,t,amount)&&willingness(s,t.id)>=amount);if(!eligible.length){s.pending=null;return;}const t=eligible[Math.floor(random(s)*eligible.length)];s.pending={at:s.clock+600+Math.floor(random(s)*1600),team:t.id,amount,key:`bot-${s.round}-${s.decisions++}`};}
 export function advanceSolo(s:Solo,elapsed:number){if(s.paused||s.auction.status==='complete')return;s.clock+=Math.max(0,elapsed);const a=s.auction;if(a.status==='sold'||a.status==='unsold'){if(s.clock>=a.closedAt+1500){next(a,s.clock);s.pending=null;}return;}if(!s.pending)schedule(s);if(s.pending&&s.clock>=s.pending.at&&s.clock<a.deadline){const p=s.pending;s.pending=null;if(nextBidAmount(a)===p.amount&&!eligibility(a,a.teams.find(t=>t.id===p.team)!,p.amount))bid(a,p.team,p.key,s.clock);}settle(a,s.clock);}
