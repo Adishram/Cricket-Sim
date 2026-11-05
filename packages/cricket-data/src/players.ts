@@ -13,7 +13,10 @@ const meta=register.meta as Record<string,NonNullable<Player['auction']>>;
 export const players:Player[]=[...snapshot.players,...register.extra].map(p=>{const evidence=recent[p.id]??[],latest=[...evidence].filter(e=>e.competition==='IPL').sort((a,b)=>b.season-a.season)[0]??[...evidence].sort((a,b)=>b.season-a.season)[0];return {...p,base:meta[p.id]?.base??p.base,form:latest?.form??null,formSeason:latest?.season??null,formCompetition:latest?.competitionId??latest?.competition??null,auction:meta[p.id],rating:computeRating(p.role,evidence,capped.has(p.id)?'capped':'unknown',recentData.cutoff,(iccData.players as Record<string,IccRanking[]>)[p.id]??[])};});
 export const playerById=new Map(players.map(p=>[p.id,p]));
 export const activePlayers=players.filter(p=>isIplEligible(p.id));
-export const auctionOrder=register.order.filter(id=>isIplEligible(id));
+// Custom fresh auction: insert active, established Indian pace specialists after the marquee sets.
+const supplement=activePlayers.filter(p=>!meta[p.id]&&p.country==='India'&&p.role==='Bowler'&&/fast|medium|pace/i.test(p.bowl)&&p.rating.value>=80).sort((a,b)=>b.rating.value-a.rating.value);
+const firstRoleSet=register.order.findIndex(id=>!meta[id]?.setCode.startsWith('M'));
+export const auctionOrder=[...register.order.slice(0,firstRoleSet),...supplement.map(p=>p.id),...register.order.slice(firstRoleSet)].filter(id=>isIplEligible(id));
 export const auctionPlayers=auctionOrder.map(id=>playerById.get(id)!);
 export const dataset={season:snapshot.season,retrievedAt:snapshot.retrievedAt,total:players.length,formSeason:2026,auctionYear:2025,auctionTotal:auctionPlayers.length,ipl:players.filter(p=>p.career&&!p.career.fallback).length,fallback:players.filter(p=>p.career?.fallback).length,withForm:players.filter(p=>p.form).length};
-export function setLabel(p:Player){const code=p.auction?.setCode??'';return code==='M1'?'Marquee A':code==='M2'?'Marquee B':`${code.startsWith('U')?'Uncapped ':''}${/BA/.test(code)?'Batters':/WK/.test(code)?'Wicketkeepers':/FA/.test(code)?'Fast bowlers':/SP/.test(code)?'Spinners':'All-rounders'} · ${code}`;}
+export function setLabel(p:Player){if(!p.auction)return supplement.includes(p)?'Indian pace · custom set':'Current player';const code=p.auction.setCode;return code==='M1'?'Marquee A':code==='M2'?'Marquee B':`${code.startsWith('U')?'Uncapped ':''}${/BA/.test(code)?'Batters':/WK/.test(code)?'Wicketkeepers':/FA/.test(code)?'Fast bowlers':/SP/.test(code)?'Spinners':'All-rounders'} · ${code}`;}

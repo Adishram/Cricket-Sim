@@ -7,7 +7,7 @@ const scope={exports:{},require:name=>{if(name==='./icc')return iccScope.exports
 vm.runInNewContext(ts.transpileModule(fs.readFileSync(path.join(src,'rating.ts'),'utf8'),{compilerOptions:{module:ts.ModuleKind.CommonJS}}).outputText,scope);
 const data=read('recent-evidence.json'),capped=new Set(data.verifiedT20ICapped),players=[...read('snapshot.json').players,...read('auction-register.json').extra];
 const rankings=read('icc-rankings.json').players;
-const retired=new Set(['auction-20','auction-72','auction-77','auction-202']);
+const retired=new Set(['auction-20','auction-72','auction-77','auction-202','auction-433','player-12685']);
 const rated=players.filter(p=>!retired.has(p.id)).map(p=>({...p,rating:scope.exports.computeRating(p.role,data.players[p.id]??[],capped.has(p.id)?'capped':'unknown',data.cutoff,rankings[p.id]??[])}));
 const score=(p,skill)=>Math.min(p.rating.capped==='capped'?99:90,p.rating.explanation[skill].score);
 const row=(p,skill)=>({id:p.id,name:p.name,role:p.role,rating:p.rating[skill],confidence:p.rating.confidence,iccAdjustment:p.rating.icc[skill],iccRankings:p.rating.icc.entries,...p.rating.explanation[skill]});
