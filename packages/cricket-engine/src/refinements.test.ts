@@ -17,3 +17,12 @@ it('validates style-specific delivery menus and changes good-length seam and def
 it('keeps swing strongest with the new ball and accounts for defensive pressure before fuller spin',()=>{const m=match(),team=1-current(m).team,side=m.teams[team],pace=side.xi.find(p=>bowlingKind(p.style)==='pace'&&/bowl|all/i.test(p.role))!;current(m).bowler=pace.id;
  const gain=(balls:number)=>{current(m).balls=balls;setTactics(m,team,{bowlingPlans:{[pace.id]:DEFAULT_BOWLING}});const baseline=probabilities(m,'nailed').wicket;setTactics(m,team,{bowlingPlans:{[pace.id]:{...DEFAULT_BOWLING,variation:'outswing'}}});return probabilities(m,'nailed').wicket/baseline;};expect(gain(0)).toBeGreaterThan(gain(90));
 });
+
+it('plans speculative deliveries without changing the real match or its random stream',async()=>{
+ const {botTactics}=await import('./bots');
+ const m=match(),team=1-current(m).team,before=structuredClone(m);
+ const choice=botTactics(m,team);
+ expect(m).toEqual(before);expect(botTactics(m,team)).toEqual(choice);
+ expect(Object.keys(choice.bowlingPlans??{})).not.toHaveLength(0);
+ expect(()=>setTactics(m,team,choice)).not.toThrow();
+});

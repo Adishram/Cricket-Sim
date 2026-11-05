@@ -72,7 +72,7 @@ test('OVR, career fallback and unavailable states in the scouting directory',asy
  await expect(kohli).toContainText('9,336');await expect(kohli).toContainText('IPL 2026 season');await expect(kohli).toContainText('Estimated OVR');
  await search.fill('Jack Edwards');await page.locator('.directory-results button').click();
  const jack=page.getByRole('region',{name:'Jack Edwards career statistics'});
- await expect(jack).toContainText('T20 career fallback');await expect(jack).toContainText('Career totals are not used');await expect(jack).not.toContainText('IPL 2026 season');
+ await expect(jack).toContainText('T20 career fallback');await expect(jack).toContainText('CAREER RECORD · OBSERVED');await expect(jack).not.toContainText('IPL 2026 season');
  await search.fill('Aman Rao');await page.locator('.directory-results button').click();
  await expect(page.getByRole('region',{name:'Aman Rao career statistics'})).toContainText('Career stats unavailable');
  await search.fill('zzzzzz');await expect(page.getByText('No players match your search.')).toBeVisible();
