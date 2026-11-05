@@ -14,5 +14,5 @@ describe('multiplayer auction engine',()=>{
   const overseasIndex=s.order.findIndex(id=>playerById.get(id)!.overseas);s.index=overseasIndex;mi.squad=Array.from({length:5},()=>({playerId:'x',price:1,overseas:true}));expect(()=>bid(s,'mi','b',1)).toThrow('Overseas');});
  it('completes when every franchise is full',()=>{const s=room();for(const t of s.teams)t.squad=Array.from({length:15},()=>({playerId:'x',price:1,overseas:false}));settle(s,OPENING_MIN_MS);next(s,OPENING_MIN_MS);expect(s.status).toBe('complete');});
  it('does not skip live lots',()=>{const s=room();expect(()=>next(s,1)).toThrow('Wait');});
- it('orders lots by official marquee and role sets',()=>{const s=room();expect(s.order).toHaveLength(575);expect(s.order).not.toContain('auction-20');expect(s.order).toContain('auction-19');expect(currentPlayer(s).auction?.setCode).toBe('M1');expect(playerById.get(s.order[6])?.auction?.setCode).toBe('M2');});
+ it('orders lots by official marquee and role sets',()=>{const s=room();expect(s.order).toHaveLength(576);expect(s.order).not.toContain('auction-20');expect(s.order).toContain('auction-19');expect(currentPlayer(s).auction?.setCode).toBe('M1');expect(playerById.get(s.order[6])?.auction?.setCode).toBe('M2');});
 });

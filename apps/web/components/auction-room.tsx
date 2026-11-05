@@ -5,6 +5,7 @@ import {useRouter} from 'next/navigation';
 import {AnimatePresence,motion,MotionConfig} from 'motion/react';
 import {ArrowRight,Check,ChevronRight,ChevronLeft,Copy,Crown,Gavel,Globe,LayoutDashboard,Play,Radio,Shield,Sparkles,Timer,Users,X} from 'lucide-react';
 import {Button} from './ui/button';
+import {BreakoutPace} from './breakout-pace';
 import {activePlayers as players,playerById,dataset,setLabel,type Player} from '../../../packages/cricket-data/src/players';
 import {money,currentPlayer,nextBidAmount,eligibility,overseasCount,activeTeams,BID_TIMERS,BID_INCREMENT,SQUAD_MAX,OVERSEAS_MAX,STARTING_PURSE,type Auction,type Franchise,type BidTimer} from '../../../packages/auction-engine/src';
 
@@ -53,7 +54,7 @@ export function PlayerDirectory(){
  const [query,setQuery]=useState(''),[selected,setSelected]=useState<Player|null>(null);
  const matches=players.filter(p=>`${p.name} ${p.country} ${p.role} ${p.seasonTeam}`.toLowerCase().includes(query.toLowerCase())).sort((a,b)=>b.rating.value-a.rating.value);
  return <section className="player-directory"><div className="section-heading"><div><span className="eyebrow gold">SCOUT THE FULL POOL</span><h3>{dataset.total} registered players</h3></div></div>
- <label htmlFor="player-search">Find a player, role, country or IPL team</label><input id="player-search" value={query} onChange={e=>setQuery(e.target.value)} placeholder="Search the player pool…"/>
+ <BreakoutPace onPick={setSelected}/><label htmlFor="player-search">Find a player, role, country or IPL team</label><input id="player-search" value={query} onChange={e=>setQuery(e.target.value)} placeholder="Search the player pool…"/>
  <div className="directory-results">{matches.slice(0,24).map(p=><button key={p.id} aria-pressed={selected?.id===p.id} onClick={()=>setSelected(p)}><span>{p.name}<small>{p.country} · {p.role}</small></span><OvrBadge player={p} size="sm"/></button>)}</div>
  <p className="data-note" role="status">{matches.length===0?'No players match your search.':`Showing ${Math.min(24,matches.length)} of ${matches.length} matches, highest OVR first.`}</p>
  {selected&&<div className="scout-preview"><div className="section-heading"><h3>{selected.name}</h3><Button variant="ghost" onClick={()=>setSelected(null)} aria-label="Close player preview"><X size={18}/></Button></div><PlayerStatsPanel player={selected}/></div>}
