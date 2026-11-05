@@ -11,6 +11,10 @@ export function applyDelivery(weights:Weights,m:Match,bowl:Cricketer,plan:Bowlin
  const effect=(key:keyof Weights,good:number,bad:number)=>{weights[key]*=good*success+bad*(1-success);};
  const dew=m.innings.length%2===0?m.pitch.dew/100:0,grip=Math.max(.2,(m.pitch.spin/100+m.pitch.deterioration/100*i.balls/120)*(1-dew*.3));
  const recent=m.events.filter(e=>e.innings===m.innings.length-1&&e.batter===i.striker).slice(-6),pressure=recent.filter(e=>e.legal&&e.runs===0).length/6;
+ // These are target settings, not measured release telemetry. Harder efforts
+ // trade extra threat on execution for larger misses and more extras.
+ const effort=spin?((plan.spinRpm??2000)-2000)/1000:((plan.speedKph??135)-135)/25;
+ if(effort){effect('wicket',1+effort*(spin?.12*grip:.10),1-effort*.07);effect('four',1-effort*.08,1+effort*.18);weights.wide*=1+effort*.13;weights.noBall*=1+effort*.16;}
  if(plan.line==='stumps'){weights.wide*=.65;weights.dot*=spin?1.16:1.04;weights.six*=spin?.88:1;weights.wicket*=1.08;}
  if(plan.line==='off'){weights.dot*=1.05;weights.wicket*=1.04;}if(plan.line==='wide'){weights.wide*=1.6;weights.six*=.85;weights.dot*=1.08;}
  if(plan.length==='good'){weights.dot*=spin?1.07:1.1;weights.four*=.92;}

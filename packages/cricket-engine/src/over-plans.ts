@@ -20,5 +20,6 @@ export const playbook=[
 export type OverCall={id:string;innings:number;over:number};
 export function presetFor(style:string,id:string){return playbook.find(x=>x.id===id&&x.style===bowlingKind(style));}
 export function deliveryFor(style:string,call:OverCall|undefined,innings:number,legalBalls:number,fallback:BowlingPlan):BowlingPlan{
- return call&&call.innings===innings&&call.over===Math.floor(legalBalls/6)?presetFor(style,call.id)?.balls[legalBalls%6]??fallback:fallback;
+ const selected=call&&call.innings===innings&&call.over===Math.floor(legalBalls/6)?presetFor(style,call.id)?.balls[legalBalls%6]??fallback:fallback;
+ return selected===fallback?fallback:{...fallback,...selected};
 }

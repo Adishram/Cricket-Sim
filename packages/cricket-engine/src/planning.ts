@@ -5,7 +5,7 @@ export const PACE_VARIATIONS:Variation[]=['stock','inswing','outswing','wobble-s
 export const SPIN_VARIATIONS:Variation[]=['stock','flight','slider','topspinner','arm-ball','wrong-un','carrom'];
 export const VARIATION_LABELS:Record<Variation,string>={stock:'Stock ball',inswing:'Inswing',outswing:'Outswing','wobble-seam':'Wobble seam',cutter:'Off cutter',bouncer:'Bouncer',flight:'Flight & dip',slider:'Slider',topspinner:'Topspinner','arm-ball':'Arm ball','wrong-un':'Wrong’un',carrom:'Carrom ball'};
 export function variations(style:string){return bowlingKind(style)==='spin'?SPIN_VARIATIONS:PACE_VARIATIONS;}
-export type BowlingPlan={line:'stumps'|'off'|'wide';length:'good'|'full'|'short'|'yorker'|'wide-yorker';pace:'stock'|'slower'|'effort';variation?:Variation};
+export type BowlingPlan={speedKph?:number;spinRpm?:number;line:'stumps'|'off'|'wide';length:'good'|'full'|'short'|'yorker'|'wide-yorker';pace:'stock'|'slower'|'effort';variation?:Variation};
 export const DEFAULT_BOWLING:BowlingPlan={line:'off',length:'good',pace:'stock'};
 export type BattingStyle='balanced'|'anchor'|'rotate'|'power'|'sweep';
 export const BATTING_STYLES:Record<BattingStyle,string>={balanced:'Balanced',anchor:'Anchor',rotate:'Rotate strike',power:'Power hitter',sweep:'Sweep & manipulate'};
