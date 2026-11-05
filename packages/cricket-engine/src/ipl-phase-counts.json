@@ -1,0 +1,41 @@
+{
+  "new": {
+    "noBall": 98,
+    "dot": 8326,
+    "wide": 752,
+    "wicket": 868,
+    "one": 5568,
+    "four": 3652,
+    "six": 1158,
+    "two": 936,
+    "three": 82,
+    "legBye": 327,
+    "bye": 41
+  },
+  "middle": {
+    "one": 14218,
+    "two": 1990,
+    "dot": 7949,
+    "six": 1973,
+    "wide": 1026,
+    "wicket": 1429,
+    "four": 3063,
+    "bye": 49,
+    "legBye": 335,
+    "noBall": 103,
+    "three": 53
+  },
+  "death": {
+    "one": 5691,
+    "dot": 3133,
+    "four": 1874,
+    "wide": 978,
+    "noBall": 115,
+    "two": 1188,
+    "six": 1580,
+    "wicket": 1258,
+    "legBye": 255,
+    "bye": 54,
+    "three": 31
+  }
+}
