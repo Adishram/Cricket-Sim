@@ -5,11 +5,12 @@ export type LbwVerdict={out:boolean;umpiresCall:boolean;reason:string};
 /** Seeded gameplay geometry, not measured tracking. Positive x is the batter's off side.
  * Half the wicket width is 1; a ball radius is approximately 0.3 in these units.
  * All coordinates are sampled once, before the captain sees the appeal. */
-export function sampleLbw(state:{seed:number},plan:BowlingPlan,spin:boolean):LbwTracking{
+export function sampleLbw(state:{seed:number},plan:BowlingPlan,spin:boolean,coherent=false):LbwTracking{
  const noise=()=>random(state)*2-1;
  const impactX=(plan.line==='wide'?1.5:plan.line==='off'?.65:0)+noise()*1.4;
  const drift=plan.variation==='inswing'?-.45:plan.variation==='outswing'?.45:spin?noise()*.6:noise()*.25;
- const pitchX=impactX-drift+noise()*.45,wicketX=impactX+drift+noise()*.55;
+ const lateral=coherent?drift*.35:drift;
+ const pitchX=impactX-lateral+(coherent?0:noise()*.45),wicketX=impactX+lateral*(coherent?2/3:1)+(coherent?0:noise()*.55);
  const height=Math.max(.15,(plan.length==='short'?3.4:plan.length==='good'?2.2:1.1)+noise()*1.2);
  const edge=random(state)<.07,shotOffered=random(state)>.07;
  const pitching=pitchX < -1?'Outside leg':pitchX>1?'Outside off':'In line';
