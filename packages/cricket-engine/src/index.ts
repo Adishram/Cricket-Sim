@@ -112,10 +112,11 @@ export function step(m:Match,expectedEvent=m.events.length,showAllReviews=false)
 }
 
 /** Resolve exactly the pending ball. Counters and scorecard change in one transition. */
-export function resolveLbwReview(m:Match,team:number,decision:'review'|'accept',expectedEvent=m.events.length){
+export function resolveLbwReview(m:Match,team:number,decision:'review'|'accept',expectedEvent=m.events.length,now?:number){
  const a=m.pendingReview;if(!a||expectedEvent!==m.events.length)throw Error('This review decision has expired.');
  if(team!==a.reviewTeam||!['review','accept'].includes(decision))throw Error('Only the reviewing captain can decide.');
  const i=m.innings[a.innings];i.reviews??=[2,2];if(decision==='review'&&i.reviews[team]<=0)throw Error('No reviews remaining in this innings.');
+ if(now!==undefined&&a.reviewDeadline!==undefined&&now>=a.reviewDeadline)decision='accept';
  const verdict=adjudicateLbw(a.tracking),out=decision==='review'?verdict.out:a.tracking.onField==='Out';
  const retained=decision==='accept'||out!==(a.tracking.onField==='Out')||verdict.umpiresCall;
  if(decision==='review'&&!retained)i.reviews[team]--;
@@ -172,4 +173,11 @@ export function callToss(m:Match,team:number,call:'heads'|'tails'){
 export function chooseTossInnings(m:Match,team:number,choice:'bat'|'bowl'){
  const t=m.tossDecision;if(m.status!=='ready'||!t||t.choice||t.winner!==team||!['bat','bowl'].includes(choice))throw Error('Only the toss winner can choose.');
  t.choice=choice;m.toss=choice==='bat'?team:1-team;m.initial.battingFirst=m.toss;m.initial.tossDecision=structuredClone(t);m.innings=[newInnings(m,m.toss)];m.plansConfirmed=false;
+}
+
+/** UI supplies time; the pure engine owns the fixed window and expiry rule. */
+export function beginReviewWindow(m:Match,eventId:number,now:number){
+ if(!Number.isFinite(now))throw Error('Invalid review clock.');
+ const a=m.pendingReview;if(!a||a.eventId!==eventId)return;
+ a.reviewDeadline??=now+15000;
 }

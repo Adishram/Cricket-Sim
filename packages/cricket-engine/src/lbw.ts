@@ -29,7 +29,7 @@ export function adjudicateLbw(t:LbwTracking):LbwVerdict{
  const umpiresCall=t.wickets==='Umpire’s call'||t.impact==='Umpire’s call'&&!outsideOffNoShot;
  return {out:umpiresCall?t.onField==='Out':true,umpiresCall,reason:umpiresCall?'Umpire’s call — original decision stands':'Pitching legal · impact eligible · wickets hitting'};
 }
-export type LbwAppeal={eventId:number;innings:number;reviewTeam:number;tracking:LbwTracking};
+export type LbwAppeal={reviewDeadline?:number;eventId:number;innings:number;reviewTeam:number;tracking:LbwTracking};
 export type LbwReviewResult={tracking:LbwTracking;decision:'review'|'accept';out:boolean;retained:boolean;reason:string};
 /** A captain judges only the visible pitch/pad path, never the hidden projection. */
 export function captainReviews(appeal:LbwAppeal){const t=appeal.tracking;return t.onField==='Out'?Math.abs(t.impactX)>1||t.pitchX < -1:Math.abs(t.impactX)<1.15&&t.pitchX>=-1;}
