@@ -20,10 +20,13 @@ export function OverStudio({match,team,bowler,commit}:{match:Match;team:number;b
  const active=call?.id===preset.id&&call.innings===innings&&call.over===over;
  const next=live&&over===start?i.balls%6:0;
  const focus=slot<0?next:slot,b=preset.balls[focus];
- const point=(n:number)=>{const d=preset.balls[n];return {x:({wide:109,off:90,stumps:70}[d.line])+(n%3-1)*3,y:({yorker:30,'wide-yorker':34,full:49,good:77,short:99}[d.length])+n%2*3};};
- const {x,y}=point(focus);
- const bend=b.variation==='inswing'?87:b.variation==='outswing'?32:54;
- const flight=`M56 138 Q${bend} 102 ${x} ${y} Q${x+4} ${y-16} ${b.line==='wide'?108:b.line==='off'?83:70} 19`;
+ const point=(n:number)=>{const d=preset.balls[n];const y=({yorker:30,'wide-yorker':34,full:49,good:77,short:99}[d.length])+n%2*3;return {x:62+(({wide:108,off:83,stumps:70}[d.line])-62)*(138-y)/119,y};};
+ const {y}=point(focus);
+ const targetX=b.line==='wide'?108:b.line==='off'?83:70;
+ const deviation=b.variation==='inswing'?3:b.variation==='outswing'?-3:0;
+ const releaseX=62;
+ const landingX=releaseX+(targetX-releaseX)*(138-y)/119;
+ const flight=`M${releaseX} 138 Q${(releaseX+landingX)/2+deviation} ${(138+y)/2} ${landingX} ${y} L${targetX} 19`;
  return <section className="over-studio"><header><span className="eyebrow gold">CAPTAIN’S PLAYBOOK</span><h3>Build the over</h3><small>{preset.style==='spin'?'Spin':'Pace'} variations · six legal balls</small></header>
  <div className="play-options">{options.map(p=><button type="button" aria-pressed={preset.id===p.id} key={p.id} onClick={()=>{setChosen(p.id);setSlot(-1);}}><small>{p.phase}{phase===p.phase?' · This phase':''}</small><strong>{p.name}</strong></button>)}</div>
  <div className="play-preview"><svg viewBox="0 0 145 154" aria-label={'Pitch map, ball '+(focus+1)+': '+b.line+' line, '+b.length+' length'} role="img"><path d="M44 14H101L119 142H26Z" fill="#183337" stroke="#508282"/><path d="M39 28H108M24 127H120M70 26V133" stroke="#89bcb3" opacity=".5" strokeDasharray="3 3"/>{[66,70,74].map(n=><path key={n} d={`M${n} 22v-9`} stroke="#e9cd87" strokeWidth="2"/>)}<path key={preset.id+focus} className="play-trace" d={flight} pathLength="1" fill="none" stroke="#fbbf24" strokeWidth="2"/>{preset.balls.map((_,n)=>{const pt=point(n);return <circle key={n} cx={pt.x} cy={pt.y} r={n===focus?5:2.5} fill={n===focus?'#fbbf24':'#80aca8'}/>;})}<g key={preset.id+'-flight-'+focus} aria-hidden="true" className="delivery-flight"><circle r="4.5" fill="#fcf5da" stroke="#192438"/><path d="M-2 -3Q1 0 -2 3" fill="none" stroke="#9d6031"/><animateMotion dur=".8s" path={flight} rotate="auto" fill="freeze"/></g></svg>

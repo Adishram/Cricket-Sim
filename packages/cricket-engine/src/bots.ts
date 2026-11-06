@@ -1,3 +1,4 @@
+import {battingRole} from './batting-order';
 import type {Match,Cricketer,Tactics} from './index';
 import {bowlingKind} from './matchup';
 import {DEFAULT_BOWLING,type BowlingPlan} from './planning';
@@ -41,4 +42,4 @@ export function botTactics(m:Match,team:number):Tactics{const i=m.innings.at(-1)
  }).sort((a,b)=>a.cost-b.cost);
  return ranked[random({seed})<.18?1:0].candidate;
 }
-export function botBatterOrder(pool:Cricketer[],balls:number,wickets:number){return [...pool].sort((a,b)=>{const score=(p:Cricketer)=>p.batting+(balls>=90&&/all/i.test(p.role)?5:0)-(wickets<4&&/bowl/i.test(p.role)&&!/all/i.test(p.role)?8:0);return score(b)-score(a)||a.id.localeCompare(b.id);});}
+export function botBatterOrder(pool:Cricketer[],balls:number,wickets:number){return [...pool].sort((a,b)=>{const score=(p:Cricketer)=>(battingRole(p)===(balls<36?'opener':balls>=90?'finisher':'middle')?35:0)+p.batting+(balls>=90&&/all/i.test(p.role)?5:0)-(wickets<4&&/bowl/i.test(p.role)&&!/all/i.test(p.role)?8:0);return score(b)-score(a)||a.id.localeCompare(b.id);});}

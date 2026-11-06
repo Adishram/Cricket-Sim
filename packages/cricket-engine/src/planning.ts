@@ -21,6 +21,12 @@ export function phaseBowlerScore(p:Cricketer,over:number,pitch:Pitch){
 /** Search the entire innings, reserving phase specialists rather than spending their quotas early. */
 export function autoRotation(side:Side,pitch:Pitch){
  const pool=side.xi.filter(canBowl),key=JSON.stringify([pool.map(p=>[p.id,p.bowling,p.style,p.phases]),pitch]);const cached=rotationCache.get(key);if(cached)return [...cached];
+ const pace=pool.filter(p=>bowlingKind(p.style)==='pace').sort((a,b)=>phaseBowlerScore(b,0,pitch)+phaseBowlerScore(b,19,pitch)-phaseBowlerScore(a,0,pitch)-phaseBowlerScore(a,19,pitch));
+ const spinners=pool.filter(p=>bowlingKind(p.style)==='spin').sort((a,b)=>b.bowling-a.bowling);
+ if(pitch.spin>pitch.pace&&pace.length>=2&&spinners.length>=3){
+  const plan=[pace[0].id,pace[1].id,pace[0].id,pace[1].id,...Array.from({length:12},(_,n)=>spinners[n%3].id),pace[0].id,pace[1].id,pace[0].id,pace[1].id];
+  if(rotationCache.size>=128)rotationCache.delete(rotationCache.keys().next().value!);rotationCache.set(key,plan);return [...plan];
+ }
  type Candidate={plan:string[];used:number[];score:number};let beam:Candidate[]=[{plan:[],used:pool.map(()=>0),score:0}];
  // Allocate from the death backwards so late pace slots get first claim on scarce quotas.
  for(let over=19;over>=0;over--){const next=new Map<string,Candidate>(),remain=over;
