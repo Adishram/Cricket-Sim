@@ -1,0 +1,9 @@
+'use client';
+import {useState} from 'react';
+import {motion,useReducedMotion} from 'motion/react';
+import {callToss,chooseTossInnings,type Match} from '../../../packages/cricket-engine/src';
+export function TossStage({match,team,change,proceed}:{match:Match;team:number;proceed:()=>void;change:(fn:(m:Match)=>void)=>void}){
+ const reduced=useReducedMotion(),[flipping,setFlipping]=useState(false),t=match.tossDecision;
+ // Keep a bot's completed decision on screen until the coin lands.
+ return <section className="toss-stage"><span className="eyebrow gold">THE TOSS · {match.pitch.venue}</span><motion.div className="toss-coin" animate={{rotateY:flipping&&!reduced?1080:0,y:flipping&&!reduced?[0,-65,0]:0}} transition={{duration:reduced?0:1.4,ease:'easeInOut'}} onAnimationComplete={()=>setFlipping(false)}><span>{t&&!flipping?t.result==='heads'?'H':'T':'ATG'}</span><small>{t&&!flipping?t.result:'MATCHDAY'}</small></motion.div><h2>{flipping?'The coin is in the air…':!t?'Heads or tails?':t.winner===team?'You won the toss.':`${match.teams[t.winner].short} won the toss.`}</h2><p>{!t?'Make your call. Your XI comes next.':flipping?'':t.choice?`${match.teams[t.winner].short} choose to ${t.choice}. You will ${match.toss===team?'bat':'bowl'} first.`:'Take first use of the pitch, or chase with a target in sight.'}</p><div className="toss-actions">{!t?(['heads','tails'] as const).map(call=><button key={call} onClick={()=>{setFlipping(!reduced);change(m=>callToss(m,team,call));}}>{call}</button>):!flipping&&!t.choice&&(['bat','bowl'] as const).map(choice=><button key={choice} onClick={()=>change(m=>chooseTossInnings(m,team,choice))}>{choice} first</button>)}{t?.choice&&!flipping&&<button onClick={proceed}>Choose playing XI →</button>}</div><small>Local simulation · fair seeded coin · {match.pitch.name}</small></section>;
+}
