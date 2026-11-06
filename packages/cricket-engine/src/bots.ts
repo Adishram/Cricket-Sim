@@ -31,7 +31,7 @@ export function botTactics(m:Match,team:number):Tactics{const i=m.innings.at(-1)
   for(let trial=0;trial<6;trial++){
    // step writes innings and events. Stop before the innings break or another over;
    // disable bot callbacks so a trial can never recursively plan or make substitutions.
-   const probe:Match={...m,seed:seedFrom(seed+':'+trial),innings:structuredClone(m.innings),events:[],commands:[],botTeams:[],tactics:[...m.tactics]};
+   const probe:Match={...m,pendingReview:undefined,initial:{...m.initial,lbwV1:undefined},seed:seedFrom(seed+':'+trial),innings:structuredClone(m.innings),events:[],commands:[],botTeams:[],tactics:[...m.tactics]};
    probe.tactics[team]=candidate;
    const inn=probe.innings.at(-1)!;
    for(let ball=0;ball<3&&!inn.complete;ball++)step(probe);

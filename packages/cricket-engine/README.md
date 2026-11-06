@@ -18,3 +18,16 @@ Rules references: MCC Laws (https://www.lords.org/mcc/the-laws-of-cricket), IPL 
 - Pre-match role, XI, pitch, instruction and rotation changes update the frozen replay snapshot. Live commands retain their ordered event history. Old unfinished engine saves require a fresh match; completed old scorecards remain readable.
 
 The Match Centre requires plan confirmation before interactive play. Pure simulation can run automatically with the validated defaults, which supports bot fixtures and model trials without UI dependencies. No runtime LLM calls are used.
+
+
+## Captain studio and LBW reviews
+
+New matches enable `initial.lbwV1`. Existing saved matches keep their original delivery algorithm so historical replays remain reproducible. LBW paths are seeded gameplay estimates, not measured tracking or calibrated real-world LBW probabilities. The sampling considers delivery line, length and movement. It samples the pitch, pad impact and projected stump crossing once; requesting a review never rerolls the trajectory.
+
+Both on-field out and not-out calls can be reviewed by the appropriate captain. Pitching outside leg, an edge before the pad, ineligible impact or missing the wickets results in not out. Marginal impact/stump contact preserves the on-field call unless an earlier check clearly rules out LBW. Impact outside off is eligible when no shot was offered. Geometry is normalized to a half-wicket width and approximated ball radius; long-distance tracking uncertainty and full biomechanical flight are not modeled.
+
+Each team starts each innings with two reviews. A successful challenge or umpire's call retains the review; a failed challenge loses one. Accepting the on-field decision consumes none. No-balls and free hits cannot trigger an LBW dismissal or review. Review outcomes update the recorded ball, batter dismissal and bowler figures atomically. Review decisions are serialized in the command log. Bots and batch simulation choose using the visible pitch-to-pad path, never the hidden stump projection. Live play waits only for a human review decision; ordinary overs and wickets still continue.
+
+The UI shows an animated hand-to-pad path first and reveals the stump projection only after a committed review. Tracking is original simulation artwork. The core checks follow the [ICC DRS protocol](https://www.icc-cricket.com/news/mens-test-match-appendix-d-decision-review-system-drs-and-third-umpire-protocol-3-player-review); the two-review limit is the game's requested T20 rule.
+
+Scheduled over calls can include exactly six validated `BowlingPlan` entries. Illegal deliveries repeat the current slot, with release settings inherited from the bowler's plan. Batting blueprint cards write the existing individual aggression and style instructions; adaptive intent can be restored. Neither a bowling setup nor a batting blueprint guarantees an outcome.

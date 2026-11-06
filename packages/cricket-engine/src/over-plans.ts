@@ -17,9 +17,9 @@ export const playbook=[
  {id:'squeeze',style:'spin',phase:'Middle overs',name:'Draw the drive',aim:'Slide into the stumps to build dots. Float the fourth ball fuller: grip and pressure help, but the batter can hit over the ring.',strike:3,balls:[skid,stock,skid,toss,bounce,stock],sample:'Ravindra Jadeja & Varun Chakravarthy · 576 dots in 1,729 legal middle-over balls.'},
  {id:'bounce',style:'spin',phase:'Middle overs',name:'Change the bounce',aim:'Alternate a flat trajectory with overspin, then offer flight. The slower ball gives the batter time if it misses its length.',strike:4,balls:[stock,bounce,skid,stock,toss,bounce],sample:'Ravindra Jadeja & Varun Chakravarthy · 243 boundaries and 82 bowler wickets in 1,729 legal middle-over balls.'}
 ] as const;
-export type OverCall={id:string;innings:number;over:number};
+export type OverCall={id:string;innings:number;over:number;balls?:BowlingPlan[]};
 export function presetFor(style:string,id:string){return playbook.find(x=>x.id===id&&x.style===bowlingKind(style));}
 export function deliveryFor(style:string,call:OverCall|undefined,innings:number,legalBalls:number,fallback:BowlingPlan):BowlingPlan{
- const selected=call&&call.innings===innings&&call.over===Math.floor(legalBalls/6)?presetFor(style,call.id)?.balls[legalBalls%6]??fallback:fallback;
+ const selected=call&&call.innings===innings&&call.over===Math.floor(legalBalls/6)?(call.balls??presetFor(style,call.id)?.balls)?.[legalBalls%6]??fallback:fallback;
  return selected===fallback?fallback:{...fallback,...selected};
 }

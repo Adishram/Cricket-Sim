@@ -1,15 +1,18 @@
+import {captainReviews} from './lbw';
+import {resolveLbwReview,type Match} from './index';
 import {battingMatchups,estimateSplit} from './matchup';
 import {describe,it,expect} from 'vitest';
 import {createMatch,simulate,probabilities,step,current,eligibleBowlers,chooseBowler,impact,setTactics,replay,PITCHES} from './index';
 import {demoTeams,generateSquads,makeSide,createCampaign,simulateFixture,standings,recordResult,leaders} from '../../league-engine/src';
 import {createSolo,skipLot,humanBid} from '../../auction-engine/src/solo';
 const match=(seed=123)=>createMatch(demoTeams(),PITCHES[0],seed);
+const advance=(m:Match)=>{const a=m.pendingReview;if(a)resolveLbwReview(m,a.reviewTeam,captainReviews(a)&&(current(m).reviews?.[a.reviewTeam]??2)>0?'review':'accept');else step(m);};
 describe('deterministic cricket engine',()=>{
  it('creates the requested legal GT demo XI',()=>{const [gt,srh]=demoTeams();expect(gt.xi).toHaveLength(11);expect(gt.xi.filter(p=>p.overseas)).toHaveLength(4);expect(gt.xi.find(p=>p.id===gt.captain)?.name).toBe('Jason Holder');expect(gt.xi.find(p=>p.id===gt.keeper)?.name).toBe('Dhruv Jurel');expect(new Set([...gt.xi,...gt.bench,...srh.xi,...srh.bench].map(p=>p.id)).size).toBe(gt.xi.length+gt.bench.length+srh.xi.length+srh.bench.length);});
- it('live stepping and quick simulation produce identical results and replay',()=>{const quick=simulate(match()),live=match();while(live.status!=='complete')step(live);expect(live).toEqual(quick);expect(replay(live).events).toEqual(live.events);});
+ it('live stepping and quick simulation produce identical results and replay',()=>{const quick=simulate(match()),live=match();while(live.status!=='complete')advance(live);expect(live).toEqual(quick);expect(replay(live).events).toEqual(live.events);});
  it('honours event sequence idempotency and replays tactics',()=>{const m=match();step(m,0);step(m,0);expect(m.events).toHaveLength(1);setTactics(m,current(m).team,{aggression:4});simulate(m);expect(replay(m).events).toEqual(m.events);});
  it('conserves scores, wickets, extras, balls and bowling quotas across seeds',()=>{for(let seed=1;seed<=40;seed++){const m=simulate(match(seed));expect(m.winner).not.toBeNull();for(const [n,i] of m.innings.entries()){const events=m.events.filter(e=>e.innings===n);expect(events.reduce((a,b)=>a+b.runs,0)).toBe(i.score);expect(events.filter(e=>e.legal).length).toBe(i.balls);expect(i.batting.reduce((a,b)=>a+b.runs,0)+Object.values(i.extras).reduce((a,b)=>a+b,0)).toBe(i.score);expect(i.bowling.reduce((a,b)=>a+b.runs,0)+i.extras.bye+i.extras.legBye).toBe(i.score);expect(events.filter(e=>e.wicket)).toHaveLength(i.wickets);expect(i.bowling.reduce((a,b)=>a+b.balls,0)).toBe(i.balls);for(const b of i.bowling)expect(b.balls).toBeLessThanOrEqual(i.maxBalls===6?6:24);const overs=new Map<number,string>();for(const e of events){const o=+e.ball.split('.')[0];expect(overs.get(o)??e.bowler).toBe(e.bowler);overs.set(o,e.bowler);}for(const [o,b] of overs)expect(overs.get(o-1)).not.toBe(b);}}});
- it('prevents quota and consecutive over selection',()=>{const m=match();const bowler=eligibleBowlers(m)[0];chooseBowler(m,bowler.id);while(current(m).balls<6)step(m);expect(()=>chooseBowler(m,bowler.id)).toThrow();});
+ it('prevents quota and consecutive over selection',()=>{const m=match();const bowler=eligibleBowlers(m)[0];chooseBowler(m,bowler.id);while(current(m).balls<6)advance(m);expect(()=>chooseBowler(m,bowler.id)).toThrow();});
  it('rejects illegal overseas Impact and repeated substitutions',()=>{const m=match();const gt=m.teams[0],miller=gt.bench.find(p=>p.name==='David Miller')!;expect(()=>impact(m,0,gt.xi[0].id,miller.id)).toThrow('Overseas');const sai=gt.xi.find(p=>p.name.includes('Kishore'))!,iyer=gt.bench.find(p=>p.name==='Manav Suthar')!;impact(m,0,sai.id,iyer.id);expect(()=>impact(m,0,gt.xi[0].id,gt.bench[0].id)).toThrow('already used');});
 });
 describe('campaign and solo managers',()=>{
